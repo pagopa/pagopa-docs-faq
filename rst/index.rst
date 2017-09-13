@@ -12,49 +12,33 @@ delle somme incassate dal cittadino
 identifica univocamente il pagamento all’interno di una Pubblica
 Amministrazione
 
-**RPT**: Richiesta Pagamento Telematica ovvero l’insieme dei dati che
-riguardano il pagamento (es. importo, ente creditore, iuv, etc.)
+**RPT**: Richiesta Pagamento Telematica ovvero l’insieme dei dati che riguardano il pagamento (es. importo, ente creditore, iuv, etc.)
 
-**RT**: Ricevuta Telematica ovvero il messaggio che riporta all’ente
-creditore l’esito del pagamento.
+**RT**: Ricevuta Telematica ovvero il messaggio che riporta all’ente creditore l’esito del pagamento.
 
-**Quietanza di pagamento**: documento che l’ente creditore mette a
-disposizione del cittadino in seguito alla ricevuta telematica
-fornitagli da pagoPA.
+**Quietanza di pagamento**: documento che l’ente creditore mette a disposizione del cittadino in seguito alla ricevuta telematica fornitagli da pagoPA.
 
 **PA**: Pubblica Amministrazione (es. comune, regione, ministero, etc.)
 
-**EC**: Ente Creditore che di solito è una pubblica amministrazione ma
-potrebbe essere ad esempio un gestore privato di Pubblici Servizi (es.
-mobilità, rifiuti, etc.)
+**EC**: Ente Creditore che di solito è una pubblica amministrazione ma potrebbe essere ad esempio un gestore privato di Pubblici Servizi (es. mobilità, rifiuti, etc.)
 
-**CBILL**: Acronimo commerciale di ABI (Associazione Bancaria Italiana)
-che identifica la piattaforma di incasso delle banche disponibile anche
-alla Pubblica Amministrazione. CBILL è fruibile da Home Banking o ATM ed
-è integrato a pagoPA.
+**CBILL**: Acronimo commerciale di ABI (Associazione Bancaria Italiana) che identifica la piattaforma di incasso delle banche disponibile anche alla Pubblica Amministrazione. CBILL è fruibile da Home Banking o ATM ed è integrato a pagoPA.
 
 **ATM**: Sportello Bancomat
 
-**SURCHARGE**: sovrapprezzo applicato sul tributo che ha lo scopo di
-coprire i costi di incasso
+**SURCHARGE**: sovrapprezzo applicato sul tributo che ha lo scopo di coprire i costi di incasso
 
 **D.L.**: Decreto Legge
 
-**Multicanalità**: possibilità di pagare attraverso diversi strumenti
-(carta di credito, conto corrente, bollettino postale, etc. ) e canali
-(smartphone, web, ATM, punto fisico sul territorio, etc.)
+**Multicanalità**: possibilità di pagare attraverso diversi strumenti (carta di credito, conto corrente, bollettino postale, etc. ) e canali (smartphone, web, ATM, punto fisico sul territorio, etc.)
 
-**CVV**: Card Verification Value codice di tre o quattro cifre inserito
-sul retro (VISA, Mastercard) o sul frontespizio della carta (Amex)
+**CVV**: Card Verification Value codice di tre o quattro cifre inserito sul retro (VISA, Mastercard) o sul frontespizio della carta (Amex)
 
 **CAD**: Codice Amministrazione Digitale
 
-**SEPA**: Single Euro Payments Area - Area unica dei pagamenti in euro
-ovvero norme e processi per i pagamenti validi per i paesi dell’Unione
-Europea
+**SEPA**: Single Euro Payments Area - Area unica dei pagamenti in euro ovvero norme e processi per i pagamenti validi per i paesi dell’Unione Europea
 
-**PSD**: Payment Services Directive ovvero l’insieme di norme e
-direttive alle quali devono sottostare i sistemi di pagamento
+**PSD**: Payment Services Directive ovvero l’insieme di norme e direttive alle quali devono sottostare i sistemi di pagamento
 
 **PSD2**: Nuova versione della PSD. In recepimento da Banca D’Italia
 
@@ -109,11 +93,7 @@ Pagamento** (PSP), ovvero:
 [enti/utenti] Quali sono i vantaggi di pagoPA per i cittadini?
 ---------------------------------------------------------------
 
-Il principale vantaggio di utilizzare il sistema pagoPA è quello di
-affidarsi ad **un sistema unico di pagamento, semplice, rapido e
-trasparente** (certezza dei costi di commissione, chiarezza degli
-importi, ecc.), per effettuare qualsiasi tipo di pagamento verso la
-Pubblica Amministrazione. In particolare:
+Il principale vantaggio di utilizzare il sistema pagoPA è quello di affidarsi ad **un sistema unico di pagamento, semplice, rapido e trasparente** (certezza dei costi di commissione, chiarezza degli importi, ecc.), per effettuare qualsiasi tipo di pagamento verso la Pubblica Amministrazione. In particolare:
 
 -  multicanalità integrata a livello nazionale con trasparenza dei costi delle commissioni
 
@@ -166,14 +146,11 @@ che ne consentono l’incasso, non percepiscano costi di servizio. In
 questo caso è l’Agenzia delle Entrate che corrisponde alle banche 85
 centesimi per ogni F24 pagato in via telematica e più di 1 euro per ogni
 F24 pagato allo sportello bancario\ *,* **per quasi un miliardo di euro
-l’anno** (dati dell’\ `*Osservatorio
-eGovernment* <https://www.osservatori.net/it_it/osservatori/osservatori/egovernment>`__).
+l’anno** (dati dell’\ `*Osservatorio eGovernment* <https://www.osservatori.net/it_it/osservatori/osservatori/egovernment>`__).
 Questi sono costi di sistema che gravano sul cittadino, anche se in modo
 indiretto.
 
-Questa tabella mostra alcuni esempi di come cambiano i costi di
-commissione per il pagamento di un tributo prima e dopo l’introduzione
-di pagoPA:
+Questa tabella mostra alcuni esempi di come cambiano i costi di commissione per il pagamento di un tributo prima e dopo l’introduzione di pagoPA:
 
 +--------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ***Canali di pagamento***                        | ***Commissioni prima di pagoPA***                                                                                                                      | ***con pagoPA***                                                                                                                                                                                                                                                                                                                                | ***Note***                                                                                                                                              |
@@ -603,8 +580,7 @@ amministrazioni e dei gestori di pubblici servizi”.
 [utente] La mia banca non supporta pagoPA, cosa posso fare?
 -----------------------------------------------------------
 
-**Quasi tutti gli istituti di credito** che operano sul territorio
-nazionale supportano il sistema pagoPA
+**Quasi tutti gli istituti di credito** che operano sul territorio nazionale supportano il sistema pagoPA
 
 `*Elenco dei Prestatori di Servizi a Pagamento (PSP) aderenti a
 pagoPA* <http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici/psp-aderenti-elenco>`__
@@ -617,8 +593,6 @@ attraverso il sistema pagoPA **attraverso gli altri canali**, ovvero:
 -  Presso i punti vendita di **SISAL, Lottomatica e ITB**
 
 -  Presso le **Poste**, se il canale è attivato dalla Pubblica Amministrazione che ha inviato l'avviso
-
-.
 
 [utente] Qual è il livello di sicurezza dei pagamenti che avvengono su pagoPA?
 ------------------------------------------------------------------------------
@@ -655,21 +629,14 @@ gestiti da pagoPA.
 [utenti/enti] Quanti sono i PSP aderenti a pagoPA?
 --------------------------------------------------
 
-Al 30 agosto 2017 i servizi di pagamento aderenti erano 394. Sul sito di
-Agid è possibile consultare l’\ `*elenco dei Prestatori di Servizi a
-Pagamento (PSP) aderenti a
-pagoPA* <http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici/psp-aderenti-elenco>`__.
+Al 30 agosto 2017 i servizi di pagamento aderenti erano 394. Sul sito di Agid è possibile consultare l’\ `*elenco dei Prestatori di Servizi a Pagamento (PSP) aderenti a pagoPA* <http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici/psp-aderenti-elenco>`__.
 
 [utente/ente] Con pagoPA posso anche riscuotere crediti verso la pubblica amministrazione?
 ------------------------------------------------------------------------------------------
 
-No, il sistema pagoPA permette solo pagamenti verso la Pubblica
-Amministrazione.
+No, il sistema pagoPA permette solo pagamenti verso la Pubblica Amministrazione.
 
 [utente/ente] Anche gli ordini professionali possono aderire a pagoPA?
 ----------------------------------------------------------------------
 
-Sì. Gli ordini professionali, come altri enti privati che erogano
-servizi, possono aderire su base volontaria e in modo gratuito al
-sistema pagoPA, facendone richiesta nell’apposito `***Portale delle
-Adesioni*** <https://portal.pagopa.gov.it/pda-fa-portal/login>`__.
+Sì. Gli ordini professionali, come altri enti privati che erogano servizi, possono aderire su base volontaria e in modo gratuito al sistema pagoPA, facendone richiesta nell’apposito `***Portale delle Adesioni*** <https://portal.pagopa.gov.it/pda-fa-portal/login>`__.
