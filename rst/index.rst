@@ -145,10 +145,7 @@ utilizza per pagare un tributo, ma questo non significa che le banche,
 che ne consentono l’incasso, non percepiscano costi di servizio. In
 questo caso è l’Agenzia delle Entrate che corrisponde alle banche 85
 centesimi per ogni F24 pagato in via telematica e più di 1 euro per ogni
-F24 pagato allo sportello bancario\ *,* **per quasi un miliardo di euro
-l’anno** (dati dell’\ *`Osservatorio eGovernment <https://www.osservatori.net/it_it/osservatori/osservatori/egovernment>`__).*
-Questi sono costi di sistema che gravano sul cittadino, anche se in modo
-indiretto.
+F24 pagato allo sportello bancario\ *,* **per quasi un miliardo di euro l’anno** (dati dell’\ `*Osservatorio eGovernment* <https://www.osservatori.net/it_it/osservatori/osservatori/egovernment>`__). Questi sono costi di sistema che gravano sul cittadino, anche se in modo indiretto.
 
 Questa tabella mostra alcuni esempi di come cambiano i costi di commissione per il pagamento di un tributo prima e dopo l’introduzione di pagoPA:
 
@@ -582,7 +579,7 @@ amministrazioni e dei gestori di pubblici servizi”.
 
 **Quasi tutti gli istituti di credito** che operano sul territorio nazionale supportano il sistema pagoPA
 
-*`Elenco dei Prestatori di Servizi a Pagamento (PSP) aderenti a pagoPA <http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici/psp-aderenti-elenco>`__*
+`*Elenco dei Prestatori di Servizi a Pagamento (PSP) aderenti a pagoPA* <http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici/psp-aderenti-elenco>`__
 
 Se la tuaBanca non aderisce al sistema pagoPA potrai comunque pagare attraverso il sistema pagoPA **attraverso gli altri canali**, ovvero:
 
@@ -623,7 +620,7 @@ gestiti da pagoPA.
 [utenti/enti] Quanti sono i PSP aderenti a pagoPA?
 --------------------------------------------------
 
-Al 30 agosto 2017 i servizi di pagamento aderenti erano 394. Sul sito di Agid è possibile consultare l’\ *`elenco dei Prestatori di Servizi a Pagamento (PSP) aderenti a pagoPA <http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici/psp-aderenti-elenco>`__.*
+Al 30 agosto 2017 i servizi di pagamento aderenti erano 394. Sul sito di Agid è possibile consultare l’\ `*elenco dei Prestatori di Servizi a Pagamento (PSP) aderenti a pagoPA* <http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici/psp-aderenti-elenco>`__.
 
 [utente/ente] Con pagoPA posso anche riscuotere crediti verso la pubblica amministrazione?
 ------------------------------------------------------------------------------------------
@@ -633,4 +630,4 @@ No, il sistema pagoPA permette solo pagamenti verso la Pubblica Amministrazione.
 [utente/ente] Anche gli ordini professionali possono aderire a pagoPA?
 ----------------------------------------------------------------------
 
-Sì. Gli ordini professionali, come altri enti privati che erogano servizi, possono aderire su base volontaria e in modo gratuito al sistema pagoPA, facendone richiesta nell’apposito ***`Portale delle Adesioni <https://portal.pagopa.gov.it/pda-fa-portal/login>`__.***
+Sì. Gli ordini professionali, come altri enti privati che erogano servizi, possono aderire su base volontaria e in modo gratuito al sistema pagoPA, facendone richiesta nell’apposito `***Portale delle Adesioni*** <https://portal.pagopa.gov.it/pda-fa-portal/login>`__.
