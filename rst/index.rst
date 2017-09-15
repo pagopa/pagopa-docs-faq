@@ -1,16 +1,12 @@
-FAQ pagoPA
-==========
+FAQ pagoPA (BOZZA)
+==================
 
 Glossario
 ---------
 
-**PSP**: Prestatore Servizi di Pagamento ovvero il soggetto che eroga il
-servizio di pagamento e effettua verso l’ente creditore il versamento
-delle somme incassate dal cittadino
+**PSP**: Prestatore Servizi di Pagamento ovvero il soggetto che eroga il servizio di pagamento e effettua verso l’ente creditore il versamento delle somme incassate dal cittadino
 
-**IUV**: Identificativo Univoco Versamento ovvero il codice che
-identifica univocamente il pagamento all’interno di una Pubblica
-Amministrazione
+**IUV**: Identificativo Univoco Versamento ovvero il codice che identifica univocamente il pagamento all’interno di una Pubblica Amministrazione
 
 **RPT**: Richiesta Pagamento Telematica ovvero l’insieme dei dati che riguardano il pagamento (es. importo, ente creditore, iuv, etc.)
 
