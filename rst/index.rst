@@ -123,8 +123,8 @@ Il cittadino non ha costi di servizio quando lo usa perchè lo stato paga queste
 Allo stesso modo, alcuni fornitori di servizi di pagamento online, prima dell’avvento di PagoPA hanno offerto alle pubbliche amministrazioni dei servizi con assorbimento dei costi di commissione.
 
 Il modello di PagoPA al fine di consentire a tutti i sistemi di pagamento digitali di accreditarsi e nel rispetto della normative Europea PSD2, 
-espone, come descritto in questa tabella <http://pagopa-docs-faq.readthedocs.io/it/latest/#utenti-perche-con-pagopa-sembra-di-pagare-di-piu>`__, diversi costi di commissione consentendo al cittadino la scelta. Con la sempre maggiore diffusione 
-<https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm>`__ di PagoPA, il mercato si regolerà al ribasso, Ovviamente, il nostro compito è quello di monitorare la situazione, 
+espone, come descritto in [Tabella 1](http://pagopa-docs-faq.readthedocs.io/it/latest/#utenti-perche-con-pagopa-sembra-di-pagare-di-piu>), diversi costi di commissione consentendo al cittadino la scelta. 
+Con la sempre maggiore diffusione di [PagoPA] (https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm), il mercato si regolerà al ribasso, Ovviamente, il nostro compito è quello di monitorare la situazione, 
 e siamo già attivi da questo punto di vista, discutendo con i vari fornitori di una logica di ribasso prezzi nel tempo.
 
 
