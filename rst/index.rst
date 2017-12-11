@@ -117,6 +117,7 @@ gestione.
 [enti/utenti] Perchè devo pagare le commissioni?
 ------------------------------------------------
 
+<<<<<<< HEAD
 In linea generale, lo Stato non può per legge farsi carico dei costi di transazione di incasso di un tributo.
 Anche oggi in molti casi il cittadino paga dei costi di commissione quando paga un tributo. Lo strumento più diffuso per il pagamento dei tributi è l'F24. 
 Il cittadino non ha costi di servizio quando lo usa perchè lo stato paga queste commissioni alle banche facendosi carico di un costo di sistema. 
@@ -127,6 +128,14 @@ espone, come descritto in questa tabella <http://pagopa-docs-faq.readthedocs.io/
 <https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm>`__ di PagoPA, il mercato si regolerà al ribasso, Ovviamente, il nostro compito è quello di monitorare la situazione, 
 e siamo già attivi da questo punto di vista, discutendo con i vari fornitori di una logica di ribasso prezzi nel tempo.
 
+=======
+Le commissioni per la gestione del pagamento sono causate da alcuni
+costi di servizio che i PSP sostengono per garantire un servizio di
+qualità: ad esempio la continuità di erogazione h24x365, i tempi di
+esecuzione delle transazione che devono essere molto bassi, costi dei
+circuiti internazionali nel caso di pagamento con carta di credito,
+sicurezza e servizi anti-frode, affidabilità dell'infrastruttura, etc.
+>>>>>>> 36dac3763698f9bbe054d76319bbb858a167d989
 
 [utenti] Perchè con pagoPA sembra di pagare di più?
 ---------------------------------------------------
