@@ -1,2 +1,2 @@
-# pagopa-doc-faq
+# pagopa-docs-faq
 PagoPA Documentation - FAQ
