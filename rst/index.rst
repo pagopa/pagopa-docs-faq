@@ -23,7 +23,7 @@ Glossario
 
 **EC**: Ente Creditore che di solito è una pubblica amministrazione ma potrebbe essere ad esempio un gestore privato di Pubblici Servizi (es. mobilità, rifiuti, etc.)
 
-**CBILL**: É il servizio, integrato a PagoPA, messo a disposizione dale banche alla Pubblica Amministrazione con cui far visualizzare e pagare ai cittadini gli avvisi di pagamento tramite home banking, mobile bankinge e ATM.
+**CBILL**: È il servizio, integrato a PagoPA, messo a disposizione dale banche alla Pubblica Amministrazione con cui far visualizzare e pagare ai cittadini gli avvisi di pagamento tramite home banking, mobile bankinge e ATM.
 
 **ATM**: Sportello Bancomat
 
@@ -513,7 +513,7 @@ caso della TARI).
 [utenti] Se scelgo di pagare a rate mi arriverà un avviso alla scadenza di ogni rata?
 -------------------------------------------------------------------------------------
 
-No. Mi arriverà un solo avviso che contiene tutte le rate. E' a carico
+No. Mi arriverà un solo avviso che contiene tutte le rate. È a carico
 del cittadino provvedere al pagamento delle singole rate.
 
 [enti] Quali sono i modelli di pagamento previsti?
@@ -611,7 +611,7 @@ Tutti i costi applicati dai PSP **sono espressi chiaramente e in modo trasparent
 [utente] Che differenza c'è tra CIBLL e pagoPA?
 -----------------------------------------------
 
-E' il servizio, integrato a PagoPA, messo a disposizione dale banche alla Pubblica Amministrazione con cui far visualizzare e pagare ai cittadini gli avvisi di pagamento tramite home banking, mobile bankinge e ATM. E' pertanto possibile pagare gli avvisi di pagamento PagoPA, che espongono CBILL, inserendo il codice avviso lungo 18 caratteri.
+È il servizio, integrato a PagoPA, messo a disposizione dale banche alla Pubblica Amministrazione con cui far visualizzare e pagare ai cittadini gli avvisi di pagamento tramite home banking, mobile bankinge e ATM. E' pertanto possibile pagare gli avvisi di pagamento PagoPA, che espongono CBILL, inserendo il codice avviso lungo 18 caratteri.
 
 [utenti/enti] Quanti sono i PSP aderenti a pagoPA?
 --------------------------------------------------
