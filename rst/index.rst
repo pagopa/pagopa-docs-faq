@@ -23,7 +23,7 @@ Glossario
 
 **EC**: Ente Creditore che di solito è una pubblica amministrazione ma potrebbe essere ad esempio un gestore privato di Pubblici Servizi (es. mobilità, rifiuti, etc.)
 
-**CBILL**: E' il servizio, integrato a PagoPA, messo a disposizione dale banche alla Pubblica Amministrazione con cui far visualizzare e pagare ai cittadini gli avvisi di pagamento tramite home banking, mobile bankinge e ATM.
+**CBILL**: É il servizio, integrato a PagoPA, messo a disposizione dale banche alla Pubblica Amministrazione con cui far visualizzare e pagare ai cittadini gli avvisi di pagamento tramite home banking, mobile bankinge e ATM.
 
 **ATM**: Sportello Bancomat
 
