@@ -23,7 +23,7 @@ Glossario
 
 **EC**: Ente Creditore che di solito è una pubblica amministrazione ma potrebbe essere ad esempio un gestore privato di Pubblici Servizi (es. mobilità, rifiuti, etc.)
 
-**CBILL**: Acronimo commerciale di ABI (Associazione Bancaria Italiana) che identifica la piattaforma di incasso delle banche disponibile anche alla Pubblica Amministrazione. CBILL è fruibile da Home Banking o ATM ed è integrato a pagoPA.
+**CBILL**: E' il servizio, integrato a PagoPA, messo a disposizione dale banche alla Pubblica Amministrazione con cui far visualizzare e pagare ai cittadini gli avvisi di pagamento tramite home banking, mobile bankinge e ATM.
 
 **ATM**: Sportello Bancomat
 
@@ -525,7 +525,7 @@ I modelli di pagamento previsti dal Nodo sono:
 
 -  Modello 2: pagamento differito rispetto all'erogazione del servizio da parte della PA tramite il suo portale (incasso pre-autorizzato)
 
--  Modello 3: pagamento eseguito tramite il canale del prestatore del servizio di pagamento prescelto (tipicamente canale fisico - Uffici Postali, Ricevitorie, Tabaccherie, ATM Bancomat, etc..)
+-  Modello 3: pagamento eseguito tramite il canale del prestatore del servizio di pagamento prescelto (canale home banking, CBILL, canale fisico - Uffici Postali, Ricevitorie, Tabaccherie, ATM Bancomat, etc..)
 
 Per la descrizione dettagliata dei modelli di pagamento si rimanda alla
 documentazione disponibile sul sito dell'Agenzia. Si precisa che, a
@@ -611,13 +611,7 @@ Tutti i costi applicati dai PSP **sono espressi chiaramente e in modo trasparent
 [utente] Che differenza c'è tra CIBLL e pagoPA?
 -----------------------------------------------
 
-CBILL è l'acronimo commerciale di ABI (Associazione Bancaria Italiana)
-che identifica la piattaforma di pagamento delle banche disponibile
-anche per la Pubblica Amministrazione. La piattaforma di pagamento CBILL
-si può utilizzare attraverso l'Home Banking o gli ATM ed è integrata a
-pagoPA, nel senso che tutti i pagamenti effettuati attraverso CBILL
-utilizzando un codice identificativo del sistema pagoPA (IUV) sono
-gestiti da pagoPA.
+E' il servizio, integrato a PagoPA, messo a disposizione dale banche alla Pubblica Amministrazione con cui far visualizzare e pagare ai cittadini gli avvisi di pagamento tramite home banking, mobile bankinge e ATM. E' pertanto possibile pagare gli avvisi di pagamento PagoPA, che espongono CBILL, inserendo il codice avviso lungo 18 caratteri.
 
 [utenti/enti] Quanti sono i PSP aderenti a pagoPA?
 --------------------------------------------------
