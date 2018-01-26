@@ -626,7 +626,24 @@ No, il sistema pagoPA permette solo pagamenti verso la Pubblica Amministrazione.
 [utente/ente] Anche gli ordini professionali possono aderire a pagoPA?
 ----------------------------------------------------------------------
 
-Sì. Gli ordini professionali, come altri enti privati che erogano servizi, possono aderire su base volontaria e in modo gratuito al sistema pagoPA, facendone richiesta nell'apposito `Portale delle Adesioni <https://portal.pagopa.gov.it/pda-fa-portal/login>`__.
+Per potere validamente rispondere a tale quesito, appare doveroso premettere che nel nostro
+ordinamento può creare qualche dubbio interpretativo individuare la natura giuridica degli ordini
+professionali.
+Infatti, se da un lato gli Ordini sono riconosciuti dal legislatore come veri e propri enti pubblici non
+economici, in quanto idonei ad adottare atti incidenti sulla sfera giuridica altrui, dall’altro, essi
+continuano ad essere conformati come enti esponenziali di ciascuna delle categorie professionali
+interessate, e quindi come organizzazioni proprie di determinati appartenenti all’ordinamento
+giuridico generale.
+Pertanto, in generale, è necessario effettuare una valutazione caso per caso, facendo prevalere i
+profili privatistici ovvero quelli pubblicistici a seconda della ratio della normativa per la quale ci si
+chiede se debba o meno essere applicata agli ordini professionali.
+Nel caso specifico dell’applicazione dell’articolo 5 del CAD e, dunque, dell’adesione al Sistema
+pagoPA, appare opportuno ricordare che tale obbligo, ai sensi dell’art. 2, comma 2, del CAD
+riguarda anche gli enti pubblici non economici e, addirittura, i gestori di pubblici servizi e le società
+a controllo pubblico.
+Precisato quanto appena esposto, si rappresenta che gli ordini professionali sono, quindi, obbligati
+ad aderire al Sistema pagoPA per consentire ai loro pagatori di beneficiare delle funzionalità di
+pagamento elettronico offerte dal sistema.
 
 
 .. [1]
