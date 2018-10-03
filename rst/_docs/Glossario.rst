@@ -1,5 +1,5 @@
-FAQ del servizio pagoPA
-=======================
+FAQ di pagoPA
+==============
 
 Glossario
 ---------
