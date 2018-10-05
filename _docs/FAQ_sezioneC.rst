@@ -110,7 +110,7 @@
     assume ogni responsabilità per quanto comunicato, in nome e per conto dell’Ente Creditore di riferimento, sul Portale pagoPA.
 
     Fatta la precisazione appena esposta, si rappresenta che, tenute nella debita considerazione il ruolo e le funzioni del Referente dei Pagamenti,     AgID consente, previa sottoscrizione della `specifica
-    dichiarazione <http://www.agid.gov.it/sites/default/files/documentazione/dichiarazione_ente_per_censimento_iban_tramite_altro_ec.doc>`__ e previa    verifica della fattibilità da parte della stessa AgID, a un Ente Creditore di censire anche IBAN inerenti dei conti correnti a lui non intestati.
+    dichiarazione <https://www.agid.gov.it/sites/default/files/repository_files/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`__ e previa    verifica della fattibilità da parte della stessa AgID, a un Ente Creditore di censire anche IBAN inerenti dei conti correnti a lui non intestati.
 
     Tali IBAN devono però essere di soggetti terzi che, comunque, hanno un rapporto in essere con l’Ente Creditore per l’erogazione di specifici servizi     e, al contempo, abbiano in essere, altresì, un collegamento telematico che, ancorché fuori dal Sistema pagoPA, consenta al soggetto terzo di       ricevere i flussi informativi scambiati sul Sistema pagoPA.
 
