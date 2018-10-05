@@ -1,5 +1,10 @@
-Glossario del sistema pagoPA
-============================
+
++-------------+
+| |AGID_logo| |
++-------------+
+
+**Glossario del sistema pagoPA**
+================================
 
 **PSP:** Prestatore Servizi di Pagamento ovvero il soggetto che eroga il servizio di pagamento e effettua verso l’Ente Creditore il versamento delle
 somme incassate dal cittadino.
@@ -42,3 +47,9 @@ carta.
 sistemi di pagamento.
 
 **PSD2:** la nuova versione della PSD, già recepita a livello nazionale.
+
+
+
+.. |AGID_logo| image:: media/header.png
+   :width: 5.90551in
+   :height: 1.30277in

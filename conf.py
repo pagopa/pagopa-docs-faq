@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Specifiche Attuative del Nodo dei Pagamenti-SPC"
+settings_project_name = 'PagoPA Domande frequenti'
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'pagopa-specifichepagamenti-docs'
-settings_file_name = 'pagopa-specifichepagamenti-docs'
+settings_basename = 'pagopa-docs-faq'
+settings_file_name = 'pagopa-docs-faq'
 
 # -- No need to change below here
 

@@ -1,4 +1,10 @@
-**GRUPPO C – FAQ SULL’ADESIONE DEGLI ENTI CREDITORI**
+
++-------------+
+| |AGID_logo| |
++-------------+
+
+**Gruppo C - Domande frequenti sull'adesione degli Enti Creditori**
+===================================================================
 
 ..
 
@@ -33,12 +39,12 @@
     Il codice IUV è un elemento strutturale dell’intero sistema pagoPA, non solo per la sua capacità di richiamane l’IBAN di accredito
     selezionato dall’Ente Creditore per quella specifica operazione di pagamento, ma soprattutto perché consente all’utente di eseguire il pagamento     presso i PSP aderenti al Nodo (c.d. modello 3: pagamenti eseguiti presso il PSP) e altresì consente all’Ente Creditore di eseguire una     riconciliazione immediata, analitica e automatica. Pertanto, è essenziale che un Ente Creditore lavori nel migliore dei modi nella generazione dello     IUV per beneficiare in proprio e permettere ai PSP e agli utenti di beneficiare ti tutte le funzionalità del sistema pagoPA. Ciò detto, si ricorda  che per:
 
-    - il modello 1 (pagamento ad esecuzione immediata) e per il modello 2 (pagamento ad esecuzione differita) lo IUV può essere rappresentato da una stringa alfanumerica lunga sino ad un massimo di 35 caratteri alfanumerici tutti liberi, fermo restando l’uso consigliato dello standard ISO 11649;    
-    
+    - il modello 1 (pagamento ad esecuzione immediata) e per il modello 2 (pagamento ad esecuzione differita) lo IUV può essere rappresentato da una stringa alfanumerica lunga sino ad un massimo di 35 caratteri alfanumerici tutti liberi, fermo restando l’uso consigliato dello standard ISO 11649;
+
     - il modello 3 (pagamento presso il PSP), lo IUV è ricompreso all'interno del Codice Avviso, per un massimo di 18 caratteri numerici, secondo uno dei due seguenti schemi:
-    
+
         + “0” + 2 caratteri numerici + IUV di massimo 15 caratteri numerici;
-    
+
         + “1” + IUV di massimo 17 caratteri numerici.
 
     Fermo restando quanto appena detto in merito ai caratteri dello IUV, si rappresenta la necessità di tenere nella debita considerazione il fatto che,     se si consente ad un utente di accedere al sito dell’Ente Creditore secondo il Modello 1 o 2 e di stampare l’avviso di pagamento senza eseguire on     line la relativa operazione di pagamento, tale avviso non potrà essere pagato secondo il Modello 3 presso il PSP, laddove il codice IUV sia composto     da un numero di caratteri non compatibile con quelli previsti per il modello 3.
@@ -315,3 +321,8 @@
 
     *Parole chiave: obbligatorietà*
  
+
+
+    .. |AGID_logo| image:: media/header.png
+       :width: 5.90551in
+       :height: 1.30277in

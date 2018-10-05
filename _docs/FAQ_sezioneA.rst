@@ -1,11 +1,10 @@
-FAQ del sistema pagoPA
-======================
 
 +-------------+
 | |AGID_logo| |
 +-------------+
 
-**GRUPPO A – FAQ DI CARATTERE GENERALE**
+**Gruppo A - Domande frequenti di carattere generale**
+=======================================================
 
 
 :Q: **A1: Cos'è pagoPA?**
