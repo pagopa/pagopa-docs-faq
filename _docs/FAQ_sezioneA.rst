@@ -88,6 +88,7 @@
     Infine, all’articolo 2 del D.Lgs. n. 175/2016 è ulteriormente precisato che “Il controllo può sussistere anche quando, in applicazione di norme di       legge o statutarie o di patti parasociali, per le decisioni finanziarie e gestionali strategiche relative all'attività sociale è richiesto il       consenso unanime di tutte le parti che condividono il controllo”.
 
     *Parole chiave: obbligatorietà*
+	
 ..
 
 :Q: **A7: Che cosa è il Nodo dei Pagamenti-SPC?**
@@ -112,6 +113,7 @@
     Per ulteriori dettagli, si rimanda alle domande **GRUPPO B – FAQ AMBITO NORMATIVO - B1, B2, B3 e B4**.
 
     *Parole chiave: obbligatorietà*
+	
 ..
 
 :Q: **A9: Quali sono gli strumenti di pagamento e i canali utilizzabili?**
@@ -120,14 +122,16 @@
     con i PSP, mettere a disposizione del cittadino i seguenti strumenti e canali di pagamento elettronico:
 
     1. il bonifico bancario o postale ovvero il bollettino postale;
-
-    2. versamenti effettuati con «carte di debito, di credito, prepagate ovvero di altri strumenti di pagamento elettronico disponibili, che consentano
-     anche l'addebito in conto corrente», avvalendosi dei prestatori di servizi di pagamento individuati secondo la procedura di cui al comma 1, lettera       b) dell’art. 5 del CAD.
+	
+	2. versamenti effettuati con «carte di debito, di credito, prepagate ovvero di altri strumenti di pagamento elettronico disponibili, che consentano
+    anche l'addebito in conto corrente», avvalendosi dei prestatori di servizi di pagamento individuati secondo la procedura di cui al comma 1, lettera b) 
+	dell’art. 5 del CAD.
 
     I pagamenti di cui al punto 2) possono essere effettuati presso ATM o POS fisici o virtuali messi a disposizione dai Prestatori di Servizi di
     Pagamento ovvero essere eseguiti autorizzando addebiti diretti da parte dell’utilizzatore finale.
 
     *Parole chiave: PSP*
+	
 ..
 
 :Q: **A10: Quali sono i modelli di pagamento previsti?**
@@ -146,6 +150,7 @@
     ovvero  pregiudicare il carattere definitivo della relativa operazione di pagamento.
 
     *Parole chiave: PSP*
+	
 ..
 
 :Q: **A11: Quanti sono i PSP aderenti a pagoPA?**
@@ -154,6 +159,7 @@
     Servizi a Pagamento (PSP).
 
     *Parole chiave: PSP*
+	
 ..
 
 :Q: **A12: Che differenza c’è tra CBILL e pagoPA?**
@@ -163,6 +169,7 @@
    effettuati attraverso CBILL, utilizzando un codice identificativo del sistema pagoPA (IUV), sono gestiti da pagoPA.
 
    *Parole chiave: PSP*
+   
 ..
 
 :Q: **A13: Ci sono differenze di costo tra i diversi Prestatori di Servizio a Pagamento?**
@@ -170,6 +177,7 @@
    Si. Ogni istituto che gestisce in pagamenti con pagoPA (Prestatori di Servizi a Pagamento) può applicare autonomamente differenti costi, a  seconda delle proprie politiche commerciali e delle condizioni contrattuali dell’utente.
 
    *Parole chiave: PSP*
+   
 ..
 
 :Q: **A14: Perché con pagoPA sembra di pagare di più?**
@@ -181,63 +189,63 @@
     | Nel pagamento di un F24, ad esempio, il cittadino non paga commissioni ma i costi sono a carico dell'Agenzia delle Entrate e quindi ricadono in modo       indiretto sulla fiscalità generale. L'Agenzia delle Entrate infatti paga alle banche una commissione per ogni F24 pagato in via telematica o presso       uno sportello bancario.
     | Questa tabella mostra alcuni esempi di come cambiano i costi di commissione per il pagamento di un servizio prima e dopo  l’introduzione di pagoPA:
 
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Canali di  pagamento| Commissioni prima di pagoPA            | con pagoPA                                                                         |
     |                     |                                        |                                                                                    |
-    +===========+========================================+==============================================================================================+
+    +=====================+========================================+====================================================================================+
     | Home                | Variabili in base al rapporto Banca-   | Variabili, a partire da zero, in base al rapporto Banca-Cliente.                   |
     | Banking/C BILL      | Cliente e in base alla Banca scelta    |                                                                                    |
     |                     |                                        |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Non superiori       |                                        |                                                                                    |
     | rispetto a prima    |                                        |                                                                                    |
     |                     |                                        |                                                                                    |
     |                     |                                        |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Agenzie  Bancarie   | A partire da 2 Euro e dipendenti dalla | A partire da 1,30 Euro dipendenti dalla Banca scelta. Servizio disponibile presso  |
     | e ATM (1)           | Banca. Non disponibile in tutti gli    | tutti i PSP aderenti a pagoPA                                                      |
     |                     | Istituti.                              |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Sito della          | Non sempre il servizio era             | Il cittadino paga in base al PSP e allo strumento che sceglie (Conto corrente,     |
     | PA/Comune           | disponibile. Quando disponibile le     | carta di credito, altro). In alcuni casi le commissioni sono pari a 0 quando si    |
     |                     | commissioni erano imposte dalla Banca  | paga con addebito in conto (es. Banca Intesa, Banco di Napoli, CR Veneto, altre).  |
     |                     | Tesoriera scelta dalla PA e assorbite  | Sulla carta di credito grazie alla tecnologia di pagoPA i costi di commissione     |
     |                     | dalla PA                               | sono ottimizzati                                                                   |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | POSTE tramite       | 1,10 - 1,50 Euro                       | 1,10 - 1,50 Euro                                                                   |
     | bollettino postale  |                                        |                                                                                    |
     | (1) (2)             |                                        |                                                                                    |
     |                     |                                        |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Sisal (1) (2)       | 2 Euro                                 | 2 Euro                                                                             |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Lottomatica         | 2 Euro                                 | 2 Euro                                                                             |
     | (1) (2)             |                                        |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Banca 5             | 2 Euro                                 | 1,70 Euro (in promozione fino a data da definirsi)                                 |
     | (ITB) (1)           |                                        |                                                                                    |
     | (2)                 |                                        |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | PayPAL              | Non sempre disponibile                 | In base al tipo di carta o al tipo di conto. Condizioni di favore per pagoPA:      |
     | (2)                 |                                        |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | 1,50 Euro           |                                        |                                                                                    |
     | (indipendente       |                                        |                                                                                    |
     | dall’importo)       |                                        |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Supermercati        | In base alla catena                    | In base alla catena                                                                |
     | (GDO) (1)  (2)      |                                        |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | F24                 | Gratuito per il cittadino (le          | ND                                                                                 |
     |                     | commissioni vengono assorbite dallo    |                                                                                    |
     |                     | stato)                                 |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Pagamento presso    | Contante o carta di credito. La        | A breve disponibili attraverso POS fisici integrati con pagamento tramite carta    |
     | sportelli fisici    | commissione dipende dall’accordo di    | di credito.                                                                        |
     | della PA            | tesoreria e viene assorbito dalla PA   |                                                                                    |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
     | Satispay            | Non disponibile                        | 0 euro fino a 10 Euro e 0,20 per importi superiori                                 |
-    +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
+    +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
 
     **Note**
 
@@ -246,6 +254,7 @@
     2. da notare che con pagoPA, l’esercente potrebbe non richiedere, in aggiunta alla commissione, ulteriori agi e/o oneri connessi all’attività di    riscossione di tributi, con l’effetto, che nel complesso l’operazione di pagamento potrebbe risultare più economica per il cittadino.
 
     *Parole chiave: PSP*
+	
 ..
 
 :Q: **A15: Perché devo pagare le commissioni?**
@@ -253,6 +262,7 @@
     A fronte dell’erogazione di un servizio di pagamento, il pagatore è chiamato a corrispondere al suo PSP una commissione. Le commissioni per la gestione del pagamento sono causate da alcuni costi di servizio che i PSP sostengono per garantire un servizio di qualità: ad  esempio, la       continuità di erogazione h24x365, i tempi di esecuzione delle transazioni che devono essere molto bassi, costi dei circuiti internazionali nel caso       di pagamento con carta di credito, sicurezza e servizi anti-frode, affidabilità dell’infrastruttura, etc (vedi anche FAQ A16, A17 e A18).
 
     *Parole chiave: PSP*
+	
 ..
 
 :Q: **A16: Perché con pagoPA si dovrebbero ridurre le commissioni?**
@@ -261,6 +271,7 @@
     | Inoltre, la trasparenza dei costi di commissione dovrebbe incentivare la concorrenza, livellando verso il basso i costi di commissione: ad esempio,       se vedo che la mia banca mi fa pagare una commissione alta per pagare con conto corrente posso scegliere la carta di credito, anche con un altro       istituto (vedi anche FAQ A15, A17 e A18).
 
     *Parole chiave: PSP*
+	
 ..
 
 :Q: **A17: Posso pagare con carta di credito anche con pagoPA?**
@@ -269,6 +280,7 @@
     credito, devo selezionare il circuito (VISA, Mastercard, AMEX, ecc.) e poi il PSP che voglio gestisca il pagamento. Questo comportamento nasceva       dall’originaria idea di delegare al cittadino la scelta del PSP a lui più conveniente in tutti i casi. Questa User Experience è stata molto       criticata, perché scomoda e difforme dalla normale esperienza che si ha su un sito e-commerce. Per questo motivo, con la versione che verrà       rilasciata da AgID entro fine anno, il pagamento con carta avverrà con il semplice inserimento dei dati (numero, data di scadenza, CVV) e sarà       pagoPA ad individuare il PSP più conveniente, ferma restando per il cittadino la facoltà di modificare tale suggerimento (vedi anche FAQ A15, A16 e       A18).
 
     *Parole chiave: PSP, carta*
+	
 ..
 
 :Q: **A18: Perché con l’attuale pagoPA se devo pagare con la mia carta di credito o debito, devo prima scegliere un PSP?**
@@ -276,6 +288,7 @@
     La logica di pagoPA è quella, concordata con Banca d’Italia, di fare in modo che sia sempre il cittadino a scegliere il PSP con cui       svolgere il servizio di pagamento, anche al fine di scegliere le commissioni da pagare. Ed è così che ragiona l’interfaccia utente attuale. Anche       per i pagamenti con carta per i quali sia richiesto semplicemente di inserire il numero carta, la data di scadenza e il CVV, e il PSP sia       selezionato automaticamente dall’interfaccia, tale selezione è un mero suggerimento all’utente su quale sia il PSP che risulta essere per lui il più       conveniente ed adeguato, ferma restando la possibilità del pagatore di selezionare un diverso PSP (vedi anche FAQ A15, A16 e A17).
 
     *Parole chiave: PSP, carta*
+	
 ..
 
 :Q: **A19: Le operazioni eseguite con carta di credito con pagoPA possono essere disconosciute o comunque stornate in favore del pagatore?**
@@ -285,6 +298,7 @@
     | Resta ferma la possibilità per il pagatore di rivolgersi direttamente alla Pubblica Amministrazione che ha ricevuto il pagamento, per la richiedere   il rimborso dell’importo pagato, in quanto non dovuto in tutto o in parte, ad esempio per la mancata erogazione del servizio o per l’erogazione di   un servizio di importo diverso da quanto già pagato.
 
     *Parole chiave: PSP, carta*
+	
 ..
 
 :Q: **A20: Se effettuo un pagamento errato posso annullare il pagamento?**
@@ -329,6 +343,7 @@
     - presso le Poste, se l’Ente Creditore che ha inviato l'avviso ha attivato tale possibilità di pagamento.
 
     *Parole chiave: PSP*
+	
 ..
 
 :Q: **A25: Per tutti i pagamenti mi arriverà un avviso cartaceo?**
@@ -387,6 +402,7 @@
     Inoltre, appare altresì importante evidenziare che, ai sensi dell’articolo 2, punto 39, del Decreto legislativo 15 dicembre 2017, n. 218 per il recepimento in Italia della PSD2, è stabilito che «Gli articoli 36, 37 e 38 del decreto legislativo 27 gennaio 2010, n. 11 sono abrogati dalla data di entrata in vigore del presente decreto, ad eccezione del comma 6 dell'articolo 37 che è abrogato a decorrere dal 1° gennaio 2019». Pertanto, dovendo le Pubbliche Amministrazioni applicare quanto stabilito in materia di pagamenti dalla PSD e dalla PSD2 a partire dal 1° gennaio 2019, appare opportuno rappresentare che, per la sola componente degli incassi, l’adesione al Sistema pagoPA garantisce il pieno rispetto della direttiva europea, come recepita a livello nazionale, essendo il sistema pagoPA già compliance con la PSD1 e con la PSD2, come recepite a livello nazionale.
 
     *Parole chiave: obbligatorietà*
+	
 ..
 
 :Q: **A32: Le amministrazioni hanno l’obbligo di pubblicare gli IBAN dei conti correnti loro intestati?**
@@ -398,7 +414,7 @@
 
     *Parole chiave: obbligatorietà*
 
- 
+
 
 
 
