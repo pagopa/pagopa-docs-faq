@@ -9,35 +9,35 @@
 
 :Q: **A1: Cos'è pagoPA?**
 :A:
-  pagoPA è un sistema per rendere più semplici, sicuri e trasparenti tutti i pagamenti verso la Pubblica Amministrazione. pagoPA è adottato obbligatoriamente da tutte le Pubbliche Amministrazioni e dagli altri soggetti obbligati per legge e da un numero crescente di Banche e di istituti   di pagamento (Prestatori di Servizi a Pagamento - PSP). pagoPA è previsto in attuazione dell’art. 5 del CAD (Codice dell’Amministrazione Digitale) e   dal D.L. 179/2012.
-  pagoPA nasce per specifici motivi:
+    pagoPA è un sistema per rendere più semplici, sicuri e trasparenti tutti i pagamenti verso la Pubblica Amministrazione. pagoPA è adottato obbligatoriamente da tutte le Pubbliche Amministrazioni e dagli altri soggetti obbligati per legge e da un numero crescente di Banche e di istituti   di pagamento (Prestatori di Servizi a Pagamento - PSP). pagoPA è previsto in attuazione dell’art. 5 del CAD (Codice dell’Amministrazione Digitale) e   dal D.L. 179/2012.
+    pagoPA nasce per specifici motivi:
 
-  - incrementare l’uso di modalità elettroniche di pagamento a livello di sistema Paese in considerazione del fatto che, i pagamenti verso gli Enti Creditori, sono rilevanti per numero di transazioni e volumi;
+    - incrementare l’uso di modalità elettroniche di pagamento a livello di sistema Paese in considerazione del fatto che, i pagamenti verso gli Enti Creditori, sono rilevanti per numero di transazioni e volumi;
 
-  - rendere il cittadino libero di scegliere come pagare, dando evidenza dei costi di commissione;
+    - rendere il cittadino libero di scegliere come pagare, dando evidenza dei costi di commissione;
 
-  - ridurre i costi di gestione degli incassi per gli Enti Creditori;
+    - ridurre i costi di gestione degli incassi per gli Enti Creditori;
 
-  - standardizzare a livello nazionale le modalità elettroniche di pagamento verso gli Enti Creditori;
+    - standardizzare a livello nazionale le modalità elettroniche di pagamento verso gli Enti Creditori;
 
-  *Parole chiave: pagamenti elettronici*
+    *Parole chiave: pagamenti elettronici*
 
 ..
 
 :Q: **A2: Cosa posso pagare con pagoPA?**
 :A:
-  pagoPA permette di pagare tributi, tasse, utenze, rette, quote associative, bolli e qualsiasi altro tipo di pagamento verso le Pubbliche Amministrazioni centrali e locali, ma anche verso altri soggetti, come le aziende a partecipazione pubblica, le scuole, le università, le ASL.
-  pagoPA non è un sito dove pagare, ma un sistema di pagamenti standard adottato da Banche e altri istituti di pagamento. Si possono effettuare i pagamenti direttamente sul sito o sull’app dell’Ente Creditore (il tuo comune, ad esempio) o attraverso i canali (online e fisici) di banche e altri Prestatori di Servizio a Pagamento (PSP), ovvero:
+    pagoPA permette di pagare tributi, tasse, utenze, rette, quote associative, bolli e qualsiasi altro tipo di pagamento verso le Pubbliche Amministrazioni centrali e locali, ma anche verso altri soggetti, come le aziende a partecipazione pubblica, le scuole, le università, le ASL.
+    pagoPA non è un sito dove pagare, ma un sistema di pagamenti standard adottato da Banche e altri istituti di pagamento. Si possono effettuare i pagamenti direttamente sul sito o sull’app dell’Ente Creditore (il tuo comune, ad esempio) o attraverso i canali (online e fisici) di banche e altri Prestatori di Servizio a Pagamento (PSP), ovvero:
 
-  - presso le agenzie della tua banca;
+    - presso le agenzie della tua banca;
 
-  - utilizzando l'home banking della tua banca (dove trovi i loghi CBILL o pagoPA);
+    - utilizzando l'home banking della tua banca (dove trovi i loghi CBILL o pagoPA);
 
-  - presso gli sportelli ATM della tua banca (se abilitati);
+    - presso gli sportelli ATM della tua banca (se abilitati);
 
-  - presso i punti vendita di SISAL, Lottomatica e ITB;
+    - presso i punti vendita di SISAL, Lottomatica e ITB;
 
-  - presso le Poste, se il canale è attivato dall’Ente Creditore che ha inviato l'avviso.
+    - presso le Poste, se il canale è attivato dall’Ente Creditore che ha inviato l'avviso.
 
 ..
 
@@ -161,19 +161,19 @@
 
 :Q: **A12: Che differenza c’è tra CBILL e pagoPA?**
 :A:
-   CBILL è un logo commerciale delle banche che identifica la piattaforma di pagamento delle banche disponibile anche per gli Enti Creditori.
-   La piattaforma di pagamento CBILL si può utilizzare attraverso l’Home Banking o gli ATM ed è integrata a pagoPA, nel senso che tutti i pagamenti
-   effettuati attraverso CBILL, utilizzando un codice identificativo del sistema pagoPA (IUV), sono gestiti da pagoPA.
+    CBILL è un logo commerciale delle banche che identifica la piattaforma di pagamento delle banche disponibile anche per gli Enti Creditori.
+    La piattaforma di pagamento CBILL si può utilizzare attraverso l’Home Banking o gli ATM ed è integrata a pagoPA, nel senso che tutti i pagamenti
+    effettuati attraverso CBILL, utilizzando un codice identificativo del sistema pagoPA (IUV), sono gestiti da pagoPA.
 
-   *Parole chiave: PSP*
+    *Parole chiave: PSP*
 
 ..
 
 :Q: **A13: Ci sono differenze di costo tra i diversi Prestatori di Servizio a Pagamento?**
 :A:
-   Si. Ogni istituto che gestisce in pagamenti con pagoPA (Prestatori di Servizi a Pagamento) può applicare autonomamente differenti costi, a  seconda delle proprie politiche commerciali e delle condizioni contrattuali dell’utente.
+    Si. Ogni istituto che gestisce in pagamenti con pagoPA (Prestatori di Servizi a Pagamento) può applicare autonomamente differenti costi, a  seconda delle proprie politiche commerciali e delle condizioni contrattuali dell’utente.
 
-   *Parole chiave: PSP*
+    *Parole chiave: PSP*
 
 ..
 
@@ -271,7 +271,7 @@
 :Q: **A16: Perché con pagoPA si dovrebbero ridurre le commissioni?**
 :A:
     Il potere contrattuale di qualsiasi ente, anche di grandi dimensioni, è certamente inferiore a quello della Pubblica Amministrazione italiana nel suo complesso: per questo i PSP garantiscono a pagoPA un trattamento quasi sempre più vantaggioso.
-    
+
     Inoltre, la trasparenza dei costi di commissione dovrebbe incentivare la concorrenza, livellando verso il basso i costi di commissione: ad esempio, se vedo che la mia banca mi fa pagare una commissione alta per pagare con conto corrente posso scegliere la carta di credito, anche con un altro istituto (vedi anche FAQ A15, A17 e A18).
 
     *Parole chiave: PSP*
@@ -463,5 +463,5 @@
 
 
 .. |AGID_logo| image:: media/header.png
-   :width: 5.90551in
-   :height: 1.30277in
+    :width: 5.90551in
+    :height: 1.30277in
