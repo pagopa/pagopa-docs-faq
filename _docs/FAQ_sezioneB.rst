@@ -250,3 +250,9 @@
     riportata sulle ricevute di pagamento (RT) che il Sistema pagoPA mette a disposizione dei singoli enti beneficiari.
 
     *Parole chiave: multe, PA*
+
+
+
+    .. |AGID_logo| image:: media/header.png
+       :width: 5.90551in
+       :height: 1.30277in
