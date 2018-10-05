@@ -3,11 +3,8 @@
 | |AGID_logo| |
 +-------------+
 
-FAQ del sistema pagoPA
-======================
-
-**GRUPPO D – FAQ SULL’ADESIONE DEI PRESTATORI DI PAGAMENTO**
-------------------------------------------------------------
+**Gruppo D - Domande frequenti del sistema pagoPA sull'adesione dei Prestatori di Pagamento**
+=============================================================================================
 
 ..
 

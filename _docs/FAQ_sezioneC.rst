@@ -3,11 +3,8 @@
 | |AGID_logo| |
 +-------------+
 
-FAQ del sistema pagoPA
-======================
-
-**GRUPPO C – FAQ SULL’ADESIONE DEGLI ENTI CREDITORI**
------------------------------------------------------
+**Gruppo C - Domande frequenti del sistema pagoPA sull'adesione degli Enti Creditori**
+======================================================================================
 
 ..
 

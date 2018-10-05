@@ -3,11 +3,8 @@
 | |AGID_logo| |
 +-------------+
 
-FAQ del sistema pagoPA
-======================
-
-**GRUPPO B – FAQ AMBITO NORMATIVO**
------------------------------------
+**Gruppo B - Domande frequenti del sistema pagoPA in ambito normativo**
+=========================================================================
 
 ..
 
