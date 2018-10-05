@@ -1,4 +1,13 @@
+
++-------------+
+| |AGID_logo| |
++-------------+
+
+FAQ del sistema pagoPA
+======================
+
 **GRUPPO D – FAQ SULL’ADESIONE DEI PRESTATORI DI PAGAMENTO**
+------------------------------------------------------------
 
 ..
 
@@ -21,7 +30,7 @@
 :Q: **D2: Con l’adesione a pagoPA per i PSP cambiano le tempistiche di esecuzione delle operazioni di pagamento?**
 :A:
     Le Linee Guida, in quanto normativa secondaria, hanno come presupposto le disposizioni primarie in materia di pagamenti, ivi incluso il
-    D.Lgs. n. 11/2010. 
+    D.Lgs. n. 11/2010.
 
     Inoltre, l’accordo con cui un Prestatore di Servizi di Pagamento aderisce a pagoPA, non entra in alcun modo nel merito della     tempistiche di esecuzione delle operazioni di pagamento che, pertanto, saranno regolate dalla normativa primaria di riferimento in materia di     pagamenti, ivi incluso il D.Lgs. n. 11/2010, senza alcuna possibilità di deroga. Inoltre, si evidenzia che il soggetto versante si configura sempre     come cliente, ancorché di natura occasionale, del PSP che esegue l’operazione di pagamento e che, pertanto, tale operazione è disciplinata - per     quanto concerne la sua tempistica - dall’articolo 20, comma 1, del D.Lgs. n. 11/2010, che impone che l’operazione di pagamento sia eseguita nella     giornata operativa successiva (T+1) rispetto alla richiesta avanzata dal pagatore. Pertanto, pagoPA omogenizza e uniforma a livello nazionale anche     le tempistiche entro cui gli Enti ricevono sul conto corrente le somme pagate, a qualsiasi titolo, da cittadini e imprese in loro favore, riducendo     tale tempistica in via omogenea a T+1.
 
