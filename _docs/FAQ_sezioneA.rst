@@ -126,7 +126,7 @@
 
 	  2. versamenti effettuati con «carte di debito, di credito, prepagate ovvero di altri strumenti di pagamento elettronico disponibili, che consentano
     anche l'addebito in conto corrente», avvalendosi dei prestatori di servizi di pagamento individuati secondo la procedura di cui al comma 1, lettera b)
-	  dell’art. 5 del CAD.
+    dell’art. 5 del CAD.
 
     I pagamenti di cui al punto 2) possono essere effettuati presso ATM o POS fisici o virtuali messi a disposizione dai Prestatori di Servizi di
     Pagamento ovvero essere eseguiti autorizzando addebiti diretti da parte dell’utilizzatore finale.
@@ -317,8 +317,14 @@
 
 :Q: **A20: Se effettuo un pagamento errato posso annullare il pagamento?**
 :A:
-    Il Sistema pagoPA previene la possibilità di effettuare pagamenti errati, controllando l’esistenza della posizione debitoria e la sua    consistenza al momento del pagamento.
-    Tuttavia, errori sono comunque possibili in altri snodi del processo e quindi, se per qualsiasi motivo l’utente abbia la necessità di annullare un  pagamento eseguito tramite pagoPA, può richiedere all’Ente Creditore il rimborso, motivando adeguatamente la richiesta ed esibendo semplicemente la   ricevuta di pagamento (o la quietanza) che ha ottenuto dallo stesso Ente Creditore o l’attestazione di pagamento ricevuta dal PSP con cui ha   effettuato il pagamento. Tali documenti sono sufficienti per ricostruire interamente la vicenda da parte dell’Ente Creditore.
+    Il Sistema pagoPA previene la possibilità di effettuare pagamenti errati, controllando l’esistenza della posizione debitoria e la
+    sua consistenza al momento del pagamento.
+    Tuttavia, errori sono comunque possibili in altri snodi del processo e quindi, se per qualsiasi motivo l’utente abbia la
+    necessità di annullare un pagamento eseguito tramite pagoPA, può richiedere all’Ente Creditore il rimborso, motivando adeguatamente
+    la richiesta ed esibendo semplicemente la ricevuta di pagamento (o la quietanza) che ha ottenuto dallo stesso Ente Creditore o l’attestazione
+    di pagamento ricevuta dal PSP con cui ha   effettuato il pagamento.
+
+    Tali documenti sono sufficienti per ricostruire interamente la vicenda da parte dell’Ente Creditore.
 
 ..
 
@@ -334,8 +340,13 @@
 
 :Q: **A22: Cosa succede se pago due volte lo stesso servizio?**
 :A:
-    Il pagamento doppio con pagoPA non è possibile. pagoPA non consente pagamenti errati perché controlla l’esistenza della posizione debitoria e la sua consistenza al momento del pagamento.
-    Nel caso in cui un tributo sia stato pagato con pagoPA e anche al di fuori di esso (ad esempio tramite un F24, se l’Ente Creditore lo consente), il   cittadino dovrà richiederne il rimborso all’Ente Creditore. Il rimborso potrà essere effettuato tramite pagoPA (storno dell’operazione) entro il   giorno stesso del pagamento fatto utilizzando pagoPA, ovvero prima del versamento effettivo dell’importo in favore dell’Ente. Se la richiesta   avviene successivamente, l’Ente Creditore dovrà provvedere al rimborso con altri strumenti.
+    Il pagamento doppio con pagoPA non è possibile. pagoPA non consente pagamenti errati perché controlla l’esistenza della posizione debitoria e
+    la sua consistenza al momento del pagamento.
+    Nel caso in cui un tributo sia stato pagato con pagoPA e anche al di fuori di esso (ad esempio tramite un F24, se l’Ente Creditore lo consente),
+    il cittadino dovrà richiederne il rimborso all’Ente Creditore.
+    Il rimborso potrà essere effettuato tramite pagoPA (storno dell’operazione) entro il giorno stesso del pagamento fatto utilizzando pagoPA,
+    ovvero prima del versamento effettivo dell’importo in favore dell’Ente. Se la richiesta avviene successivamente, l’Ente Creditore dovrà provvedere
+    al rimborso con altri strumenti.
 
 ..
 
@@ -363,7 +374,8 @@
 
 :Q: **A25: Per tutti i pagamenti mi arriverà un avviso cartaceo?**
 :A:
-    No. L’avviso cartaceo è obbligatorio e previsto solo nel caso di notifica di provvedimenti. Gli Enti Creditori possono inviare avvisi   anche in altri casi (ad esempio, inviando una richiesta di pagamento nel caso della TARI).
+    No. L’avviso cartaceo è obbligatorio e previsto solo nel caso di notifica di provvedimenti. Gli Enti Creditori possono inviare avvisi
+    anche in altri casi (ad esempio, inviando una richiesta di pagamento nel caso della TARI).
 
 ..
 
@@ -396,7 +408,7 @@
 :A:
     Attraverso l’interazione tra l’ Ente Creditore e il PSP aderente, il pagamento eseguito con pagoPA ha efficacia liberatoria per l’utente,
     oltre che del pagamento effettuato, anche della posizione debitoria sottostante, ancorché tale pagamento non sia eseguito presso l’ente o presso la
-    banca tesoriera e/o cassiera dell’ente stesso. All’esito dell’operazione di pagamento, il PSP aderente, di norma, rilascia all’utente pagatore la   ricevuta telematica (RT) che il sistema pagoPA comunque mette a disposizione della PA e che, in caso di esito positivo della richiesta di pagamento,   assume, come appena ricordato, efficacia liberatoria per l’utente.
+    banca tesoriera e/o cassiera dell’ente stesso. All’esito dell’operazione di pagamento, il PSP aderente, di norma, rilascia all’utente pagatore la ricevuta telematica (RT) che il sistema pagoPA comunque mette a disposizione della PA e che, in caso di esito positivo della richiesta di pagamento,   assume, come appena ricordato, efficacia liberatoria per l’utente.
 
     A sua volta, l’Ente Creditore può mettere a disposizione dell’utente pagatore e/o inviare al medesimo la RT. Precisato quanto fin qui esposto, si
     segnala che l’Ente Creditore non è chiamato ad assolvere l’imposta di bollo sulla RT, essendo tale documento emesso dal PSP.
