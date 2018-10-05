@@ -64,9 +64,9 @@
 
 :Q: **A5: Quali sono i vantaggi di pagoPA per le Pubbliche Amministrazioni?**
 :A:
-    Il sistema pagoPA permette agli Enti Creditori di utilizzare un sistema semplice, standardizzato, non oneroso per ricevere qualsiasi tipo
-    di pagamento. Tra i vantaggi, pagoPA permette di ridurre i costi per ricevere e gestire i pagamenti e di automatizzare gli incassi, rendendone più
-    facile ed efficiente la gestione.
+    Il sistema pagoPA permette agli Enti Creditori di utilizzare un sistema semplice, standardizzato, non oneroso
+    per ricevere qualsiasi tipo di pagamento. Tra i vantaggi, pagoPA permette di ridurre i costi per ricevere e gestire
+    i pagamenti e di automatizzare gli incassi, rendendone più facile ed efficiente la gestione.
 
 ..
 
@@ -74,8 +74,8 @@
 :A:
     Le Pubbliche Amministrazioni sono tenute per legge ad aderire al sistema di pagamento pagoPA. Le PA che non hanno rapporti diretti con
     cittadini e imprese, possono essere esentate dall’adesione al sistema, purché abbiano inviato ad AgID la specifica dichiarazione per tale esenzione.
-    | L’obbligo di adesione al sistema pagoPA è esteso anche ai gestori di pubblici servizi e alle società a controllo pubblico.
-    | Il D.Lgs. n. 179/2016 (G.U. n. 214 del 13.9.2016) e il D.Lgs n. 217/2017 (G.U. n. 9 del 12.01.2018) hanno rispettivamente modificato e corretto  l’articolo 2, comma 2, del CAD introducendo nel perimetro soggettivo del CAD anche i gestori di pubblici servizi e le società a controllo pubblico,    come definite nel decreto legislativo adottato in attuazione dell’articolo 18 della legge n. 124 del 2015, escluse le società quotate. Il D.Lgs. n.        175/2016, all’articolo 2, lettera m), ha delineato il concetto di società a controllo pubblico. In particolare, le società a controllo pubblico sono        definite come quelle società in cui una o più amministrazioni pubbliche esercitano poteri di controllo ai sensi dell'articolo 2359 del codice       civile, e precisamente:
+    L’obbligo di adesione al sistema pagoPA è esteso anche ai gestori di pubblici servizi e alle società a controllo pubblico.
+    Il D.Lgs. n. 179/2016 (G.U. n. 214 del 13.9.2016) e il D.Lgs n. 217/2017 (G.U. n. 9 del 12.01.2018) hanno rispettivamente modificato e corretto  l’articolo 2, comma 2, del CAD introducendo nel perimetro soggettivo del CAD anche i gestori di pubblici servizi e le società a controllo pubblico,    come definite nel decreto legislativo adottato in attuazione dell’articolo 18 della legge n. 124 del 2015, escluse le società quotate. Il D.Lgs. n.        175/2016, all’articolo 2, lettera m), ha delineato il concetto di società a controllo pubblico. In particolare, le società a controllo pubblico sono  definite come quelle società in cui una o più amministrazioni pubbliche esercitano poteri di controllo ai sensi dell'articolo 2359 del codice civile, e precisamente:
 
     1. le società in cui un'altra società dispone della maggioranza dei voti esercitabili nell'assemblea ordinaria;
 
@@ -83,7 +83,7 @@
 
     3. le società che sono sotto influenza dominante di un'altra società in virtù di particolari vincoli contrattuali con essa.
 
-    L’articolo 2359 del codice civile precisa che ai fini dell'applicazione dei numeri 1) e 2) che precedono “si computano anche i voti spettanti a       società controllate, a società fiduciarie e a persona interposta; non si computano i voti spettanti per conto di terzi. Sono considerate collegate       le società sulle quali un'altra società esercita un'influenza notevole. L'influenza si presume quando nell'assemblea ordinaria può essere esercitato       almeno un quinto dei voti ovvero un decimo se la società ha azioni quotate in borsa”.
+    L’articolo 2359 del codice civile precisa che ai fini dell'applicazione dei numeri 1) e 2) che precedono “si computano anche i voti spettanti a       società controllate, a società fiduciarie e a persona interposta; non si computano i voti spettanti per conto di terzi. Sono considerate collegate       le società sulle quali un'altra società esercita un'influenza notevole. L'influenza si presume quando nell'assemblea ordinaria può essere esercitato  almeno un quinto dei voti ovvero un decimo se la società ha azioni quotate in borsa”.
 
     Infine, all’articolo 2 del D.Lgs. n. 175/2016 è ulteriormente precisato che “Il controllo può sussistere anche quando, in applicazione di norme di       legge o statutarie o di patti parasociali, per le decisioni finanziarie e gestionali strategiche relative all'attività sociale è richiesto il       consenso unanime di tutte le parti che condividono il controllo”.
 
@@ -92,16 +92,23 @@
 
 :Q: **A7: Che cosa è il Nodo dei Pagamenti-SPC?**
 :A:
-    Il Nodo dei Pagamenti-SPC è un’infrastruttura tecnologica unitaria, basata su regole e specifiche standard, che offre una modalità       semplificata e uniforme per garantire l'interoperabilità tra gli Enti Creditori aderenti e i Prestatori di servizi di pagamento per l’effettuazione       dei pagamenti.
-    Tale infrastruttura non è una piattaforma di pagamento, ma permette al pagatore di richiedere l’esecuzione del pagamento a favore del       soggetto aderente al sistema pagoPA, scegliendo la modalità di pagamento preferita, avendo, al contempo, la garanzia della rapidità e della piena       trasparenza del pagamento stesso.
+    Il Nodo dei Pagamenti-SPC è un’infrastruttura tecnologica unitaria, basata su regole e specifiche standard, che offre una modalità
+    semplificata e uniforme per garantire l'interoperabilità tra gli Enti Creditori aderenti e i Prestatori di servizi di pagamento per
+    l’effettuazione dei pagamenti.
+    Tale infrastruttura non è una piattaforma di pagamento, ma permette al pagatore di richiedere l’esecuzione del pagamento a favore del
+    soggetto aderente al sistema pagoPA, scegliendo la modalità di pagamento preferita, avendo, al contempo, la garanzia della rapidità e
+    della piena trasparenza del pagamento stesso.
 
 ..
 
 :Q: **A8: Quali sono i soggetti che devono o possono aderire al Nodo dei Pagamenti-SPC?**
 :A:
     Per identificare i soggetti obbligati ad aderire al Sistema pagoPA è necessario fare riferimento sia all’articolo 5 del CAD, sia
-    all’articolo 15, comma 5bis, del D.L. 179/2012 come convertito in legge, poiché tale secondo articolo stabilisce che le Pubbliche Amministrazioni     sono obbligate ad aderire all’infrastruttura del Nodo dei Pagamenti-SPC. L’adesione resta, altresì, obbligatoria per i soggetti di cui all’articolo     2 del CAD che stabilisce, appunto, l’ambito soggettivo di applicazione dell’articolo 5 del CAD e che obbliga all’adesione a pagoPA dei gestori di     pubblici servizi e anche delle società a controllo pubblico, come definite nel decreto legislativo adottato in attuazione dell’articolo 18 della     legge n. 124 del 2015, escluse le società quotate.
-    Pertanto, l’adesione rimane facoltativa solo per i Prestatori di servizi di pagamento e per i soggetti non obbligati per legge che ne facciamo  espressa richiesta ad AgID che ne valuterà la relativa opportunità e fattibilità.
+    all’articolo 15, comma 5bis, del D.L. 179/2012 come convertito in legge, poiché tale secondo articolo stabilisce che le Pubbliche Amministrazioni
+    sono obbligate ad aderire all’infrastruttura del Nodo dei Pagamenti-SPC. L’adesione resta, altresì, obbligatoria per i soggetti di cui all’articolo     2 del CAD che stabilisce, appunto, l’ambito soggettivo di applicazione dell’articolo 5 del CAD e che obbliga all’adesione a pagoPA dei gestori di     pubblici servizi e anche delle società a controllo pubblico, come definite nel decreto legislativo adottato in attuazione dell’articolo
+    18 della legge n. 124 del 2015, escluse le società quotate.
+    Pertanto, l’adesione rimane facoltativa solo per i Prestatori di servizi di pagamento e per i soggetti non obbligati per legge che ne facciamo
+    espressa richiesta ad AgID che ne valuterà la relativa opportunità e fattibilità.
     Per ulteriori dettagli, si rimanda alle domande **GRUPPO B – FAQ AMBITO NORMATIVO - B1, B2, B3 e B4**.
 
     *Parole chiave: obbligatorietà*
@@ -109,13 +116,16 @@
 
 :Q: **A9: Quali sono gli strumenti di pagamento e i canali utilizzabili?**
 :A:
-    Con l’adesione al Nodo dei Pagamenti-SPC, l’Ente Creditore può automaticamente, senza costi aggiuntivi, né necessità di convenzionamenti con i PSP, mettere a disposizione del cittadino i seguenti strumenti e canali di pagamento elettronico:
+    Con l’adesione al Nodo dei Pagamenti-SPC, l’Ente Creditore può automaticamente, senza costi aggiuntivi, né necessità di convenzionamenti
+    con i PSP, mettere a disposizione del cittadino i seguenti strumenti e canali di pagamento elettronico:
 
     1. il bonifico bancario o postale ovvero il bollettino postale;
 
-    2. versamenti effettuati con «carte di debito, di credito, prepagate ovvero di altri strumenti di pagamento elettronico disponibili, che consentano       anche l'addebito in conto corrente», avvalendosi dei prestatori di servizi di pagamento individuati secondo la procedura di cui al comma 1, lettera       b) dell’art. 5 del CAD.
+    2. versamenti effettuati con «carte di debito, di credito, prepagate ovvero di altri strumenti di pagamento elettronico disponibili, che consentano
+     anche l'addebito in conto corrente», avvalendosi dei prestatori di servizi di pagamento individuati secondo la procedura di cui al comma 1, lettera       b) dell’art. 5 del CAD.
 
-    I pagamenti di cui al punto 2) possono essere effettuati presso ATM o POS fisici o virtuali messi a disposizione dai Prestatori di Servizi di     Pagamento ovvero essere eseguiti autorizzando addebiti diretti da parte dell’utilizzatore finale.
+    I pagamenti di cui al punto 2) possono essere effettuati presso ATM o POS fisici o virtuali messi a disposizione dai Prestatori di Servizi di
+    Pagamento ovvero essere eseguiti autorizzando addebiti diretti da parte dell’utilizzatore finale.
 
     *Parole chiave: PSP*
 ..
@@ -130,7 +140,10 @@
 
     - Modello 3: pagamento eseguito tramite il canale del prestatore del servizio di pagamento prescelto (tipicamente canale fisico - Uffici Postali,       Ricevitorie, Tabaccherie, ATM Bancomat, etc.)
 
-    Per la descrizione dettagliata dei modelli di pagamento si rimanda alla documentazione disponibile sul sito dell’Agenzia. Si precisa che, a       prescindere al modello di pagamento utilizzato, in linea con quanto previsto dalla direttiva europea in materia di servizi di pagamento, l’ordine di       pagamento ricevuto dal PSP è irrevocabile da parte dell’utilizzatore finale. Pertanto, una volta che l’utilizzatore finale abbia richiesto al PSP di       eseguire l’operazione di pagamento nei confronti dell’Ente Creditore, il pagatore e il PSP non potranno mai revocare l’ordine di pagamento ovvero       pregiudicare il carattere definitivo della relativa operazione di pagamento.
+    Per la descrizione dettagliata dei modelli di pagamento si rimanda alla documentazione disponibile sul sito dell’Agenzia. Si precisa che,
+    a prescindere al modello di pagamento utilizzato, in linea con quanto previsto dalla direttiva europea in materia di servizi di pagamento,
+    l’ordine di  pagamento ricevuto dal PSP è irrevocabile da parte dell’utilizzatore finale. Pertanto, una volta che l’utilizzatore finale abbia richiesto al PSP di       eseguire l’operazione di pagamento nei confronti dell’Ente Creditore, il pagatore e il PSP non potranno mai revocare l’ordine di pagamento
+    ovvero  pregiudicare il carattere definitivo della relativa operazione di pagamento.
 
     *Parole chiave: PSP*
 ..
@@ -169,71 +182,61 @@
     | Questa tabella mostra alcuni esempi di come cambiano i costi di commissione per il pagamento di un servizio prima e dopo  l’introduzione di pagoPA:
 
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Canali di | Commissioni prima di pagoPA            | con pagoPA                                                                                   |
-    | pagamento |                                        |                                                                                              |
+    | Canali di  pagamento| Commissioni prima di pagoPA            | con pagoPA                                                                         |
+    |                     |                                        |                                                                                    |
     +===========+========================================+==============================================================================================+
-    | Home      | Variabili in base al rapporto Banca-   | Variabili, a partire da zero, in base al rapporto Banca-Cliente.                             |
-    | Banking/C | Cliente e in base alla Banca scelta    |                                                                                              |
-    | BILL      |                                        |                                                                                              |
+    | Home                | Variabili in base al rapporto Banca-   | Variabili, a partire da zero, in base al rapporto Banca-Cliente.                   |
+    | Banking/C BILL      | Cliente e in base alla Banca scelta    |                                                                                    |
+    |                     |                                        |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Non       |                                        |                                                                                              |
-    | superiori |                                        |                                                                                              |
-    | rispetto  |                                        |                                                                                              |
-    | a prima   |                                        |                                                                                              |
+    | Non superiori       |                                        |                                                                                    |
+    | rispetto a prima    |                                        |                                                                                    |
+    |                     |                                        |                                                                                    |
+    |                     |                                        |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Agenzie   | A partire da 2 Euro e dipendenti dalla | A partire da 1,30 Euro dipendenti dalla Banca scelta. Servizio disponibile presso tutti i    |
-    | Bancarie  | Banca. Non disponibile in tutti gli    | PSP aderenti a pagoPA                                                                        |
-    | e ATM (1) | Istituti.                              |                                                                                              |
+    | Agenzie  Bancarie   | A partire da 2 Euro e dipendenti dalla | A partire da 1,30 Euro dipendenti dalla Banca scelta. Servizio disponibile presso  |
+    | e ATM (1)           | Banca. Non disponibile in tutti gli    | tutti i PSP aderenti a pagoPA                                                      |
+    |                     | Istituti.                              |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Sito      | Non sempre il servizio era             | Il cittadino paga in base al PSP e allo strumento che sceglie (Conto corrente, carta di      |
-    | della     | disponibile. Quando disponibile le     | credito, altro). In alcuni casi le commissioni sono pari a 0 quando si paga con addebito in  |
-    | PA/Comune | commissioni erano imposte dalla Banca  | conto (es. Banca Intesa, Banco di Napoli, CR Veneto, altre). Sulla carta di credito grazie   |
-    |           | Tesoriera scelta dalla PA e assorbite  | alla tecnologia di pagoPA i costi di commissione sono ottimizzati                            |
-    |           | dalla PA                               |                                                                                              |
+    | Sito della          | Non sempre il servizio era             | Il cittadino paga in base al PSP e allo strumento che sceglie (Conto corrente,     |
+    | PA/Comune           | disponibile. Quando disponibile le     | carta di credito, altro). In alcuni casi le commissioni sono pari a 0 quando si    |
+    |                     | commissioni erano imposte dalla Banca  | paga con addebito in conto (es. Banca Intesa, Banco di Napoli, CR Veneto, altre).  |
+    |                     | Tesoriera scelta dalla PA e assorbite  | Sulla carta di credito grazie alla tecnologia di pagoPA i costi di commissione     |
+    |                     | dalla PA                               | sono ottimizzati                                                                   |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | POSTE     | 1,10 - 1,50 Euro                       | 1,10 - 1,50 Euro                                                                             |
-    | tramite   |                                        |                                                                                              |
-    | bollettin |                                        |                                                                                              |
-    | o         |                                        |                                                                                              |
-    | postale   |                                        |                                                                                              |
-    | (1) (2)   |                                        |                                                                                              |
+    | POSTE tramite       | 1,10 - 1,50 Euro                       | 1,10 - 1,50 Euro                                                                   |
+    | bollettino postale  |                                        |                                                                                    |
+    | (1) (2)             |                                        |                                                                                    |
+    |                     |                                        |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Sisal (1) | 2 Euro                                 | 2 Euro                                                                                       |
-    | (2)       |                                        |                                                                                              |
+    | Sisal (1) (2)       | 2 Euro                                 | 2 Euro                                                                             |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Lottomati | 2 Euro                                 | 2 Euro                                                                                       |
-    | ca        |                                        |                                                                                              |
-    | (1) (2)   |                                        |                                                                                              |
+    | Lottomatica         | 2 Euro                                 | 2 Euro                                                                             |
+    | (1) (2)             |                                        |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Banca 5   | 2 Euro                                 | 1,70 Euro (in promozione fino a data da definirsi)                                           |
-    | (ITB) (1) |                                        |                                                                                              |
-    | (2)       |                                        |                                                                                              |
+    | Banca 5             | 2 Euro                                 | 1,70 Euro (in promozione fino a data da definirsi)                                 |
+    | (ITB) (1)           |                                        |                                                                                    |
+    | (2)                 |                                        |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | PayPAL    | Non sempre disponibile                 | In base al tipo di carta o al tipo di conto. Condizioni di favore per pagoPA:                |
-    | (2)       |                                        |                                                                                              |
+    | PayPAL              | Non sempre disponibile                 | In base al tipo di carta o al tipo di conto. Condizioni di favore per pagoPA:      |
+    | (2)                 |                                        |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | 1,50 Euro |                                        |                                                                                              |
-    | (indipend |                                        |                                                                                              |
-    | ente      |                                        |                                                                                              |
-    | dall’impo |                                        |                                                                                              |
-    | rto)      |                                        |                                                                                              |
+    | 1,50 Euro           |                                        |                                                                                    |
+    | (indipendente       |                                        |                                                                                    |
+    | dall’importo)       |                                        |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Supermerc | In base alla catena                    | In base alla catena                                                                          |
-    | ati       |                                        |                                                                                              |
-    | (GDO) (1) |                                        |                                                                                              |
-    | (2)       |                                        |                                                                                              |
+    | Supermercati        | In base alla catena                    | In base alla catena                                                                |
+    | (GDO) (1)  (2)      |                                        |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | F24       | Gratuito per il cittadino (le          | ND                                                                                           |
-    |           | commissioni vengono assorbite dallo    |                                                                                              |
-    |           | stato)                                 |                                                                                              |
+    | F24                 | Gratuito per il cittadino (le          | ND                                                                                 |
+    |                     | commissioni vengono assorbite dallo    |                                                                                    |
+    |                     | stato)                                 |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Pagamento | Contante o carta di credito. La        | A breve disponibili attraverso POS fisici integrati con pagamento tramite carta di credito.  |
-    | presso    | commissione dipende dall’accordo di    |                                                                                              |
-    | sportelli | tesoreria e viene assorbito dalla PA   |                                                                                              |
-    | fisici    |                                        |                                                                                              |
-    | della PA  |                                        |                                                                                              |
+    | Pagamento presso    | Contante o carta di credito. La        | A breve disponibili attraverso POS fisici integrati con pagamento tramite carta    |
+    | sportelli fisici    | commissione dipende dall’accordo di    | di credito.                                                                        |
+    | della PA            | tesoreria e viene assorbito dalla PA   |                                                                                    |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
-    | Satispay  | Non disponibile                        | 0 euro fino a 10 Euro e 0,20 per importi superiori                                           |
+    | Satispay            | Non disponibile                        | 0 euro fino a 10 Euro e 0,20 per importi superiori                                 |
     +-----------+----------------------------------------+----------------------------------------------------------------------------------------------+
 
     **Note**
@@ -362,13 +365,16 @@
 
 :Q: **A29: Qual è il livello di sicurezza dei pagamenti che avvengono su pagoPA?**
 :A:
-    Il livello di sicurezza è garantito dall’aderenza alle normative di sicurezza stabilite dalla Payment Card Industry (PCI) e all’aderenza   ai requisiti sulla Strong Authentication previsti dalla PSD2. Tutti gli istituti di pagamento (Prestatori di Servizi a Pagamento) aderenti al   sistema pagoPA devono sottostare ai requisiti di sicurezza e di prevenzione delle frodi imposti dalla PSD e PSD2.
+    Il livello di sicurezza è garantito dall’aderenza alle normative di sicurezza stabilite dalla Payment Card Industry (PCI) e all’aderenza   ai requisiti sulla Strong Authentication previsti dalla PSD2. Tutti gli istituti di pagamento (Prestatori di Servizi a Pagamento) aderenti
+    al sistema pagoPA devono sottostare ai requisiti di sicurezza e di prevenzione delle frodi imposti dalla PSD e PSD2.
 
 ..
 
 :Q: **A30: L’F24 è uno dei metodi di pagamento di pagoPA?**
 :A:
-    No. Al momento, pagoPA non gestisce lo strumento di pagamento dell’F24 che resta obbligatorio per le PA in fase di incasso solo ed   esclusivamente se sussiste una normativa che obbliga all’uso esclusivo dell’F24 per gli incassi di quello specifico servizio e che come previsto al   paragrafo 5 delle Linee Guida, rappresenta uno strumento di pagamento fuori da pagoPA utilizzabile sino alla sua prossima integrazione con il   sistema.
+    No. Al momento, pagoPA non gestisce lo strumento di pagamento dell’F24 che resta obbligatorio per le PA in fase di incasso solo ed
+    esclusivamente se sussiste una normativa che obbliga all’uso esclusivo dell’F24 per gli incassi di quello specifico servizio e che come previsto al
+    paragrafo 5 delle Linee Guida, rappresenta uno strumento di pagamento fuori da pagoPA utilizzabile sino alla sua prossima integrazione con il sistema.
 
 ..
 
