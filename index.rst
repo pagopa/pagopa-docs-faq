@@ -3,7 +3,7 @@
 +-------------+
 
 ####################################
-Domande frequenti del sistema pagoPA
+Domande frequenti sul sistema pagoPA
 ####################################
 
 .. toctree::
