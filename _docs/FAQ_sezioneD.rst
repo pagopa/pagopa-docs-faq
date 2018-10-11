@@ -3,8 +3,8 @@
 | |AGID_logo| |
 +-------------+
 
-**Gruppo D - Domande frequenti sull'adesione dei Prestatori di Pagamento**
-==========================================================================
+**Gruppo D - Domande frequenti sull'adesione dei Prestatori dei Servizi di Pagamento**
+======================================================================================
 
 ..
 
