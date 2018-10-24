@@ -411,23 +411,23 @@
 
     ..
 
-    :Q: **A33: Cosa si deve intendere per pagamenti eseguiti per cassa, presso il soggetto che per tale ente svolge il servizio di tesoreria o di cassa?**
-    :A: Al paragrafo 5 delle Linee Guida sono indicati i servizi di pagamento che possono ancora essere gestiti fuori dal sistema pagoPA, e tra questi alla lettera d) ci si riferisce esclusivamente ai pagamenti in contanti eseguiti presso la banca che svolge il servizio di tesoriera e cassa per l’Ente Creditore.
-        Pertanto, non rientrano nella indicazione di cui alla lettera d) le operazioni di pagamento eseguite presso i pos fisici installati presso l’ente Creditorie, non essendo pagamento in contanti, né i pagamenti in contanti eseguiti presso PSP diversi dalla banca tesoriera o cassiera, non essendo pagamenti eseguiti presso la banca che svolge il servizio di tesoriera e cassa per l’Ente Creditore.
-        Difatti, la gestione della cassa dell’ente è di competenza esclusiva della banca tesoriere o cassiera e fa riferimento esclusivamente ai pagamenti eseguiti in contanti presso tale banca.
+:Q: **A33: Cosa si deve intendere per pagamenti eseguiti per cassa, presso il soggetto che per tale ente svolge il servizio di tesoreria o di cassa?**
+:A: Al paragrafo 5 delle Linee Guida sono indicati i servizi di pagamento che possono ancora essere gestiti fuori dal sistema pagoPA, e tra questi alla lettera d) ci si riferisce esclusivamente ai pagamenti in contanti eseguiti presso la banca che svolge il servizio di tesoriera e cassa per l’Ente Creditore.
+    Pertanto, non rientrano nella indicazione di cui alla lettera d) le operazioni di pagamento eseguite presso i pos fisici installati presso l’ente Creditorie, non essendo pagamento in contanti, né i pagamenti in contanti eseguiti presso PSP diversi dalla banca tesoriera o cassiera, non essendo pagamenti eseguiti presso la banca che svolge il servizio di tesoriera e cassa per l’Ente Creditore.
+    Difatti, la gestione della cassa dell’ente è di competenza esclusiva della banca tesoriere o cassiera e fa riferimento esclusivamente ai pagamenti eseguiti in contanti presso tale banca.
 
 
-        *Parole chiave: obbligatorietà*
+    *Parole chiave: obbligatorietà*
 
-      ..
+  ..
 
-      :Q: **A34: Sono ancora consentiti i pagamenti tramite MAV?**
-      :A: Al paragrafo 5 delle Linee Guida sono indicati i servizi di pagamento che possono ancora essere gestiti fuori dal sistema pagoPA,
-          e tra questi non rientrano i MAV, per i quali a decorrere dal 1 gennaio 2018 sarà efficace il divieto (art. 65, comma 2, D. lgs n. 217/2017)
-          in capo al PSP di dare seguito a tali avvisi di pagamento fuori dal sistema pagoPA, ove il beneficiario sia un soggetto obbligato ad aderire
-          a pagoPA. Si veda anche la FAQ C8.
+:Q: **A34: Sono ancora consentiti i pagamenti tramite MAV?**
+:A: Al paragrafo 5 delle Linee Guida sono indicati i servizi di pagamento che possono ancora essere gestiti fuori dal sistema pagoPA,
+    e tra questi non rientrano i MAV, per i quali a decorrere dal 1 gennaio 2018 sarà efficace il divieto (art. 65, comma 2, D. lgs n. 217/2017)
+    in capo al PSP di dare seguito a tali avvisi di pagamento fuori dal sistema pagoPA, ove il beneficiario sia un soggetto obbligato ad aderire
+    a pagoPA. Si veda anche la FAQ C8.
 
-          *Parole chiave: obbligatorietà*
+      *Parole chiave: obbligatorietà*
 
 .. |AGID_logo| image:: media/header.png
     :width: 5.90551in
