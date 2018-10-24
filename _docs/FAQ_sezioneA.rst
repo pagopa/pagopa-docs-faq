@@ -400,14 +400,12 @@
 ..
 
 :Q: **A32: Le amministrazioni hanno l’obbligo di pubblicare gli IBAN dei conti correnti loro intestati?**
-:A: In considerazione della centralità a livello nazionale del Sistema pagoPA quale piattaforma unica per la gestione degli incassi, i
-    soggetti obbligati all’adesione a pagoPA non possono richiedere agli utenti pagamenti tramite bonifico che non siano integrati con il Sistema pagoPA.
+:A: In considerazione della centralità a livello nazionale del Sistema pagoPA quale piattaforma unica per la gestione degli incassi,
+    i soggetti obbligati all’adesione a pagoPA non possono richiedere agli utenti pagamenti tramite bonifico che non siano integrati con il Sistema pagoPA e proprio per tale ragione, al paragrafo 5 delle Linee Guida è precisato che <i>“per evitare che gli utenti possano eseguire dei bonifici non integrati con il Sistema pagoPA, è fatto divieto ai soggetti tenuti per legge all’adesione a pagoPA di pubblicare in qualsiasi modo l’IBAN di accredito”</i>.
+    Tale divieto, che non prevede eccezioni, decorre dalla data di pubblicazione delle Linee Guida (Gazzetta Ufficiale n. 152 del 3.7.2018) ed il relativo rispetto è ancora più cogente in quanto interessa sia le PA che i PSP in considerazione del divieto per i PSP dal 1 gennaio 2019 di eseguire operazioni extra Nodo.
+    Pertanto, le amministrazioni e gli altri Enti aderenti a pagoPA devono rivedere la propria modulistica, al fine di eliminare ogni riferimento in chiaro all’IBAN per il pagamento.
+    Resta però fermo che, laddove un utente, però, avendo in proprio memoria di tale IBAN, esegua un bonifico extra pagoPA, tale pagamento andrà comunque gestito dall’Ente Creditore quale singola eccezione, laddove il PSP non si riuscito a bloccarlo, con l’auspico che tali eccezioni siano sempre di numero inferiore nel tempo, per addivenire ad un pieno rispetto della legge da parte dei PSP e degli Enti Creditori.
 
-    Proprio per evitare l’esecuzione di bonifici extra pagoPA, AgID da sempre sconsiglia agli enti aderenti di pubblicare in qualsiasi modo o comunque
-    rendere pubblico l’IBAN di accredito e, in tal senso, anche il nuovo testo dell’art. 5 del CAD, rispetto alla precedente versione, non prevede più
-    tale obbligo di pubblicazione dell’IBAN da parte delle amministrazioni.
-    Resta però fermo che, laddove un utente, però, avendo in proprio memoria di tale IBAN, esegua un bonifico extra pagoPA, tale pagamento andrà
-    comunque gestito dall’Ente Creditore quale singola eccezione, con l’auspico che tali eccezioni siano sempre di numero inferiore nel tempo.
 
     *Parole chiave: obbligatorietà*
 
