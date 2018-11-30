@@ -396,7 +396,6 @@
     europea, come recepita a livello nazionale, essendo il sistema pagoPA già compliance con la PSD1 e con la PSD2, come recepite a livello nazionale.
 
     *Parole chiave: obbligatorietà*
-
 ..
 
 :Q: **A32: Le amministrazioni hanno l’obbligo di pubblicare gli IBAN dei conti correnti loro intestati?**
@@ -406,12 +405,23 @@
     Pertanto, le amministrazioni e gli altri Enti aderenti a pagoPA devono rivedere la propria modulistica, al fine di eliminare ogni riferimento in chiaro all’IBAN per il pagamento.
     Resta però fermo che, laddove un utente, però, avendo in proprio memoria di tale IBAN, esegua un bonifico extra pagoPA, tale pagamento andrà comunque gestito dall’Ente Creditore quale singola eccezione, laddove il PSP non si riuscito a bloccarlo, con l’auspico che tali eccezioni siano sempre di numero inferiore nel tempo, per addivenire ad un pieno rispetto della legge da parte dei PSP e degli Enti Creditori.
 
+    *Parole chiave: obbligatorietà*
+
+..
+
+:Q: **A33: Il divieto di pubblicazione dell’IBAN contrasta con quanto previsto dalla normativa in materia di trasparenza amministrativa?**
+:A: Per l’attuazione dell’obbligo di utilizzo del sistema pagoPA, al paragrafo 5 delle Linee Guida è precisato che “per evitare che gli utenti possano eseguire dei bonifici non integrati con il Sistema pagoPA, è fatto divieto ai soggetti tenuti per legge all’adesione a pagoPA di pubblicare in qualsiasi modo l’IBAN di accredito”.
+    Tale divieto, che non prevede eccezioni, decorre dalla data di pubblicazione delle Linee Guida (Gazzetta Ufficiale n. 152 del 3.7.2018) ed il relativo rispetto è ancora più cogente in quanto interessa sia le PA che i PSP in considerazione del divieto per i PSP dal 1 gennaio 2019 di eseguire operazioni extra Nodo.
+    Il divieto di pubblicazione dell’IBAN, non è in contrasto con quanto stabilito in materia di trasparenza amministrativa, e precisamente con l’articolo 36 del D. lgs 14 marzo 2013, n. 33 ai sensi del quale “Le pubbliche amministrazioni pubblicano e specificano nelle richieste di pagamento i dati e le informazioni di cui all'articolo 5 del decreto legislativo 7 marzo 2005, n. 82”.
+    Infatti, l’attuale articolo 5 del CAD, così come modificato dal D.Lgs. n. 179/2016 e successivamente corretto dal D.Lgs n. 217/2017 non stabilisce più l’obbligo di pubblicazione dell’IBAN da parte delle amministrazioni, ma si limita a stabilire l’utilizzo della piattaforma di cui al sistema pagoPA.
+    Pertanto, l’articolo 36 già indicato, già dalla data di entrata in vigore del D.Lgs. n. 179/2016, non deve essere più attuato con la pubblicazione dell’IBAN ma, al contrario, deve essere opportunamente coordinato con il vigente testo dell’articolo 5 del CAD.
+    Proprio per tale ragione di coordinamento e per evitare il mancato utilizzo da parte dei cittadini pagatori del sistema pagoPA, l’AGID, al paragrafo 5 delle Linee Guida, ha puntualizzato il divieto già richiamato in merito alla pubblicazione dell’IBAN.
 
     *Parole chiave: obbligatorietà*
 
-    ..
+..
 
-:Q: **A33: Cosa si deve intendere per pagamenti eseguiti per cassa, presso il soggetto che per tale ente svolge il servizio di tesoreria o di cassa?**
+:Q: **A34: Cosa si deve intendere per pagamenti eseguiti per cassa, presso il soggetto che per tale ente svolge il servizio di tesoreria o di cassa?**
 :A: Al paragrafo 5 delle Linee Guida sono indicati i servizi di pagamento che possono ancora essere gestiti fuori dal sistema pagoPA, e tra questi alla lettera d) ci si riferisce esclusivamente ai pagamenti in contanti eseguiti presso la banca che svolge il servizio di tesoriera e cassa per l’Ente Creditore.
     Pertanto, non rientrano nella indicazione di cui alla lettera d) le operazioni di pagamento eseguite presso i pos fisici installati presso l’ente Creditorie, non essendo pagamento in contanti, né i pagamenti in contanti eseguiti presso PSP diversi dalla banca tesoriera o cassiera, non essendo pagamenti eseguiti presso la banca che svolge il servizio di tesoriera e cassa per l’Ente Creditore.
     Difatti, la gestione della cassa dell’ente è di competenza esclusiva della banca tesoriere o cassiera e fa riferimento esclusivamente ai pagamenti eseguiti in contanti presso tale banca.
@@ -419,9 +429,9 @@
 
     *Parole chiave: obbligatorietà*
 
-  ..
+..
 
-:Q: **A34: Sono ancora consentiti i pagamenti tramite MAV?**
+:Q: **A35: Sono ancora consentiti i pagamenti tramite MAV?**
 :A: Al paragrafo 5 delle Linee Guida sono indicati i servizi di pagamento che possono ancora essere gestiti fuori dal sistema pagoPA,
     e tra questi non rientrano i MAV, per i quali a decorrere dal 1 gennaio 2018 sarà efficace il divieto (art. 65, comma 2, D. lgs n. 217/2017)
     in capo al PSP di dare seguito a tali avvisi di pagamento fuori dal sistema pagoPA, ove il beneficiario sia un soggetto obbligato ad aderire
