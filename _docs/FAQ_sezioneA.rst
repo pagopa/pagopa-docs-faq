@@ -439,6 +439,4 @@
 
       *Parole chiave: obbligatorietà*
 
-.. |AGID_logo| image:: media/header.png
-    :width: 5.90551in
-    :height: 1.30277in
+.. |AGID_logo| image:: media/AGID_logo.png

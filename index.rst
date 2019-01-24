@@ -1,6 +1,6 @@
-+-------------+
-| |AGID_logo| |
-+-------------+
++-----------------------------+
+| |AGID_logo_carta_intestata| |
++-----------------------------+
 
 ####################################
 Domande frequenti sul sistema pagoPA
@@ -15,6 +15,4 @@ Domande frequenti sul sistema pagoPA
    _docs/FAQ_sezioneC.rst
    _docs/FAQ_sezioneD.rst
 
-.. |AGID_logo| image:: _docs/media/header.png
-   :width: 5.90551in
-   :height: 1.30277in
+.. |AGID_logo_carta_intestata| image:: _docs/media/AGID_logo.png

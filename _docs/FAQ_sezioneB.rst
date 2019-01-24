@@ -133,7 +133,17 @@
     *Parole chiave: obbligatorietà, bollettino , PSP*
 ..
 
-:Q: **B7: Le convenzioni in essere su servizi di tesoreria tra PA e PSP sono ancora valide?**
+:Q: **B7: Per l’emissione dei nuovi bollettini postali, gli Enti Creditori devono fare richiesta a Poste Italiane per l’autorizzazione alla stampa in proprio?**
+:A:
+    Nel documento “L’avviso di pagamento analogico nel sistema pagoPA” pubblicato sul sito dell’AgID viene specificato che: *“Gli Enti Creditori che intendono utilizzare il nuovo bollettino postale possono fare richiesta a Poste Italiane, per ottenere la necessaria Autorizzazione alla stampa in proprio”*.
+    L’autorizzazione deve essere richiesta a Poste Italiane così come definito nel Manuale della stampa in proprio, consultabile alla pagina poste.it, area PA, accedendo alla sezione incassi e pagamenti e cliccando sulla dicitura Bollettino Postale, in modo da accedere alla pagina che contiene tutti i documenti necessari per richiedere le autorizzazioni alla stampa, ivi compreso il Manuale che descrive come deve essere predisposto il nuovo Bollettino PA.
+    Inoltre, si precisa che Poste Italiane ha precisato che la nuova autorizzazione massiva per la produzione di bollettini PA integrati nell’avviso pagoPA, proprio per la sua natura, sarà richiedibile anche da soggetti diversi dagli stampatori, quali Partner tecnologici o SW house degli Enti.
+
+    *Parole chiave: obbligatorietà, bollettino, PSP*
+
+..
+
+:Q: **B8: Le convenzioni in essere su servizi di tesoreria tra PA e PSP sono ancora valide?**
 :A:
     Le convenzioni e/o gli accordi negoziali in essere tra una Pubblica Amministrazione e uno o più Prestatori di Servizi di Pagamento,
     ancorché aventi ad oggetto l’attività di incasso in modalità elettronica non coerenti con le Linee Guida, saranno validi sino alla loro naturale
@@ -143,7 +153,7 @@
     *Parole chiave: PSP*
 ..
 
-:Q: **B8: Il sistema pagoPA garantisce il rispetto del divieto di surcharge?**
+:Q: **B9: Il sistema pagoPA garantisce il rispetto del divieto di surcharge?**
 :A:
     La PSD e la PSD2 ovvero le direttive europee in materia di servizi di pagamento in ambito Europeo (SEPA) e, al pari, la rispettiva
     normativa nazionale di recepimento, proibiscono che il cittadino sia chiamato a pagare un sovrapprezzo richiesto dal beneficiario per l’esecuzione
@@ -175,7 +185,7 @@
     *Parole chiave: carta, PSP*
 ..
 
-:Q: **B9: Nell’ambito del Sistema pagoPA, quali documenti occorre conservare a norma? Le RT, le RPT o il solo Flusso di rendicontazione?**
+:Q: **B10: Nell’ambito del Sistema pagoPA, quali documenti occorre conservare a norma? Le RT, le RPT o il solo Flusso di rendicontazione?**
 :A:
     La conservazione è l’attività finalizzata a proteggere, nel tempo, i documenti informatici e i dati ivi contenuti, assicurandone, tra
     l’altro, la sicurezza, l'integrità e la non modificabilità, al fine di preservare il valore probatorio del documento informatico e, nel caso
@@ -198,7 +208,7 @@
 
 ..
 
-:Q: **B10: Ѐ possibile l’interconnessione tra Nodo e circuiti internazionali di pagamento?**
+:Q: **B11: Ѐ possibile l’interconnessione tra Nodo e circuiti internazionali di pagamento?**
 :A:
     In coerenza con l’obiettivo del Nodo dei Pagamenti-SPC di garantire il libero mercato dei PSP, l’AgID ha stabilito nelle Linee Guida che
     anche i PSP non nazionali possano aderire al sistema per erogare servizi di pagamento agli utenti della PA italiana, a condizione che risultino
@@ -210,7 +220,7 @@
     *Parole chiave: PA*
 ..
 
-:Q: **B11: Le disposizioni di pagamento effettuate tramite il Nodo sono revocabili?**
+:Q: **B12: Le disposizioni di pagamento effettuate tramite il Nodo sono revocabili?**
 :A:
     la PSD e la PSD2 e la rispettiva normativa nazionale di recepimento, stabiliscono, in via generale, l’irrevocabilità dell’ordine di
     pagamento una volta che tale ordine sia stato ricevuto dal PSP. Applicando tale previsione normativa alle modalità di pagamento di cui al Nodo dei
@@ -220,39 +230,15 @@
     *Parole chiave: PA*
 ..
 
-:Q: **B12: Da quando decorre l’effetto liberatorio per il pagamento di sanzioni del codice della strada eseguito attraverso il Sistema pagoPA?**
+:Q: **B13: Da quando decorre l’effetto liberatorio per il pagamento di sanzioni del codice della strada eseguito attraverso il Sistema pagoPA?**
 :A:
-    Come noto l’art. 202 del CdS prevede il termine di 5 e di 60 giorni per il pagamento in misura ridotta della sanzione.
-    Sull’effetto liberatorio dei pagamenti delle sanzioni del CdS è intervenuto il decreto-legge 14 febbraio 2016, n. 18, convertito con la legge 8
-    aprile 2016, n. 49 che all´art. 17quinquies prevede che: “il primo e il secondo periodo del comma 1 dell'articolo 202 del codice della strada, di
-    cui al decreto legislativo 30 aprile 1992, n. 285, si interpretano nel senso che, per i pagamenti diversi da quelli in contanti o tramite conto
-    corrente postale, l'effetto liberatorio del pagamento si produce se l'accredito a favore dell'amministrazione avviene entro due giorni dalla data di
-    scadenza del pagamento”.
+    Come noto l’art. 202 del CdS prevede il termine di 5 e di 60 giorni per il pagamento in misura ridotta della sanzione. Sull’effetto liberatorio dei pagamenti delle sanzioni del CdS è intervenuto il decreto-legge 14 febbraio 2016, n. 18, convertito con la legge 8 aprile 2016, n. 49 che all´art. 17quinquies prevede che: “il primo e il secondo periodo del comma 1 dell'articolo 202 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, si interpretano nel senso che, per i pagamenti diversi da quelli in contanti o tramite conto corrente postale, l'effetto liberatorio del pagamento si produce se l'accredito a favore dell'amministrazione avviene entro due giorni dalla data di scadenza del pagamento”. Ciò detto appare opportuno tenere nella debita considerazione che la normativa appena richiamata, facendo riferimento proprio a due giorni necessari per l’accredito dell’operazione di pagamento richiesta nel sistema interbancario, si riferirsi al termine di legge (T+1) stabilito dalla PSD1 e confermato dalla PSD2 e introdotto nel nostro ordinamento dal D.Lgs n. 11/2010 di recepimento della direttiva. Pertanto, tale normativa fa riferimento al concetto di giornata operativa che si differisce da quello di giornata lavorativa anche per la durata della prima rispetto alla seconda.
 
-    Ciò detto appare opportuno tenere nella debita considerazione che la normativa appena richiamata, facendo riferimento proprio a due giorni necessari
-    per l’accredito dell’operazione di pagamento richiesta nel sistema interbancario, si riferirsi al termine di legge (T+1) stabilito dalla PSD1 e
-    confermato dalla PSD2 e introdotto nel nostro ordinamento dal D.Lgs n. 11/2010 di recepimento della direttiva.
-    Pertanto, tale normativa fa riferimento al concetto di giornata operativa che si differisce da quello di giornata lavorativa anche per la durata
-    della prima rispetto alla seconda.
+    Tutto ciò premesso, si puntualizza che l’art. 17quinquies, in quanto inerenti i termini di un’operazione di pagamento, con l’espressione “due giorni” fa riferimento a due giorni operativi e non lavorativi, con l’effetto che, né il sabato, né i festivi, la domenica inclusa, sono giorni operativi e che, pertanto, per il calcolo di tali due giorni non devono essere conteggiati, né il sabato, né la domenica, né gli altri giorni festivi dell’anno. Inoltre, appare, altresì, opportuno segnalare che l´art. 17quinquies del decreto-legge 14 febbraio 2016, n. 18, convertito con la legge 8 aprile 2016, n. 49, non fa alcun riferimento al Sistema pagoPA, ossia al sistema dei pagamenti in favore di soggetti pubblici attraverso la piattaforma di cui all’art. 5 del CAD messa a disposizione da AgID che introduce una maggiore certezza sui pagamenti eseguiti e amplia l’effetto liberatorio degli stessi e che prevede anche un pari valore liberatorio tra i pagamenti eseguiti con bollettino postale e quelli eseguiti con altri strumenti messi a disposizione dal sistema bancario. Infatti, per i pagamenti eseguiti attraverso il Sistema pagoPA, in virtù dell’efficacia liberatoria propria dei pagamenti elettronici eseguiti tramite pagoPA, per tali pagamenti, inclusi quelli appunti delle sanzioni del CdS, l’effetto liberatorio di produce dalla data di pagamento riportata sulle ricevute di pagamento (RT) che il Sistema pagoPA mette a disposizione dei singoli enti beneficiari.
 
-    Tutto ciò premesso, si puntualizza che l’art. 17quinquies, in quanto inerenti i termini di un’operazione di pagamento, con l’espressione “due
-    giorni” fa riferimento a due giorni operativi e non lavorativi, con l’effetto che, né il sabato, né i festivi, la domenica inclusa, sono giorni
-    operativi e che, pertanto, per il calcolo di tali due giorni non devono essere conteggiati, né il sabato, né la domenica, né gli altri giorni
-    festivi dell’anno.
-    Inoltre, appare, altresì, opportuno segnalare che l´art. 17quinquies del decreto-legge 14 febbraio 2016, n. 18, convertito con la legge 8 aprile
-    2016, n. 49, non fa alcun riferimento al Sistema pagoPA, ossia al sistema dei pagamenti in favore di soggetti pubblici attraverso la piattaforma di
-    cui all’art. 5 del CAD messa a disposizione da AgID che introduce una maggiore certezza sui pagamenti eseguiti e amplia l’effetto liberatorio degli
-    stessi e che prevede anche un pari valore liberatorio tra i pagamenti eseguiti con bollettino postale e quelli eseguiti con altri strumenti messi a
-    disposizione dal sistema bancario.
-
-    Infatti, per i pagamenti eseguiti attraverso il Sistema pagoPA, in virtù dell’efficacia liberatoria propria dei pagamenti elettronici eseguiti
-    tramite pagoPA, per tali pagamenti, inclusi quelli appunti delle sanzioni del CdS, l’effetto liberatorio di produce dalla data di pagamento
-    riportata sulle ricevute di pagamento (RT) che il Sistema pagoPA mette a disposizione dei singoli enti beneficiari.
 
     *Parole chiave: multe, PA*
 
 
 
-    .. |AGID_logo| image:: media/header.png
-       :width: 5.90551in
-       :height: 1.30277in
+.. |AGID_logo| image:: media/AGID_logo.png
