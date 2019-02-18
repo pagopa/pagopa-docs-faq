@@ -289,6 +289,7 @@ Tali documenti sono sufficienti per ricostruire interamente la vicenda da parte 
 
 
 A21: Come segnalo un pagamento errato?
+--------------------------------------
 pagoPA non consente pagamenti errati perché controlla l’esistenza della posizione debitoria e la sua consistenza al momento del pagamento.
 
 Nel caso in cui un tributo sia stato pagato con pagoPA e anche al di fuori di esso (ad esempio tramite un F24, se l’Ente Creditore lo consente), il   cittadino potrà segnalarlo all’Ente Creditore con gli strumenti messi a disposizione.
@@ -362,6 +363,7 @@ legge a seconda della data dell’avvenuta notifica nei confronti dell’obbliga
 
 
 A28: La ricevuta telematica deve essere sottoposta a bollo, considerata la sua efficacia liberatoria?
+-----------------------------------------------------------------------------------------------------
 Attraverso l’interazione tra l’ Ente Creditore e il PSP aderente, il pagamento eseguito con pagoPA ha efficacia liberatoria per l’utente,
 oltre che del pagamento effettuato, anche della posizione debitoria sottostante, ancorché tale pagamento non sia eseguito presso l’ente o presso la
 banca tesoriera e/o cassiera dell’ente stesso. All’esito dell’operazione di pagamento, il PSP aderente, di norma, rilascia all’utente pagatore la ricevuta telematica (RT) che il sistema pagoPA comunque mette a disposizione della PA e che, in caso di esito positivo della richiesta di pagamento,   assume, come appena ricordato, efficacia liberatoria per l’utente.
@@ -390,6 +392,7 @@ paragrafo 5 delle Linee Guida, rappresenta uno strumento di pagamento fuori da p
 
 
 A31: Le modifiche al CAD hanno introdotto nuovi termini per l’adesione a pagoPA?
+--------------------------------------------------------------------------------
 Il Decreto legislativo 13 dicembre 2017, n. 217 (G.U. n. 9 del 12.01.2018) a correzione del CAD, ha introdotto all’articolo 65, comma 2, del Codice
 «L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto
 legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 31 dicembre 2019».

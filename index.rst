@@ -8,6 +8,7 @@ Domande frequenti sul sistema pagoPA
 
 .. toctree::
    :caption: Indice dei contenuti
+   :maxdepth: 1
 
    _docs/Glossario.rst
    _docs/FAQ_sezioneA.rst
