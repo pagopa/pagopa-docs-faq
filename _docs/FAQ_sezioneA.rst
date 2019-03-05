@@ -58,7 +58,7 @@ i pagamenti e di automatizzare gli incassi, rendendone più facile ed efficiente
 A6: È obbligatorio per un Ente pubblico offrire come metodo di pagamento pagoPA?
 --------------------------------------------------------------------------------
 Le Pubbliche Amministrazioni sono tenute per legge ad aderire al sistema di pagamento pagoPA. Le PA che non hanno rapporti diretti con
-cittadini e imprese, possono essere esentate dall’adesione al sistema, purché abbiano inviato ad AgID la specifica dichiarazione per tale esenzione.
+cittadini e imprese, possono essere esentate dall’adesione al sistema, purché abbiano inviato ad AgID la `specifica dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`_ per tale esenzione.
 L’obbligo di adesione al sistema pagoPA è esteso anche ai gestori di pubblici servizi e alle società a controllo pubblico.
 Il D.Lgs. n. 179/2016 (G.U. n. 214 del 13.9.2016) e il D.Lgs n. 217/2017 (G.U. n. 9 del 12.01.2018) hanno rispettivamente modificato e corretto  l’articolo 2, comma 2, del CAD introducendo nel perimetro soggettivo del CAD anche i gestori di pubblici servizi e le società a controllo pubblico,    come definite nel decreto legislativo adottato in attuazione dell’articolo 18 della legge n. 124 del 2015, escluse le società quotate. Il D.Lgs. n.        175/2016, all’articolo 2, lettera m), ha delineato il concetto di società a controllo pubblico. In particolare, le società a controllo pubblico sono  definite come quelle società in cui una o più amministrazioni pubbliche esercitano poteri di controllo ai sensi dell'articolo 2359 del codice civile, e precisamente:
 
