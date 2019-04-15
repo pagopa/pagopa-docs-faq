@@ -475,4 +475,22 @@ a pagoPA. Si veda anche la FAQ C8.
   *Parole chiave: obbligatorietà*
 
 
+  A36: Come funziona il ri-versamento da parte di Poste Italiane sul conto di tesoreria?
+  --------------------------------------------------------------------------------------
+  Al paragrafo 9.1 “Pagamenti effettuati tramite bollettino di conto corrente postale” è stabilito l’onere di Poste Italiane s.p.a., ove richiesto
+  dall’Ente Creditore, di eseguire il ri-versamento sul conto di tesoreria delle somme incassate attraverso il Sistema pagoPA nella singola Giornata
+  operativa.
+  Tale operatività, inerisce le sole operazioni eseguite su pagoPA da Poste con bollettini postali e non anche altre operazioni eseguite da altri PSP.
+  Infatti, tale operatività è funzionale a che il conto postale, ove censito come “conto corrente di appoggio”, mantenga inalterata la capacità per l’ente
+  di eseguire la riconciliazione tramite il giornale di cassa e i flussi pagoPA di riconciliazione/RT singole.
+  Pertanto, per una valida gestione dei flussi pagoPA e addivenire ad una riconciliazione automatizzata, si suggerisce agli Enti Creditori che dispongano
+  di un conto postale ancillare a quello di tesoreria, di valorizzare sempre nelle proprie RPT, sia il campo “CC di accredito” con l’IBAN di tesoreria,
+  sia il campo “CC di appoggio” con IBAN postale.  In tal modo, i PSP aderenti a pagoPA accrediteranno il solo conto di tesoreria, ad eccezione di Poste
+  che utilizzerà invece il solo conto postale e, ove richiesto dall’Ente, provvederà altresì in automatico allo svuotamento dello stesso conto in favore
+  del conto di tesoreria con la periodicità richiesta dall’Ente Creditore; il tutto con ogni evidente semplificazione del processo di riconciliazione e
+  regolarizzazione degli incassi ricevuti.
+
+
+
+
 .. |AGID_logo| image:: media/AGID_logo.png
