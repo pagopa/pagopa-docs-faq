@@ -258,6 +258,13 @@ sulle ricevute di pagamento (RT) che il Sistema pagoPA mette a disposizione dei 
 
 *Parole chiave: multe, PA*
 
+B14: Come declinare l’obbligo di adesione a pagoPA per i gestori di pubblici servizi o per le società a controllo pubblico? 
+---------------------------------------------------------------------------------------------------------------------------
+I gestori di pubblici servizi e/o le società a controllo pubblico indicate all’art. 2 del CAD, devono aderire alla Piattaforma pagoPA ma tale obbligo che deve essere comunque adempiuto NON determina l’uso esclusivo dei servizi di pagamento della Piattaforma pagoPA. 
+Infatti, diversamente dalle amministrazioni pubbliche (cfr. art. 5, comma 2-quater, del CAD e art. 65, comma 2, del D.lgs n. 217/2017), i gestori di pubblici servizi e le società quotate di cui all’art. 2 del CAD devono mettere a disposizione dell’utenza i servizi di pagamento tramite pagoPA ma posso offrire - in parallelo a tali servizi - anche altri servizi di pagamento non integrati con pagoPA.
+
+Sarà, quindi, facoltà dell’Utente pagatore decidere se utilizzare i servizi di pagamento offerti da pagoPA o gli altri offerti direttamente dal beneficiario. 
+
 
 
 .. |AGID_logo| image:: media/AGID_logo.png
