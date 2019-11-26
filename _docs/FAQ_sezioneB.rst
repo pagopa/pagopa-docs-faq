@@ -266,5 +266,12 @@ Infatti, diversamente dalle amministrazioni pubbliche (cfr. art. 5, comma 2-quat
 Sarà, quindi, facoltà dell’Utente pagatore decidere se utilizzare i servizi di pagamento offerti da pagoPA o gli altri offerti direttamente dal beneficiario. 
 
 
+B15: Ci sono termini o scadenze per le società a controllo pubblico e/o per i gestori di pubblici servizi?
+----------------------------------------------------------------------------------------------------------
+L’obbligo per i gestori di pubblici servizi e per le società a controllo pubblico indicate all’articolo 2, comma 2, del CAD di aderire al Sistema pagoPA è entrato in vigore con due distinti provvedimenti normativi.
+In particolare, il D.Lgs 26 agosto 2016, n. 179, ha esteso l’obbligo di adesione alle società a controllo pubblico con decorrenza di tale legge, e per effetto di tale obbligo, dal 14 settembre 2016 mentre, più di recente, il D. lgs 13 dicembre 2017, n. 217  ha esteso l’obbligo di adesione ai gestori di pubblici servizi con decorrenza di tale legge, e per effetto di tale obbligo, dal 13 gennaio 2018.
+Specificate le date in cui l’obbligo di adesione al sistema pagoPA è entrato in vigore per tali specifici soggetti di cui all’articolo 2 del CAD, si segnala che dalla data di riferimento come appena indicata, rispettivamente, le società a controllo pubblico e i gestori di pubblici servizi dovevano (e a tutt’oggi devono) mettere a disposizione dei loro utenti i servizi di pagamento della piattaforma pagoPA (cfr. anche faq B14).
+
+
 
 .. |AGID_logo| image:: media/AGID_logo.png
