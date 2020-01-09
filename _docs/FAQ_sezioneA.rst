@@ -493,4 +493,4 @@ a pagoPA. Si veda anche la FAQ C8.
 
 
 
-.. |AGID_logo| image:: media/AGID_logo.png
+.. |AGID_logo| image:: media/Logo_PagoPA.png
