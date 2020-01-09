@@ -400,13 +400,6 @@ Le pubbliche amministrazioni, entro la data del 30 giugno 2020, non potendo più
 - utilizzo di servizi di incasso forniti da altri soggetti beneficiari già attivi sulla Piattaforma pagoPA;
 - affidamento delle loro entrate ad un riscuotitore speciale che sia già aderente a pagoPA.
 
-A31: Quali sono i termini per l’adesione a pagoPA?
-Inoltre, appare altresì importante evidenziare che, ai sensi dell’articolo 2, punto 39, del Decreto legislativo 15 dicembre 2017, n. 218 per
-il recepimento in Italia della PSD2, è stabilito che «Gli articoli 36, 37 e 38 del decreto legislativo 27 gennaio 2010, n. 11 sono abrogati dalla
-data di entrata in vigore del presente decreto, ad eccezione del comma 6 dell'articolo 37 che è abrogato a decorrere dal 1° gennaio 2019».
-Pertanto, dovendo le Pubbliche Amministrazioni applicare quanto stabilito in materia di pagamenti dalla PSD e dalla PSD2 a partire dal 1° gennaio 2019,
-appare opportuno rappresentare che, per la sola componente degli incassi, l’adesione al Sistema pagoPA garantisce il pieno rispetto della direttiva
-europea, come recepita a livello nazionale, essendo il sistema pagoPA già compliance con la PSD1 e con la PSD2, come recepite a livello nazionale.
 
 *Parole chiave: obbligatorietà*
 
