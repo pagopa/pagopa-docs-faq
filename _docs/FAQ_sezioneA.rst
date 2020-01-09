@@ -391,9 +391,12 @@ paragrafo 5 delle Linee Guida, rappresenta uno strumento di pagamento fuori da p
 
 
 
-A31: Le modifiche al CAD hanno introdotto nuovi termini per l’adesione a pagoPA?
+A31: Quali sono i termini per l’adesione a pagoPA?
 --------------------------------------------------------------------------------
-Il Decreto legislativo 13 dicembre 2017, n. 217 (G.U. n. 9 del 12.01.2018) a correzione del CAD, ha introdotto all’articolo 65, comma 2, del Codice
+L'articolo 65, comma 2, del decreto legislativo 13 dicembre 2017, n. 217, come modificato dall'articolo 1, comma 8, del decreto legge 162/2019, stabilisce che L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto
+legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre 
+
+«30 giugno 2020. Anche al fine di consentire i pagamenti digitali da parte dei cittadini, i soggetti di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n.  82, sono tenuti, entro il 30 giugno 2020, a integrare i loro sistemi di incasso con la piattaforma di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, ovvero ad avvalersi, a tal fine, di  servizi forniti da altri soggetti di cui allo stesso articolo 2, comma  2,  o da fornitori di servizi di incasso già abilitati  ad  operare  sulla piattaforma. Il mancato adempimento dell'obbligo di cui al precedente periodo rileva ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili   e   comporta responsabilità dirigenziale e disciplinare ai sensi degli articoli 21 e 55 del decreto legislativo 30 marzo 2001, n. 165.”.Il Decreto legislativo 13 dicembre 2017, n. 217 (G.U. n. 9 del 12.01.2018) a correzione del CAD, ha introdotto all’articolo 65, comma 2, del Codice
 «L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto
 legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 31 dicembre 2019».
 Pertanto, i PSP autorizzati ad operare in Italia dalla Banca d’Italia non potranno in alcun modo eseguire servizi di pagamento che non transitino per
