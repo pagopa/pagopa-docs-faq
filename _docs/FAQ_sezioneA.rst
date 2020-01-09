@@ -30,11 +30,15 @@ pagoPA non è un sito dove pagare, ma un sistema di pagamenti standard adottato 
     - presso le Poste, se il canale è attivato dall’Ente Creditore che ha inviato l'avviso.
 
 
+*Parole chiave: pagamenti elettronici*
+
 
 A3: Con pagoPA posso anche riscuotere crediti verso la pubblica amministrazione?
 --------------------------------------------------------------------------------
 No, il sistema pagoPA permette solo pagamenti verso la Pubblica Amministrazione.
 
+
+*Parole chiave: pagamenti elettronici*
 
 
 A4: Quali sono i vantaggi di pagoPA per i cittadini?
@@ -48,11 +52,18 @@ In particolare:
     - semplicità e velocità del processo: basta inserire il codice di avviso (IUV Identificativo Unico Versamento) per pagare e ricevere la quietanza     liberatoria ovvero la certezza che l’Ente Creditore ha incassato il tributo e non potranno esserci verifiche o accertamenti successivi.
 
 
+*Parole chiave: pagamenti elettronici*
+
+
 A5: Quali sono i vantaggi di pagoPA per le Pubbliche Amministrazioni?
 -----------------------------------------------------------------
 Il sistema pagoPA permette agli Enti Creditori di utilizzare un sistema semplice, standardizzato, non oneroso
 per ricevere qualsiasi tipo di pagamento. Tra i vantaggi, pagoPA permette di ridurre i costi per ricevere e gestire
 i pagamenti e di automatizzare gli incassi, rendendone più facile ed efficiente la gestione.
+
+
+*Parole chiave: pagamenti elettronici*
+
 
 
 A6: È obbligatorio per un Ente pubblico offrire come metodo di pagamento pagoPA?
@@ -70,6 +81,7 @@ L’articolo 2359 del codice civile precisa che ai fini dell'applicazione dei nu
 
 Infine, all’articolo 2 del D.Lgs. n. 175/2016 è ulteriormente precisato che “Il controllo può sussistere anche quando, in applicazione di norme di       legge o statutarie o di patti parasociali, per le decisioni finanziarie e gestionali strategiche relative all'attività sociale è richiesto il       consenso unanime di tutte le parti che condividono il controllo”.
 
+
 *Parole chiave: obbligatorietà*
 
 
@@ -78,9 +90,12 @@ A7: Che cosa è il Nodo dei Pagamenti-SPC?
 Il Nodo dei Pagamenti-SPC è un’infrastruttura tecnologica unitaria, basata su regole e specifiche standard, che offre una modalità
 semplificata e uniforme per garantire l'interoperabilità tra gli Enti Creditori aderenti e i Prestatori di servizi di pagamento per
 l’effettuazione dei pagamenti.
-Tale infrastruttura non è una piattaforma di pagamento, ma permette al pagatore di richiedere l’esecuzione del pagamento a favore del
+Tale infrastruttura è meglio conosciuta come Piattaforma pagoPA o Sistema pagoPA e permette al pagatore di richiedere l’esecuzione del pagamento a favore del
 soggetto aderente al sistema pagoPA, scegliendo la modalità di pagamento preferita, avendo, al contempo, la garanzia della rapidità e
 della piena trasparenza del pagamento stesso.
+
+
+*Parole chiave: pagamenti elettronici*
 
 
 A8: Quali sono i soggetti che devono o possono aderire al Nodo dei Pagamenti-SPC?
