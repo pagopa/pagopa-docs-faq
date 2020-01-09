@@ -391,21 +391,16 @@ paragrafo 5 delle Linee Guida, rappresenta uno strumento di pagamento fuori da p
 
 
 
-A31: Quali sono i termini per l’adesione a pagoPA?
+A31: Quali sono i termini per l’utilizzo esclusivo della Piattaforma pagoPA?
 --------------------------------------------------------------------------------
-L'articolo 65, comma 2, del decreto legislativo 13 dicembre 2017, n. 217, come modificato dall'articolo 1, comma 8, del decreto legge 162/2019, stabilisce che L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto
-legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre 
+L'articolo 65, comma 2, del decreto legislativo 13 dicembre 2017, n. 217, come modificato dall'articolo 1, comma 8, del decreto legge 162/2019, stabilisce che "L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 30 giugno 2020. Anche al fine di consentire i pagamenti digitali da parte dei cittadini, i soggetti di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, sono tenuti, entro il 30 giugno 2020, a integrare i loro sistemi di incasso con la piattaforma di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, ovvero ad avvalersi, a tal fine, di servizi forniti da altri soggetti di cui allo stesso articolo 2, comma  2, o da fornitori di servizi di incasso già abilitati ad operare sulla piattaforma. Il mancato adempimento dell'obbligo di cui al precedente periodo rileva ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili e comporta responsabilità dirigenziale e disciplinare ai sensi degli articoli 21 e 55 del decreto legislativo 30 marzo 2001, n. 165”.
+Pertanto, dopo il 30 giugno 2020, i PSP autorizzati ad operare in Italia dalla Banca d’Italia non potranno in alcun modo eseguire servizi di pagamento che non transitino per il Sistema pagoPA, ove abbiano come beneficiario una pubblica amministrazione.
+Le pubbliche amministrazioni, entro la data del 30 giugno 2020, non potendo più incassare attraverso l’attività di un PSP fuori dal Sistema pagoPA, al fine della loro integrale gestione degli incassi tramite pagoPA, dovranno avere optato per una o più delle soluzioni che seguono:
+- integrazione dei loro sistemi di incasso con la Piattaforma pagoPA;
+- utilizzo di servizi di incasso forniti da altri soggetti beneficiari già attivi sulla Piattaforma pagoPA;
+- affidamento delle loro entrate ad un riscuotitore speciale che sia già aderente a pagoPA.
 
-«30 giugno 2020. Anche al fine di consentire i pagamenti digitali da parte dei cittadini, i soggetti di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n.  82, sono tenuti, entro il 30 giugno 2020, a integrare i loro sistemi di incasso con la piattaforma di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, ovvero ad avvalersi, a tal fine, di  servizi forniti da altri soggetti di cui allo stesso articolo 2, comma  2,  o da fornitori di servizi di incasso già abilitati  ad  operare  sulla piattaforma. Il mancato adempimento dell'obbligo di cui al precedente periodo rileva ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili   e   comporta responsabilità dirigenziale e disciplinare ai sensi degli articoli 21 e 55 del decreto legislativo 30 marzo 2001, n. 165.”.Il Decreto legislativo 13 dicembre 2017, n. 217 (G.U. n. 9 del 12.01.2018) a correzione del CAD, ha introdotto all’articolo 65, comma 2, del Codice
-«L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto
-legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 31 dicembre 2019».
-Pertanto, i PSP autorizzati ad operare in Italia dalla Banca d’Italia non potranno in alcun modo eseguire servizi di pagamento che non transitino per
-il Sistema pagoPA, ove   abbiano come beneficiario un soggetto pubblico che risulti obbligato all’adesione al Sistema.
-
-Pertanto, i soggetti pubblici obbligati all’adesione a pagoPA, alla data del 31 dicembre 2019, ove non aderenti ancora a pagoPA, non potranno
-più incassare in proprio attraverso l’attività di un PSP, salvo l’affidamento di tutte le loro entrate ad un riscuotitore speciale che sia già
-aderente a pagoPA.
-
+A31: Quali sono i termini per l’adesione a pagoPA?
 Inoltre, appare altresì importante evidenziare che, ai sensi dell’articolo 2, punto 39, del Decreto legislativo 15 dicembre 2017, n. 218 per
 il recepimento in Italia della PSD2, è stabilito che «Gli articoli 36, 37 e 38 del decreto legislativo 27 gennaio 2010, n. 11 sono abrogati dalla
 data di entrata in vigore del presente decreto, ad eccezione del comma 6 dell'articolo 37 che è abrogato a decorrere dal 1° gennaio 2019».
@@ -492,7 +487,13 @@ a pagoPA. Si veda anche la FAQ C8.
   che utilizzerà invece il solo conto postale e, ove richiesto dall’Ente, provvederà altresì in automatico allo svuotamento dello stesso conto in favore
   del conto di tesoreria con la periodicità richiesta dall’Ente Creditore; il tutto con ogni evidente semplificazione del processo di riconciliazione e
   regolarizzazione degli incassi ricevuti.
-
+  
+  
+A37: Gli incassi eseguiti tramite la Piattaforma pagoPA rispettano la normativa europea (PSD1 e PSD2)?
+Ai sensi dell’articolo 2, punto 39, del Decreto legislativo 15 dicembre 2017, n. 218 per
+il recepimento in Italia della PSD2, dal 1° gennaio 2019 le Pubbliche Amministrazioni devono applicare quanto stabilito in materia di pagamenti dalla PSD1 e dalla PSD2.
+Ciò detto, si segnala che, per la sola componente degli incassi, la gestione degli stessi tramite il Sistema pagoPA garantisce il pieno rispetto della direttiva
+europea, come recepita a livello nazionale, essendo il sistema pagoPA già compliance con la PSD1 e con la PSD2, come recepite a livello nazionale.
 
 
 
