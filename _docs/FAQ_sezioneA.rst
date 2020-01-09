@@ -420,6 +420,7 @@ Resta però fermo che, laddove un utente, però, avendo in proprio memoria di ta
 gestito dall’Ente Creditore quale singola eccezione, laddove il PSP non si riuscito a bloccarlo, con l’auspico che tali eccezioni siano sempre di numero
 inferiore nel tempo, per addivenire ad un pieno rispetto della legge da parte dei PSP e degli Enti Creditori.
 
+
 *Parole chiave: obbligatorietà*
 
 
@@ -463,7 +464,8 @@ e tra questi non rientrano i MAV, per i quali a decorrere dal 31 dicembre 2019 s
 in capo al PSP di dare seguito a tali avvisi di pagamento fuori dal sistema pagoPA, ove il beneficiario sia un soggetto obbligato ad aderire
 a pagoPA. Si veda anche la FAQ C8.
 
-  *Parole chiave: obbligatorietà*
+
+*Parole chiave: obbligatorietà*
 
 
   A36: Come funziona il ri-versamento da parte di Poste Italiane sul conto di tesoreria?
@@ -482,17 +484,17 @@ a pagoPA. Si veda anche la FAQ C8.
   regolarizzazione degli incassi ricevuti.
   
   
-   *Parole chiave: PSP*
+*Parole chiave: PSP*
   
 A37: Gli incassi eseguiti tramite la Piattaforma pagoPA rispettano la normativa europea (PSD1 e PSD2)?
-  --------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 Ai sensi dell’articolo 2, punto 39, del Decreto legislativo 15 dicembre 2017, n. 218 per
 il recepimento in Italia della PSD2, dal 1° gennaio 2019 le Pubbliche Amministrazioni devono applicare quanto stabilito in materia di pagamenti dalla PSD1 e dalla PSD2.
 Ciò detto, si segnala che, per la sola componente degli incassi, la gestione degli stessi tramite il Sistema pagoPA garantisce il pieno rispetto della direttiva
 europea, come recepita a livello nazionale, essendo il sistema pagoPA già compliance con la PSD1 e con la PSD2, come recepite a livello nazionale.
 
 
- *Parole chiave: obbligatorietà*
+*Parole chiave: obbligatorietà*
 
 
 .. |PagoPA_logo| image:: media/Logo_PagoPA.png
