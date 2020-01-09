@@ -58,7 +58,7 @@ i pagamenti e di automatizzare gli incassi, rendendone più facile ed efficiente
 A6: È obbligatorio per un Ente pubblico offrire come metodo di pagamento pagoPA?
 --------------------------------------------------------------------------------
 Le Pubbliche Amministrazioni sono tenute per legge ad aderire al sistema di pagamento pagoPA. Le PA che non hanno rapporti diretti con
-cittadini e imprese, possono essere esentate dall’adesione al sistema, purché abbiano inviato ad AgID la `specifica dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`_ per tale esenzione.
+cittadini e imprese, possono essere esentate dall’adesione al sistema, purché abbiano inviato a PagoPA S.p.A. tramite Pec (presidio@pec.pagopa.it) la `specifica dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`_ per tale esenzione.
 L’obbligo di adesione al sistema pagoPA è esteso anche ai gestori di pubblici servizi e alle società a controllo pubblico.
 Il D.Lgs. n. 179/2016 (G.U. n. 214 del 13.9.2016) e il D.Lgs n. 217/2017 (G.U. n. 9 del 12.01.2018) hanno rispettivamente modificato e corretto  l’articolo 2, comma 2, del CAD introducendo nel perimetro soggettivo del CAD anche i gestori di pubblici servizi e le società a controllo pubblico,    come definite nel decreto legislativo adottato in attuazione dell’articolo 18 della legge n. 124 del 2015, escluse le società quotate. Il D.Lgs. n.        175/2016, all’articolo 2, lettera m), ha delineato il concetto di società a controllo pubblico. In particolare, le società a controllo pubblico sono  definite come quelle società in cui una o più amministrazioni pubbliche esercitano poteri di controllo ai sensi dell'articolo 2359 del codice civile, e precisamente:
 
@@ -90,7 +90,7 @@ all’articolo 15, comma 5bis, del D.L. 179/2012 come convertito in legge, poich
 sono obbligate ad aderire all’infrastruttura del Nodo dei Pagamenti-SPC. L’adesione resta, altresì, obbligatoria per i soggetti di cui all’articolo     2 del CAD che stabilisce, appunto, l’ambito soggettivo di applicazione dell’articolo 5 del CAD e che obbliga all’adesione a pagoPA dei gestori di     pubblici servizi e anche delle società a controllo pubblico, come definite nel decreto legislativo adottato in attuazione dell’articolo
 18 della legge n. 124 del 2015, escluse le società quotate.
 Pertanto, l’adesione rimane facoltativa solo per i Prestatori di servizi di pagamento e per i soggetti non obbligati per legge che ne facciamo
-espressa richiesta ad AgID che ne valuterà la relativa opportunità e fattibilità.
+espressa richiesta a PagoPA S.p.A. che ne valuterà la relativa opportunità e fattibilità.
 Per ulteriori dettagli, si rimanda alle domande **GRUPPO B – FAQ AMBITO NORMATIVO - B1, B2, B3 e B4**.
 
 *Parole chiave: obbligatorietà*
@@ -115,7 +115,7 @@ I modelli di pagamento previsti da pagoPA sono:
     - Modello 2: pagamento differito rispetto all’erogazione del servizio da parte dell’Ente Creditore tramite il suo portale (incasso pre-autorizzato)
     - Modello 3: pagamento eseguito tramite il canale del prestatore del servizio di pagamento prescelto (tipicamente canale fisico - Uffici Postali,       Ricevitorie, Tabaccherie, ATM Bancomat, etc.)
 
-Per la descrizione dettagliata dei modelli di pagamento si rimanda alla documentazione disponibile sul sito dell’Agenzia. Si precisa che,
+Per la descrizione dettagliata dei modelli di pagamento si rimanda alla documentazione disponibile sul sito di `pagoPA <https://www.pagopa.gov.it/>`_ . Si precisa che,
 a prescindere al modello di pagamento utilizzato, in linea con quanto previsto dalla direttiva europea in materia di servizi di pagamento,
 l’ordine di  pagamento ricevuto dal PSP è irrevocabile da parte dell’utilizzatore finale. Pertanto, una volta che l’utilizzatore finale abbia richiesto al PSP di       eseguire l’operazione di pagamento nei confronti dell’Ente Creditore, il pagatore e il PSP non potranno mai revocare l’ordine di pagamento
 ovvero  pregiudicare il carattere definitivo della relativa operazione di pagamento.
@@ -125,7 +125,7 @@ ovvero  pregiudicare il carattere definitivo della relativa operazione di pagame
 
 A11: Quanti sono i PSP aderenti a pagoPA?
 -----------------------------------------
-Sul sito di AgID è possibile consultare l’ `elenco completo dei Prestatori di Servizi a Pagamento (PSP) <https://www.agid.gov.it/it/piattaforme/pagopa/dove-pagare>`_.
+Sul sito di pagoPA è possibile consultare l’ `elenco completo dei Prestatori di Servizi di Pagamento (PSP) <https://www.pagopa.gov.it/it/dove-pagare/>`_.
 
 *Parole chiave: PSP*
 
@@ -319,7 +319,7 @@ pagoPA non consente pagamenti errati perché controlla l’esistenza della posiz
 A24: La mia banca non supporta pagoPA, cosa posso fare?
 -------------------------------------------------------
 Quasi tutti gli istituti di credito che operano sul territorio nazionale supportano il sistema pagoPA. Si rinvia all’elenco dei Prestatori
-di Servizi a Pagamento (PSP) aderenti a pagoPA rinvenibile sul sito AgID.
+di Servizi a Pagamento (PSP) aderenti a pagoPA rinvenibile sul sito di `pagoPA <https://www.pagopa.gov.it/>`_.
 Se la tua Banca non aderisce al sistema pagoPA potrai comunque pagare attraverso il sistema pagoPA attraverso gli altri canali, ovvero:
 
 - sul sito o sull’app dell’Ente Creditore (se disponibile) utilizzando una carta di credito;
