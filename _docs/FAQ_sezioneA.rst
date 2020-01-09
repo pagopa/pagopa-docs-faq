@@ -409,8 +409,11 @@ paragrafo 5 delle Linee Guida, rappresenta uno strumento di pagamento fuori da p
 A31: Quali sono i termini per l’utilizzo esclusivo della Piattaforma pagoPA?
 --------------------------------------------------------------------------------
 L'articolo 65, comma 2, del decreto legislativo 13 dicembre 2017, n. 217, come modificato dall'articolo 1, comma 8, del decreto legge 162/2019, stabilisce che "L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 30 giugno 2020. Anche al fine di consentire i pagamenti digitali da parte dei cittadini, i soggetti di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, sono tenuti, entro il 30 giugno 2020, a integrare i loro sistemi di incasso con la piattaforma di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, ovvero ad avvalersi, a tal fine, di servizi forniti da altri soggetti di cui allo stesso articolo 2, comma  2, o da fornitori di servizi di incasso già abilitati ad operare sulla piattaforma. Il mancato adempimento dell'obbligo di cui al precedente periodo rileva ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili e comporta responsabilità dirigenziale e disciplinare ai sensi degli articoli 21 e 55 del decreto legislativo 30 marzo 2001, n. 165”.
+
 Pertanto, dopo il 30 giugno 2020, i PSP autorizzati ad operare in Italia dalla Banca d’Italia non potranno in alcun modo eseguire servizi di pagamento che non transitino per il Sistema pagoPA, ove abbiano come beneficiario una pubblica amministrazione.
+
 Le pubbliche amministrazioni, entro la data del 30 giugno 2020, non potendo più incassare attraverso l’attività di un PSP fuori dal Sistema pagoPA, al fine della loro integrale gestione degli incassi tramite pagoPA, dovranno avere optato per una o più delle soluzioni che seguono:
+
 - integrazione dei loro sistemi di incasso con la Piattaforma pagoPA;
 - utilizzo di servizi di incasso forniti da altri soggetti beneficiari già attivi sulla Piattaforma pagoPA;
 - affidamento delle loro entrate ad un riscuotitore speciale che sia già aderente a pagoPA.
@@ -483,20 +486,20 @@ a pagoPA. Si veda anche la FAQ C8.
 *Parole chiave: obbligatorietà*
 
 
-  A36: Come funziona il ri-versamento da parte di Poste Italiane sul conto di tesoreria?
-  --------------------------------------------------------------------------------------
-  Al paragrafo 9.1 “Pagamenti effettuati tramite bollettino di conto corrente postale” è stabilito l’onere di Poste Italiane s.p.a., ove richiesto
-  dall’Ente Creditore, di eseguire il ri-versamento sul conto di tesoreria delle somme incassate attraverso il Sistema pagoPA nella singola Giornata
-  operativa.
-  Tale operatività, inerisce le sole operazioni eseguite su pagoPA da Poste con bollettini postali e non anche altre operazioni eseguite da altri PSP.
-  Infatti, tale operatività è funzionale a che il conto postale, ove censito come “conto corrente di appoggio”, mantenga inalterata la capacità per l’ente
-  di eseguire la riconciliazione tramite il giornale di cassa e i flussi pagoPA di riconciliazione/RT singole.
-  Pertanto, per una valida gestione dei flussi pagoPA e addivenire ad una riconciliazione automatizzata, si suggerisce agli Enti Creditori che dispongano
-  di un conto postale ancillare a quello di tesoreria, di valorizzare sempre nelle proprie RPT, sia il campo “CC di accredito” con l’IBAN di tesoreria,
-  sia il campo “CC di appoggio” con IBAN postale.  In tal modo, i PSP aderenti a pagoPA accrediteranno il solo conto di tesoreria, ad eccezione di Poste
-  che utilizzerà invece il solo conto postale e, ove richiesto dall’Ente, provvederà altresì in automatico allo svuotamento dello stesso conto in favore
-  del conto di tesoreria con la periodicità richiesta dall’Ente Creditore; il tutto con ogni evidente semplificazione del processo di riconciliazione e
-  regolarizzazione degli incassi ricevuti.
+A36: Come funziona il ri-versamento da parte di Poste Italiane sul conto di tesoreria?
+--------------------------------------------------------------------------------------
+Al paragrafo 9.1 “Pagamenti effettuati tramite bollettino di conto corrente postale” è stabilito l’onere di Poste Italiane s.p.a., ove richiesto
+dall’Ente Creditore, di eseguire il ri-versamento sul conto di tesoreria delle somme incassate attraverso il Sistema pagoPA nella singola Giornata
+operativa.
+Tale operatività, inerisce le sole operazioni eseguite su pagoPA da Poste con bollettini postali e non anche altre operazioni eseguite da altri PSP.
+Infatti, tale operatività è funzionale a che il conto postale, ove censito come “conto corrente di appoggio”, mantenga inalterata la capacità per l’ente
+di eseguire la riconciliazione tramite il giornale di cassa e i flussi pagoPA di riconciliazione/RT singole.
+Pertanto, per una valida gestione dei flussi pagoPA e addivenire ad una riconciliazione automatizzata, si suggerisce agli Enti Creditori che dispongano
+di un conto postale ancillare a quello di tesoreria, di valorizzare sempre nelle proprie RPT, sia il campo “CC di accredito” con l’IBAN di tesoreria,
+sia il campo “CC di appoggio” con IBAN postale.  In tal modo, i PSP aderenti a pagoPA accrediteranno il solo conto di tesoreria, ad eccezione di Poste
+che utilizzerà invece il solo conto postale e, ove richiesto dall’Ente, provvederà altresì in automatico allo svuotamento dello stesso conto in favore
+del conto di tesoreria con la periodicità richiesta dall’Ente Creditore; il tutto con ogni evidente semplificazione del processo di riconciliazione e
+regolarizzazione degli incassi ricevuti.
   
   
 *Parole chiave: PSP*
