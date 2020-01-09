@@ -1,7 +1,7 @@
 
-+-------------+
-| |AGID_logo| |
-+-------------+
++---------------+
+| |PagoPA_logo| |
++---------------+
 
 **Gruppo A - Domande frequenti di carattere generale**
 =======================================================
@@ -493,4 +493,4 @@ a pagoPA. Si veda anche la FAQ C8.
 
 
 
-.. |AGID_logo| image:: media/Logo_PagoPA.png
+.. |PagoPA_logo| image:: media/Logo_PagoPA.png
