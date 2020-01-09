@@ -414,7 +414,7 @@ Pertanto, dopo il 30 giugno 2020, i PSP autorizzati ad operare in Italia dalla B
 
 Le pubbliche amministrazioni, entro la data del 30 giugno 2020, non potendo più incassare attraverso l’attività di un PSP fuori dal Sistema pagoPA, al fine della loro integrale gestione degli incassi tramite pagoPA, dovranno avere optato per una o più delle soluzioni che seguono:
 
-"-" integrazione dei loro sistemi di incasso con la Piattaforma pagoPA;
+- integrazione dei loro sistemi di incasso con la Piattaforma pagoPA;
 - utilizzo di servizi di incasso forniti da altri soggetti beneficiari già attivi sulla Piattaforma pagoPA;
 - affidamento delle loro entrate ad un riscuotitore speciale che sia già aderente a pagoPA.
 
