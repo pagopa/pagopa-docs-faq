@@ -1,6 +1,6 @@
 
 +-------------+
-| |AGID_logo| |
+| |pagoPA_logo| |
 +-------------+
 
 **Glossario del sistema pagoPA**
@@ -50,4 +50,4 @@ sistemi di pagamento.
 
 
 
-.. |AGID_logo| image:: media/logo-pagopa-small-trasp.png
+.. |pagoPA_logo| image:: media/logo-pagopa-small-trasp.png
