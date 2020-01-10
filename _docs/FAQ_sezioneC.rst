@@ -125,7 +125,7 @@ Per tale attività di censimento e aggiornamento dei conti correnti, il singolo 
 assume ogni responsabilità per quanto comunicato, in nome e per conto dell’Ente Creditore di riferimento, sul Portale pagoPA.
 
 Fatta la precisazione appena esposta, si rappresenta che, tenute nella debita considerazione il ruolo e le funzioni del Referente dei Pagamenti, PagoPA S.p.A.
-consente, previa sottoscrizione della `specifica
+consente, previo invio tramite Pec (presidio@pec.pagopa.it) della `specifica
 dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`__ e previa verifica della fattibilità da parte della stessa PagoPA S.p.A., a un Ente Creditore di censire anche IBAN inerenti dei conti correnti a lui non intestati.
 
 Tali IBAN devono però essere di soggetti terzi che, comunque, hanno un rapporto in essere con l’Ente Creditore per l’erogazione di specifici servizi e,
