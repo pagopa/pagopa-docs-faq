@@ -274,4 +274,4 @@ Specificate le date in cui l’obbligo di adesione al sistema pagoPA è entrato 
 
 
 
-.. |AGID_logo| image:: media/AGID_logo.png
+.. |AGID_logo| image:: media/logo-pagopa-small-trasp.png.png
