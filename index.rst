@@ -16,4 +16,4 @@ Domande frequenti sul sistema pagoPA
    _docs/FAQ_sezioneC.rst
    _docs/FAQ_sezioneD.rst
 
-.. |AGID_logo_carta_intestata| image:: _docs/media/logo-pagopa-small-trasp.png
+.. |pagoPA_logo_carta_intestata| image:: _docs/media/logo-pagopa-small-trasp.png
