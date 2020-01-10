@@ -60,7 +60,7 @@ loro utenza di eseguire pagamenti elettronici in modalità uniforme nei loro con
 
 Per i soggetti non obbligati, (es. società partecipate ma quotate oppure soggetti che non rivestano la qualifica di gestori di pubblici servizi),
 resta ferma la facoltà di aderire anch’essi al Sistema, per consentire ai loro utenti di beneficiare dei servizi messi a disposizione dai PSP
-aderenti al Sistema pagoPA, previa opportuna istanza e istruttoria da parte dell’AgID che ne valuterà la relativa opportunità.
+aderenti al Sistema pagoPA, previa opportuna istanza e istruttoria da parte di PagoPA S.p.A. che ne valuterà la relativa opportunità.
 
 *Parole chiave: obbligatorietà, PA*
 
@@ -111,7 +111,7 @@ obbligato all’adesione allo stesso sistema, ad eccezione dei soli servizi indi
 
 B6: Un ente creditore aderente al sistema pagoPA ha l’obbligo di avere un conto corrente postale?
 -------------------------------------------------------------------------------------------------
-Al paragrafo 5 delle Linee Guida da ultimo pubblicate in G.U. da AgID e disponibili sul sito di AgID, è precisato che "Al fine di consentire
+Al paragrafo 5 delle Linee Guida da ultimo pubblicate in G.U. da AgID e disponibili sul sito www.pagopa.gov.it di pagoPA, è precisato che "Al fine di consentire
 all’utilizzatore finale di avere a disposizione tutti gli strumenti di pagamento, incluso il servizio di bollettino postale, ogni Ente Creditore, ove
 abbia in essere un rapporto di conto corrente postale, ne censisce l’IBAN sul Sistema pagoPA, unitamente al conto corrente di tesoreria o di cassa";
 da qui in capo all’Ente l’obbligo di censimento di almeno 1 conto corrente postale se è già nelle disponibilità di tale ente prima dell’adesione a
@@ -134,7 +134,7 @@ ampliare gli strumenti di pagamento che un ente tramite pagoPA può mettere a di
 
 B7: Per l’emissione dei nuovi bollettini postali, gli Enti Creditori devono fare richiesta a Poste Italiane per l’autorizzazione alla stampa in proprio?
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Nel documento “L’avviso di pagamento analogico nel sistema pagoPA” pubblicato sul sito dell’AgID viene specificato che: *“Gli Enti Creditori che intendono
+Nel documento “L’avviso di pagamento analogico nel sistema pagoPA” pubblicato sul sito www.pagopa.gov.it di pagoPA viene specificato che: *“Gli Enti Creditori che intendono
 utilizzare il nuovo bollettino postale possono fare richiesta a Poste Italiane, per ottenere la necessaria Autorizzazione alla stampa in proprio”*.
 L’autorizzazione deve essere richiesta a Poste Italiane così come definito nel Manuale della stampa in proprio, consultabile alla pagina poste.it, area PA,
 accedendo alla sezione incassi e pagamenti e cliccando sulla dicitura Bollettino Postale, in modo da accedere alla pagina che contiene tutti i documenti
@@ -213,7 +213,7 @@ conservare traccia dell’intera transazione di pagamento, sia opportuno conserv
 
 B11: Ѐ possibile l’interconnessione tra Nodo e circuiti internazionali di pagamento?
 ------------------------------------------------------------------------------------
-In coerenza con l’obiettivo del Nodo dei Pagamenti-SPC di garantire il libero mercato dei PSP, l’AgID ha stabilito nelle Linee Guida che
+In coerenza con l’obiettivo del Nodo dei Pagamenti-SPC di garantire il libero mercato dei PSP, l'AgID ha stabilito nelle Linee Guida che
 anche i PSP non nazionali possano aderire al sistema per erogare servizi di pagamento agli utenti della PA italiana, a condizione che risultino
 rispettati i processi di pagamento SEPA delineati nelle Linee Guida stesse. Il sistema non altera i processi definiti per la gestione della
 tesoreria, pertanto, la PA è vincolata nella propria gestione finanziaria, dovendo, se centrale, usufruire del servizio di tesoreria erogato dalla
@@ -250,7 +250,7 @@ riferimento a due giorni operativi e non lavorativi, con l’effetto che, né il
 pertanto, per il calcolo di tali due giorni non devono essere conteggiati, né il sabato, né la domenica, né gli altri giorni festivi dell’anno.
 Inoltre, appare, altresì, opportuno segnalare che l´art. 17quinquies del decreto-legge 14 febbraio 2016, n. 18, convertito con la legge 8 aprile 2016,
 n. 49, non fa alcun riferimento al Sistema pagoPA, ossia al sistema dei pagamenti in favore di soggetti pubblici attraverso la piattaforma di cui all’art. 5
-del CAD messa a disposizione da AgID che introduce una maggiore certezza sui pagamenti eseguiti e amplia l’effetto liberatorio degli stessi e che prevede
+del CAD messa a disposizione da PAgoPA S.p.A. che introduce una maggiore certezza sui pagamenti eseguiti e amplia l’effetto liberatorio degli stessi e che prevede
 anche un pari valore liberatorio tra i pagamenti eseguiti con bollettino postale e quelli eseguiti con altri strumenti messi a disposizione dal sistema
 bancario. Infatti, per i pagamenti eseguiti attraverso il Sistema pagoPA, in virtù dell’efficacia liberatoria propria dei pagamenti elettronici eseguiti
 tramite pagoPA, per tali pagamenti, inclusi quelli appunti delle sanzioni del CdS, l’effetto liberatorio di produce dalla data di pagamento riportata
@@ -274,4 +274,4 @@ Specificate le date in cui l’obbligo di adesione al sistema pagoPA è entrato 
 
 
 
-.. |AGID_logo| image:: media/AGID_logo.png
+.. |AGID_logo| image:: media/logo-pagopa-small-trasp.png

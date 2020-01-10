@@ -1,7 +1,7 @@
 
-+-------------+
-| |AGID_logo| |
-+-------------+
++---------------+
+| |pagoPA_logo| |
++---------------+
 
 **Gruppo C - Domande frequenti sull'adesione degli Enti Creditori**
 ===================================================================
@@ -10,10 +10,10 @@
 
 C1: Quali sono le procedure da seguire per aderire a pagoPA?
 ------------------------------------------------------------
-L’adesione a pagoPA avviene con procedure e modalità definite dall’AgID e disciplinate nelle Linee Guida. L’iter è differenziato per
+L’adesione a pagoPA avviene con procedure e modalità coerenti con le Linee Guida emanate da AgID. L’iter è differenziato per
 tipologia di soggetto aderente (Ente Creditore o Prestatore di Servizi di Pagamento) e può avvenire per entrambe le tipologie in modalità diretta
 oppure in modalità indiretta, ossia in tale ultimo caso tramite Intermediari o Partner tecnologici. La documentazione per l’adesione è disponibile
-sul sito dell’AgID, suddivisa per Enti Creditori e per Prestatori di Servizi di Pagamento.
+sul sito www.pagopa.gov.it di pagoPA, suddivisa per Enti Creditori e per Prestatori di Servizi di Pagamento.
 
 *Parole chiave: PA*
 
@@ -38,11 +38,11 @@ C3: Quali accorgimenti e indicazioni è necessario tenere in considerazione per 
 -------------------------------------------------------------------------------------------------------------
 Il codice IUV è un elemento strutturale dell’intero sistema pagoPA, non solo per la sua capacità di richiamane l’IBAN di accredito
 selezionato dall’Ente Creditore per quella specifica operazione di pagamento, ma soprattutto perché consente all’utente di eseguire il pagamento
- presso i PSP aderenti al Nodo (c.d. modello 3: pagamenti eseguiti presso il PSP) e altresì consente all’Ente Creditore di eseguire una riconciliazione
+ presso i PSP aderenti al Nodo (c.d. modello 3: pagamenti attivati presso il PSP) e altresì consente all’Ente Creditore di eseguire una riconciliazione
  immediata, analitica e automatica. Pertanto, è essenziale che un Ente Creditore lavori nel migliore dei modi nella generazione dello IUV per beneficiare
  in proprio e permettere ai PSP e agli utenti di beneficiare di tutte le funzionalità del sistema pagoPA. Ciò detto, si ricorda  che per:
 
-- il modello 1 (pagamento ad esecuzione immediata) e per il modello 2 (pagamento ad esecuzione differita) lo IUV può essere rappresentato da una stringa
+- il modello 1 (pagamento attivato presso l'Ente Creditore con reindizzamento on-line) e per il modello 2 (pagamento attivato presso l'Ente Creditore con autorizzazione gestita dal PSP) lo IUV può essere rappresentato da una stringa
 alfanumerica lunga sino ad un massimo di 35 caratteri alfanumerici tutti liberi, fermo restando l’uso consigliato dello standard ISO 11649;
 
 - il modello 3 (pagamento presso il PSP), lo IUV è ricompreso all'interno del Codice Avviso, per un massimo di 18 caratteri numerici, secondo uno dei due
@@ -103,7 +103,7 @@ possono affiancare al sistema esclusivamente i seguenti metodi di pagamento:
 
 Inoltre si segnala che l’articolo 65, comma 2, del Decreto legislativo 13 dicembre 2017, n. 217 stabilisce «L’obbligo per i prestatori di servizi di
 pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto legislativo n. 82 del 2005 per i pagamenti
-verso le pubbliche amministrazioni decorre dal 1° gennaio 2019». Pertanto, a decorrere da tale data, i prestatori abilitati a offrire servizi di
+verso le pubbliche amministrazioni decorre dal 30 giugno 2020». Pertanto, a decorrere da tale data, i prestatori abilitati a offrire servizi di
 pagamento ai sensi della PSD2 non potranno in alcun modo eseguire servizi di pagamento che non transitino per il Nodo dei Pagamenti-SPC e che abbiano
 come beneficiario un soggetto pubblico obbligato all’adesione allo stesso sistema, ad eccezione dei soli servizi di cui alle lettere a), b), c) e d)
 appena indicati.
@@ -124,9 +124,9 @@ censire almeno un IBAN di un conto corrente a lui intestato.
 Per tale attività di censimento e aggiornamento dei conti correnti, il singolo Ente Creditore nomina il proprio Referente dei Pagamenti, che si
 assume ogni responsabilità per quanto comunicato, in nome e per conto dell’Ente Creditore di riferimento, sul Portale pagoPA.
 
-Fatta la precisazione appena esposta, si rappresenta che, tenute nella debita considerazione il ruolo e le funzioni del Referente dei Pagamenti, AgID
-consente, previa sottoscrizione della `specifica
-dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`__ e previa verifica della fattibilità da parte della stessa AgID, a un Ente Creditore di censire anche IBAN inerenti dei conti correnti a lui non intestati.
+Fatta la precisazione appena esposta, si rappresenta che, tenute nella debita considerazione il ruolo e le funzioni del Referente dei Pagamenti, PagoPA S.p.A.
+consente, previo invio tramite Pec (presidio@pec.pagopa.it) della `specifica
+dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`__ e previa verifica della fattibilità da parte della stessa PagoPA S.p.A., a un Ente Creditore di censire anche IBAN inerenti dei conti correnti a lui non intestati.
 
 Tali IBAN devono però essere di soggetti terzi che, comunque, hanno un rapporto in essere con l’Ente Creditore per l’erogazione di specifici servizi e,
 al contempo, abbiano in essere, altresì, un collegamento telematico che, ancorché fuori dal Sistema pagoPA, consenta al soggetto terzo di ricevere i
@@ -188,7 +188,7 @@ Premesso che il portale “impresainungiorno.gov.it” è stato validamente inte
   - i Comuni che hanno in essere una collaborazione con la Camera di Commercio per lo svolgimento delle funzioni del SUAP attraverso
     “impresainungiorno.gov.it” ma che non hanno mai abilitato il sistema di pagamento tramite tale portale, non potranno beneficiare delle facilitazione
     di cui al punto a) che precede ma potranno comunque affidare a InfoCamere il ruolo di intermediario tecnologico; a tale riguardo, tali Comuni
-    potranno aderire al sistema “pagoPA” a mezzo l’invio della lettera di adesione ad AgID e indicare InfoCamere come Intermediario tecnologico.
+    potranno aderire al sistema “pagoPA” a mezzo dell’invio della lettera di adesione a PagoPA S.p.A. - tramite Portale delle Adesioni - e indicare InfoCamere come Intermediario tecnologico.
     Nel contempo, i Comuni in questione dovranno prendere contatto con InfoCamere per pianificare il piano di attivazione dei servizi e la messa in
     produzione del sistema “pagoPA” per i servizi del SUAP erogati tramite il portale “impresainungiorno.gov.it”.
 
@@ -216,10 +216,10 @@ Pagamenti-SPC, ha già accettato in proprio e si è obbligato in proprio al risp
 
 Si rappresenta, invece che presupposto per essere un Partner tecnologico è la titolarità di una Porta di Dominio Equivalente, messa da esso a
 disposizione degli Enti Creditori che abbiano scelto tale soggetto come loro Partner tecnologico. In tale caso, l’Ente Creditore, nel tempo, nei
-confronti di AgID, rimane responsabile delle attività tecniche per l’interfacciamento con il Nodo, non essendone responsabile invece il Partner.
+confronti di PagoPA S.p.A., rimane responsabile delle attività tecniche per l’interfacciamento con la piattaforma pagoPA, non essendone responsabile invece il Partner.
 
-Per completezza si precisa che per AgID è indifferente che il Partner tecnologico sia o meno aderente al Nodo dei Pagamenti-SPC, non risultando
-necessaria l’adesione al Nodo anche del Partner tecnologico.
+Per completezza si precisa che per PagoPA S.p.A. è indifferente che il Partner tecnologico sia o meno aderente al Sistema pagoPA, non risultando
+necessaria l’adesione anche del Partner tecnologico.
 
 
 
@@ -237,16 +237,16 @@ presso il PSP (c.d. “modello 3”).
 
 C14: Presso l’Ente è già attivo un sistema di pagamento on line, è possibile utilizzare il logo “pagoPA”?
 ---------------------------------------------------------------------------------------------------------
-L’adesione al Nodo dei Pagamenti-SPC è obbligatoria a prescindere dal fatto che l’Ente abbia già delle modalità elettroniche di pagamento
+L’adesione al Sistema pagoPA è obbligatoria a prescindere dal fatto che l’Ente abbia già delle modalità elettroniche di pagamento
 messe a disposizione della propria utenza. La realizzazione, infatti, di un sistema nazionale centralizzato (pagoPA), risponde al più ampio
 obiettivo di cui all’articolo 15, comma 5 bis, del D.L. n. 179/2012, di razionalizzazione e contenimento della spesa pubblica in materia
 informatica, nonché a quello di garantire omogeneità nell’offerta all’utenza ed elevati livelli di sicurezza. Ciò premesso, si precisa che ogni
 piattaforma di pagamento on line già realizzata e/o in uso da parte di un Ente o di un gestore di pubblico servizio può essere mantenuta in essere
 purché integrata con il Nodo dei Pagamenti-SPC per lo scambio dei relativi flussi secondo quanto descritto nelle Linee Guida. Il logo “pagoPA”
-identificativo dell’adesione al Nodo dei Pagamenti-SPC, viene rilasciato solo ai soggetti che hanno espletato tutte le formalità previste dalla
-procedura di adesione (la documentazione è disponibile sul sito dell’Agenzia suddivisa per Enti Creditori e per Prestatori di Servizi di Pagamento).
+identificativo dell’adesione al Sistema pagoPA, viene rilasciato solo ai soggetti che hanno espletato tutte le formalità previste dalla
+procedura di adesione (la documentazione è disponibile sul sito di pagoPA suddivisa per Enti Creditori e per Prestatori di Servizi di Pagamento).
 Attraverso tale logo, infatti, l’utenza potrà comprendere immediatamente se un soggetto pubblico - in qualità di beneficiario – oppure un soggetto
-privato - in qualità di prestatore di servizi di pagamento - è aderente al Nodo dei Pagamenti-SPC.
+privato - in qualità di prestatore di servizi di pagamento - è aderente al Sistema pagoPA.
 
 
 
@@ -348,4 +348,4 @@ ad aderire al Sistema pagoPA.
  
 
 
-.. |AGID_logo| image:: media/AGID_logo.png
+.. |pagoPA_logo| image:: media/logo-pagopa-small-trasp.png

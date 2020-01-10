@@ -1,7 +1,7 @@
 
-+-------------+
-| |AGID_logo| |
-+-------------+
++---------------+
+| |pagoPA_logo| |
++---------------+
 
 **Gruppo D - Domande frequenti sull'adesione dei Prestatori dei Servizi di Pagamento**
 ======================================================================================
@@ -42,4 +42,4 @@ ricevono sul conto corrente le somme pagate, a qualsiasi titolo, da cittadini e 
 
 
 
-.. |AGID_logo| image:: media/AGID_logo.png
+.. |pagoPA_logo| image:: media/logo-pagopa-small-trasp.png

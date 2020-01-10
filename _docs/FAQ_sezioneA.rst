@@ -1,7 +1,7 @@
 
-+-------------+
-| |AGID_logo| |
-+-------------+
++---------------+
+| |PagoPA_logo| |
++---------------+
 
 **Gruppo A - Domande frequenti di carattere generale**
 =======================================================
@@ -30,11 +30,15 @@ pagoPA non è un sito dove pagare, ma un sistema di pagamenti standard adottato 
     - presso le Poste, se il canale è attivato dall’Ente Creditore che ha inviato l'avviso.
 
 
+*Parole chiave: pagamenti elettronici*
+
 
 A3: Con pagoPA posso anche riscuotere crediti verso la pubblica amministrazione?
 --------------------------------------------------------------------------------
 No, il sistema pagoPA permette solo pagamenti verso la Pubblica Amministrazione.
 
+
+*Parole chiave: pagamenti elettronici*
 
 
 A4: Quali sono i vantaggi di pagoPA per i cittadini?
@@ -48,6 +52,9 @@ In particolare:
     - semplicità e velocità del processo: basta inserire il codice di avviso (IUV Identificativo Unico Versamento) per pagare e ricevere la quietanza     liberatoria ovvero la certezza che l’Ente Creditore ha incassato il tributo e non potranno esserci verifiche o accertamenti successivi.
 
 
+*Parole chiave: pagamenti elettronici*
+
+
 A5: Quali sono i vantaggi di pagoPA per le Pubbliche Amministrazioni?
 -----------------------------------------------------------------
 Il sistema pagoPA permette agli Enti Creditori di utilizzare un sistema semplice, standardizzato, non oneroso
@@ -55,10 +62,14 @@ per ricevere qualsiasi tipo di pagamento. Tra i vantaggi, pagoPA permette di rid
 i pagamenti e di automatizzare gli incassi, rendendone più facile ed efficiente la gestione.
 
 
+*Parole chiave: pagamenti elettronici*
+
+
+
 A6: È obbligatorio per un Ente pubblico offrire come metodo di pagamento pagoPA?
 --------------------------------------------------------------------------------
 Le Pubbliche Amministrazioni sono tenute per legge ad aderire al sistema di pagamento pagoPA. Le PA che non hanno rapporti diretti con
-cittadini e imprese, possono essere esentate dall’adesione al sistema, purché abbiano inviato ad AgID la `specifica dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`_ per tale esenzione.
+cittadini e imprese, possono essere esentate dall’adesione al sistema, purché abbiano inviato a PagoPA S.p.A. tramite Pec (presidio@pec.pagopa.it) la `specifica dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`_ per tale esenzione.
 L’obbligo di adesione al sistema pagoPA è esteso anche ai gestori di pubblici servizi e alle società a controllo pubblico.
 Il D.Lgs. n. 179/2016 (G.U. n. 214 del 13.9.2016) e il D.Lgs n. 217/2017 (G.U. n. 9 del 12.01.2018) hanno rispettivamente modificato e corretto  l’articolo 2, comma 2, del CAD introducendo nel perimetro soggettivo del CAD anche i gestori di pubblici servizi e le società a controllo pubblico,    come definite nel decreto legislativo adottato in attuazione dell’articolo 18 della legge n. 124 del 2015, escluse le società quotate. Il D.Lgs. n.        175/2016, all’articolo 2, lettera m), ha delineato il concetto di società a controllo pubblico. In particolare, le società a controllo pubblico sono  definite come quelle società in cui una o più amministrazioni pubbliche esercitano poteri di controllo ai sensi dell'articolo 2359 del codice civile, e precisamente:
 
@@ -70,6 +81,7 @@ L’articolo 2359 del codice civile precisa che ai fini dell'applicazione dei nu
 
 Infine, all’articolo 2 del D.Lgs. n. 175/2016 è ulteriormente precisato che “Il controllo può sussistere anche quando, in applicazione di norme di       legge o statutarie o di patti parasociali, per le decisioni finanziarie e gestionali strategiche relative all'attività sociale è richiesto il       consenso unanime di tutte le parti che condividono il controllo”.
 
+
 *Parole chiave: obbligatorietà*
 
 
@@ -78,9 +90,12 @@ A7: Che cosa è il Nodo dei Pagamenti-SPC?
 Il Nodo dei Pagamenti-SPC è un’infrastruttura tecnologica unitaria, basata su regole e specifiche standard, che offre una modalità
 semplificata e uniforme per garantire l'interoperabilità tra gli Enti Creditori aderenti e i Prestatori di servizi di pagamento per
 l’effettuazione dei pagamenti.
-Tale infrastruttura non è una piattaforma di pagamento, ma permette al pagatore di richiedere l’esecuzione del pagamento a favore del
+Tale infrastruttura è meglio conosciuta come Piattaforma pagoPA o Sistema pagoPA e permette al pagatore di richiedere l’esecuzione del pagamento a favore del
 soggetto aderente al sistema pagoPA, scegliendo la modalità di pagamento preferita, avendo, al contempo, la garanzia della rapidità e
 della piena trasparenza del pagamento stesso.
+
+
+*Parole chiave: pagamenti elettronici*
 
 
 A8: Quali sono i soggetti che devono o possono aderire al Nodo dei Pagamenti-SPC?
@@ -90,7 +105,7 @@ all’articolo 15, comma 5bis, del D.L. 179/2012 come convertito in legge, poich
 sono obbligate ad aderire all’infrastruttura del Nodo dei Pagamenti-SPC. L’adesione resta, altresì, obbligatoria per i soggetti di cui all’articolo     2 del CAD che stabilisce, appunto, l’ambito soggettivo di applicazione dell’articolo 5 del CAD e che obbliga all’adesione a pagoPA dei gestori di     pubblici servizi e anche delle società a controllo pubblico, come definite nel decreto legislativo adottato in attuazione dell’articolo
 18 della legge n. 124 del 2015, escluse le società quotate.
 Pertanto, l’adesione rimane facoltativa solo per i Prestatori di servizi di pagamento e per i soggetti non obbligati per legge che ne facciamo
-espressa richiesta ad AgID che ne valuterà la relativa opportunità e fattibilità.
+espressa richiesta a PagoPA S.p.A. che ne valuterà la relativa opportunità e fattibilità.
 Per ulteriori dettagli, si rimanda alle domande **GRUPPO B – FAQ AMBITO NORMATIVO - B1, B2, B3 e B4**.
 
 *Parole chiave: obbligatorietà*
@@ -115,7 +130,7 @@ I modelli di pagamento previsti da pagoPA sono:
     - Modello 2: pagamento differito rispetto all’erogazione del servizio da parte dell’Ente Creditore tramite il suo portale (incasso pre-autorizzato)
     - Modello 3: pagamento eseguito tramite il canale del prestatore del servizio di pagamento prescelto (tipicamente canale fisico - Uffici Postali,       Ricevitorie, Tabaccherie, ATM Bancomat, etc.)
 
-Per la descrizione dettagliata dei modelli di pagamento si rimanda alla documentazione disponibile sul sito dell’Agenzia. Si precisa che,
+Per la descrizione dettagliata dei modelli di pagamento si rimanda alla documentazione disponibile sul sito di `pagoPA <https://www.pagopa.gov.it/>`_ . Si precisa che,
 a prescindere al modello di pagamento utilizzato, in linea con quanto previsto dalla direttiva europea in materia di servizi di pagamento,
 l’ordine di  pagamento ricevuto dal PSP è irrevocabile da parte dell’utilizzatore finale. Pertanto, una volta che l’utilizzatore finale abbia richiesto al PSP di       eseguire l’operazione di pagamento nei confronti dell’Ente Creditore, il pagatore e il PSP non potranno mai revocare l’ordine di pagamento
 ovvero  pregiudicare il carattere definitivo della relativa operazione di pagamento.
@@ -125,7 +140,7 @@ ovvero  pregiudicare il carattere definitivo della relativa operazione di pagame
 
 A11: Quanti sono i PSP aderenti a pagoPA?
 -----------------------------------------
-Sul sito di AgID è possibile consultare l’ `elenco completo dei Prestatori di Servizi a Pagamento (PSP) <https://www.agid.gov.it/it/piattaforme/pagopa/dove-pagare>`_.
+Sul sito di pagoPA è possibile consultare l’ `elenco completo dei Prestatori di Servizi di Pagamento (PSP) <https://www.pagopa.gov.it/it/dove-pagare/>`_.
 
 *Parole chiave: PSP*
 
@@ -319,7 +334,7 @@ pagoPA non consente pagamenti errati perché controlla l’esistenza della posiz
 A24: La mia banca non supporta pagoPA, cosa posso fare?
 -------------------------------------------------------
 Quasi tutti gli istituti di credito che operano sul territorio nazionale supportano il sistema pagoPA. Si rinvia all’elenco dei Prestatori
-di Servizi a Pagamento (PSP) aderenti a pagoPA rinvenibile sul sito AgID.
+di Servizi a Pagamento (PSP) aderenti a pagoPA rinvenibile sul sito di `pagoPA <https://www.pagopa.gov.it/>`_.
 Se la tua Banca non aderisce al sistema pagoPA potrai comunque pagare attraverso il sistema pagoPA attraverso gli altri canali, ovvero:
 
 - sul sito o sull’app dell’Ente Creditore (se disponibile) utilizzando una carta di credito;
@@ -391,24 +406,18 @@ paragrafo 5 delle Linee Guida, rappresenta uno strumento di pagamento fuori da p
 
 
 
-A31: Le modifiche al CAD hanno introdotto nuovi termini per l’adesione a pagoPA?
+A31: Quali sono i termini per l’utilizzo esclusivo della Piattaforma pagoPA?
 --------------------------------------------------------------------------------
-Il Decreto legislativo 13 dicembre 2017, n. 217 (G.U. n. 9 del 12.01.2018) a correzione del CAD, ha introdotto all’articolo 65, comma 2, del Codice
-«L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto
-legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 31 dicembre 2019».
-Pertanto, i PSP autorizzati ad operare in Italia dalla Banca d’Italia non potranno in alcun modo eseguire servizi di pagamento che non transitino per
-il Sistema pagoPA, ove   abbiano come beneficiario un soggetto pubblico che risulti obbligato all’adesione al Sistema.
+L'articolo 65, comma 2, del decreto legislativo 13 dicembre 2017, n. 217, come modificato dall'articolo 1, comma 8, del decreto legge 162/2019, stabilisce che "L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 30 giugno 2020. Anche al fine di consentire i pagamenti digitali da parte dei cittadini, i soggetti di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, sono tenuti, entro il 30 giugno 2020, a integrare i loro sistemi di incasso con la piattaforma di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, ovvero ad avvalersi, a tal fine, di servizi forniti da altri soggetti di cui allo stesso articolo 2, comma  2, o da fornitori di servizi di incasso già abilitati ad operare sulla piattaforma. Il mancato adempimento dell'obbligo di cui al precedente periodo rileva ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili e comporta responsabilità dirigenziale e disciplinare ai sensi degli articoli 21 e 55 del decreto legislativo 30 marzo 2001, n. 165”.
 
-Pertanto, i soggetti pubblici obbligati all’adesione a pagoPA, alla data del 31 dicembre 2019, ove non aderenti ancora a pagoPA, non potranno
-più incassare in proprio attraverso l’attività di un PSP, salvo l’affidamento di tutte le loro entrate ad un riscuotitore speciale che sia già
-aderente a pagoPA.
+Pertanto, dopo il 30 giugno 2020, i PSP autorizzati ad operare in Italia dalla Banca d’Italia non potranno in alcun modo eseguire servizi di pagamento che non transitino per il Sistema pagoPA, ove abbiano come beneficiario una pubblica amministrazione.
 
-Inoltre, appare altresì importante evidenziare che, ai sensi dell’articolo 2, punto 39, del Decreto legislativo 15 dicembre 2017, n. 218 per
-il recepimento in Italia della PSD2, è stabilito che «Gli articoli 36, 37 e 38 del decreto legislativo 27 gennaio 2010, n. 11 sono abrogati dalla
-data di entrata in vigore del presente decreto, ad eccezione del comma 6 dell'articolo 37 che è abrogato a decorrere dal 1° gennaio 2019».
-Pertanto, dovendo le Pubbliche Amministrazioni applicare quanto stabilito in materia di pagamenti dalla PSD e dalla PSD2 a partire dal 1° gennaio 2019,
-appare opportuno rappresentare che, per la sola componente degli incassi, l’adesione al Sistema pagoPA garantisce il pieno rispetto della direttiva
-europea, come recepita a livello nazionale, essendo il sistema pagoPA già compliance con la PSD1 e con la PSD2, come recepite a livello nazionale.
+Le pubbliche amministrazioni, entro la data del 30 giugno 2020, non potendo più incassare attraverso l’attività di un PSP fuori dal Sistema pagoPA, al fine della loro integrale gestione degli incassi tramite pagoPA, dovranno avere optato per una o più delle soluzioni che seguono:
+
+- integrazione dei loro sistemi di incasso con la Piattaforma pagoPA;
+- utilizzo di servizi di incasso forniti da altri soggetti beneficiari già attivi sulla Piattaforma pagoPA;
+- affidamento delle loro entrate ad un riscuotitore speciale che sia già aderente a pagoPA.
+
 
 *Parole chiave: obbligatorietà*
 
@@ -428,6 +437,7 @@ all’IBAN per il pagamento.
 Resta però fermo che, laddove un utente, però, avendo in proprio memoria di tale IBAN, esegua un bonifico extra pagoPA, tale pagamento andrà comunque
 gestito dall’Ente Creditore quale singola eccezione, laddove il PSP non si riuscito a bloccarlo, con l’auspico che tali eccezioni siano sempre di numero
 inferiore nel tempo, per addivenire ad un pieno rispetto della legge da parte dei PSP e degli Enti Creditori.
+
 
 *Parole chiave: obbligatorietà*
 
@@ -472,25 +482,37 @@ e tra questi non rientrano i MAV, per i quali a decorrere dal 31 dicembre 2019 s
 in capo al PSP di dare seguito a tali avvisi di pagamento fuori dal sistema pagoPA, ove il beneficiario sia un soggetto obbligato ad aderire
 a pagoPA. Si veda anche la FAQ C8.
 
-  *Parole chiave: obbligatorietà*
+
+*Parole chiave: obbligatorietà*
 
 
-  A36: Come funziona il ri-versamento da parte di Poste Italiane sul conto di tesoreria?
-  --------------------------------------------------------------------------------------
-  Al paragrafo 9.1 “Pagamenti effettuati tramite bollettino di conto corrente postale” è stabilito l’onere di Poste Italiane s.p.a., ove richiesto
-  dall’Ente Creditore, di eseguire il ri-versamento sul conto di tesoreria delle somme incassate attraverso il Sistema pagoPA nella singola Giornata
-  operativa.
-  Tale operatività, inerisce le sole operazioni eseguite su pagoPA da Poste con bollettini postali e non anche altre operazioni eseguite da altri PSP.
-  Infatti, tale operatività è funzionale a che il conto postale, ove censito come “conto corrente di appoggio”, mantenga inalterata la capacità per l’ente
-  di eseguire la riconciliazione tramite il giornale di cassa e i flussi pagoPA di riconciliazione/RT singole.
-  Pertanto, per una valida gestione dei flussi pagoPA e addivenire ad una riconciliazione automatizzata, si suggerisce agli Enti Creditori che dispongano
-  di un conto postale ancillare a quello di tesoreria, di valorizzare sempre nelle proprie RPT, sia il campo “CC di accredito” con l’IBAN di tesoreria,
-  sia il campo “CC di appoggio” con IBAN postale.  In tal modo, i PSP aderenti a pagoPA accrediteranno il solo conto di tesoreria, ad eccezione di Poste
-  che utilizzerà invece il solo conto postale e, ove richiesto dall’Ente, provvederà altresì in automatico allo svuotamento dello stesso conto in favore
-  del conto di tesoreria con la periodicità richiesta dall’Ente Creditore; il tutto con ogni evidente semplificazione del processo di riconciliazione e
-  regolarizzazione degli incassi ricevuti.
+A36: Come funziona il ri-versamento da parte di Poste Italiane sul conto di tesoreria?
+--------------------------------------------------------------------------------------
+Al paragrafo 9.1 “Pagamenti effettuati tramite bollettino di conto corrente postale” è stabilito l’onere di Poste Italiane s.p.a., ove richiesto
+dall’Ente Creditore, di eseguire il ri-versamento sul conto di tesoreria delle somme incassate attraverso il Sistema pagoPA nella singola Giornata
+operativa.
+Tale operatività, inerisce le sole operazioni eseguite su pagoPA da Poste con bollettini postali e non anche altre operazioni eseguite da altri PSP.
+Infatti, tale operatività è funzionale a che il conto postale, ove censito come “conto corrente di appoggio”, mantenga inalterata la capacità per l’ente
+di eseguire la riconciliazione tramite il giornale di cassa e i flussi pagoPA di riconciliazione/RT singole.
+Pertanto, per una valida gestione dei flussi pagoPA e addivenire ad una riconciliazione automatizzata, si suggerisce agli Enti Creditori che dispongano
+di un conto postale ancillare a quello di tesoreria, di valorizzare sempre nelle proprie RPT, sia il campo “CC di accredito” con l’IBAN di tesoreria,
+sia il campo “CC di appoggio” con IBAN postale.  In tal modo, i PSP aderenti a pagoPA accrediteranno il solo conto di tesoreria, ad eccezione di Poste
+che utilizzerà invece il solo conto postale e, ove richiesto dall’Ente, provvederà altresì in automatico allo svuotamento dello stesso conto in favore
+del conto di tesoreria con la periodicità richiesta dall’Ente Creditore; il tutto con ogni evidente semplificazione del processo di riconciliazione e
+regolarizzazione degli incassi ricevuti.
+  
+  
+*Parole chiave: PSP*
+  
+A37: Gli incassi eseguiti tramite la Piattaforma pagoPA rispettano la normativa europea (PSD1 e PSD2)?
+--------------------------------------------------------------------------------------
+Ai sensi dell’articolo 2, punto 39, del Decreto legislativo 15 dicembre 2017, n. 218 per
+il recepimento in Italia della PSD2, dal 1° gennaio 2019 le Pubbliche Amministrazioni devono applicare quanto stabilito in materia di pagamenti dalla PSD1 e dalla PSD2.
+Ciò detto, si segnala che, per la sola componente degli incassi, la gestione degli stessi tramite il Sistema pagoPA garantisce il pieno rispetto della direttiva
+europea, come recepita a livello nazionale, essendo il sistema pagoPA già compliance con la PSD1 e con la PSD2, come recepite a livello nazionale.
 
 
+*Parole chiave: obbligatorietà*
 
 
-.. |AGID_logo| image:: media/AGID_logo.png
+.. |PagoPA_logo| image:: media/logo-pagopa-small-trasp.png
