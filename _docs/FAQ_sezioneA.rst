@@ -515,4 +515,4 @@ europea, come recepita a livello nazionale, essendo il sistema pagoPA già compl
 *Parole chiave: obbligatorietà*
 
 
-.. |PagoPA_logo| image:: media/logo-pagopa.png
+.. |PagoPA_logo| image:: media/logo-pagopa-small-trasp.png
