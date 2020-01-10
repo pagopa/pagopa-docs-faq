@@ -50,4 +50,4 @@ sistemi di pagamento.
 
 
 
-.. |AGID_logo| image:: media/AGID_logo.png
+.. |AGID_logo| image:: media/logo-pagopa-small-trasp.png
