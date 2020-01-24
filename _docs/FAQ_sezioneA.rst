@@ -515,4 +515,21 @@ europea, come recepita a livello nazionale, essendo il sistema pagoPA già compl
 *Parole chiave: obbligatorietà*
 
 
+A38: Come posso portare in deduzione/detrazione quanto pagato con pagoPA?
+-------------------------------------------------------------------------
+Con pagoPA, a prescindere dalle modalità di pagamento (contanti, bonifico, carta di credito, ecc.) il pagatore è sempre chiamato a scegliere il PSP con cui svolgere il servizio di pagamento, anche al fine di scegliere le commissioni da pagare.
+Tali commissioni, ove richieste, sono versate e incamerate esclusivamente dal PSP selezionato dal cittadino e nulla è di competenza del sistema pagoPA e/o della PagoPA S.p.A. che gestisce tale sistema. Inoltre, tali commissioni, in quanto inerenti un’attività finanziaria, sono esenti da IVA.   
+Fatte tali precisazioni, per quanto concerne la deducibilità/detraibilità delle commissioni pagate con pagoPA, la prova del pagamento delle stesse è rinvenibile, come segue:
+
+-	per i pagamenti tramite home banking (es. bonifico, MyBank, C-BILL, ecc.) l’importo delle commissioni, di norma, è addebitato separatamente dall’importo del pagamento stesso; pertanto, ai fini fiscali, si potrà fare riferimento alla specifica riga di estratto conto ove risultano addebitate tale spese di commissioni; 
+-	per i pagamenti tramite carta di pagamento (es. di credito o di debito o prepagata) l’importo delle commissioni, di norma, è addebitato unitamente all’importo del pagamento stesso; pertanto, ai fini fiscali, si potrà fare riferimento alla riga di estratto conto della carta ove risulta addebitato tale pagamento;
+-	per i pagamenti tramite sportello fisico (es. tabaccaio, poste italiane, grande distribuzione, ecc.) l’importo delle commissioni, di norma, è addebitato separatamente dall’importo del pagamento stesso; pertanto, ai fini fiscali, si potrà fare riferimento alla ricevuta/scontrino rilasciato dal PSP ove risultano specificate le spese di commissioni.
+
+Per ogni ulteriore esigenza di detrazione/deduzione di quanto pagato in favore dell’amministrazione beneficiaria, il cittadino dovrà rivolgersi direttamente all’amministrazione affinché la stessa rilasci ogni documento, ulteriore e diverso dalla ricevuta rilasciata dal PSP e/o da pagoPA, quale ad esempio la quietanza del pagamento eseguito tramite pagoPA. 
+
+
+
+*Parole chiave: deduzione, detrazione*
+
+
 .. |PagoPA_logo| image:: media/logo-pagopa-small-trasp.png
