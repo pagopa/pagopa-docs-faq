@@ -345,7 +345,22 @@ Nella fattispecie, essendo gli Enti nazionali di previdenza e di assistenza soci
 ad aderire al Sistema pagoPA.
 
 *Parole chiave: obbligatorietà*
- 
+
+
+C22: I trasferimenti di fondi tra enti pubblici che vengono effettuati tramite i conti di tesoreria in Banca d’Italia sono esclusi dal Sistema pagoPA?
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Il sistema pagoPA non modifica, né altera, l'applicazione della normativa di finanza pubblica, incluso l’art.  44  della  legge n. 526/1982 
+che impone agli enti titolari di fondi presso conti correnti o contabilità speciali presso le Tesorerie dello Stato di eseguire operazioni di girofondi 
+a valere su tali conti correnti o contabilità speciali intestati agli enti destinatari dei pagamenti.
+
+Ogni altra forma di incasso deve essere gestita sulla Piattaforma pagoPA.
+
+Si rinvia anche alle FAQ C17 e C18.
+
+
+*Parole chiave: girofondi*
+
 
 
 .. |pagoPA_logo| image:: media/logo-pagopa-small-trasp.png
