@@ -23,6 +23,7 @@ A2: Cosa posso pagare con pagoPA?
 ---------------------------------
 pagoPA permette di pagare tributi, tasse, utenze, rette, quote associative, bolli e qualsiasi altro tipo di pagamento verso le Pubbliche Amministrazioni centrali e locali, ma anche verso altri soggetti, come le aziende a partecipazione pubblica, le scuole, le università, le ASL.
 pagoPA non è un sito dove pagare, ma un sistema di pagamenti standard adottato da Banche e altri istituti di pagamento. Si possono effettuare i pagamenti direttamente sul sito o sull’app dell’Ente Creditore (il tuo comune, ad esempio) o attraverso i canali (online e fisici) di banche e altri Prestatori di Servizio a Pagamento (PSP), ovvero:
+
     - presso le agenzie della tua banca;
     - utilizzando l'home banking della tua banca (dove trovi i loghi CBILL o pagoPA);
     - presso gli sportelli ATM della tua banca (se abilitati);
@@ -46,6 +47,7 @@ A4: Quali sono i vantaggi di pagoPA per i cittadini?
 Il principale vantaggio di utilizzare il sistema pagoPA è quello di affidarsi ad un sistema unico di pagamento, semplice, rapido e
 trasparente (certezza dei costi di commissione, chiarezza degli importi, ecc.), per effettuare qualsiasi tipo di pagamento verso la Pubblica Amministrazione.
 In particolare:
+
     - multicanalità integrata a livello nazionale con trasparenza dei costi delle commissioni
     - uniformità dell'avviso di pagamento e possibilità di avvisare il cittadino digitalmente sui canali che preferisce (notifiche sull’app o sul sito     del PSP scelto, SMS o mail);
     - certezza del debito dovuto, con possibilità di ottenere l'attualizzazione dell'importo, ossia l’importo da pagare è sempre quello valido e     richiesto dall’Ente Creditore (se l’importo varia nel tempo per interessi di mora o altro, su pagoPA viene sempre aggiornato);
@@ -56,7 +58,7 @@ In particolare:
 
 
 A5: Quali sono i vantaggi di pagoPA per le Pubbliche Amministrazioni?
------------------------------------------------------------------
+---------------------------------------------------------------------
 Il sistema pagoPA permette agli Enti Creditori di utilizzare un sistema semplice, standardizzato, non oneroso
 per ricevere qualsiasi tipo di pagamento. Tra i vantaggi, pagoPA permette di ridurre i costi per ricevere e gestire
 i pagamenti e di automatizzare gli incassi, rendendone più facile ed efficiente la gestione.
@@ -87,7 +89,7 @@ Infine, si precisa che i soggetti obbligati all’utilizzo di pagoPA, siano essi
 
 
 A7: Che cosa è il Nodo dei Pagamenti-SPC?
-----------------------------------------
+-----------------------------------------
 Il Nodo dei Pagamenti-SPC è un’infrastruttura tecnologica unitaria, basata su regole e specifiche standard, che offre una modalità
 semplificata e uniforme per garantire l'interoperabilità tra gli Enti Creditori aderenti e i Prestatori di servizi di pagamento per
 l’effettuazione dei pagamenti.
@@ -116,6 +118,7 @@ A9: Quali sono gli strumenti di pagamento e i canali utilizzabili?
 ------------------------------------------------------------------
 Con l’adesione al Nodo dei Pagamenti-SPC, l’Ente Creditore può automaticamente, senza costi aggiuntivi, né necessità di convenzionamenti
 con i PSP, mettere a disposizione del cittadino i seguenti strumenti e canali di pagamento elettronico:
+
     - il bonifico bancario o postale ovvero il bollettino postale
     - versamenti effettuati con «carte di debito, di credito, prepagate ovvero di altri strumenti di pagamento elettronico disponibili, che consentano anche l'addebito in conto corrente», avvalendosi dei prestatori di servizi di pagamento individuati secondo la procedura di cui al comma 1, lettera b) dell’art. 5 del CAD.
 
@@ -506,7 +509,7 @@ regolarizzazione degli incassi ricevuti.
 *Parole chiave: PSP*
   
 A37: Gli incassi eseguiti tramite la Piattaforma pagoPA rispettano la normativa europea (PSD1 e PSD2)?
---------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 Ai sensi dell’articolo 2, punto 39, del Decreto legislativo 15 dicembre 2017, n. 218 per
 il recepimento in Italia della PSD2, dal 1° gennaio 2019 le Pubbliche Amministrazioni devono applicare quanto stabilito in materia di pagamenti dalla PSD1 e dalla PSD2.
 Ciò detto, si segnala che, per la sola componente degli incassi, la gestione degli stessi tramite il Sistema pagoPA garantisce il pieno rispetto della direttiva
