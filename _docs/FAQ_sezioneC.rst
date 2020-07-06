@@ -362,5 +362,28 @@ Si rinvia anche alle FAQ C17 e C18.
 *Parole chiave: girofondi*
 
 
+C23:  Come deve eseguire un Ente Creditore l’attività di riversamento ad altro ente?
+------------------------------------------------------------------------------------
+
+L’attività di incasso posta in essere da un Ente Creditore può comportare la necessità in capo a tale stesso ente di dovere riconoscere, in tutto o in parte, quanto incassato ad altro soggetto, quale soggetto avente una competenza finale all’incasso di tali somme.
+In altri termini, un Ente Creditore può essere chiamato a riversare, in tutto o in parte, i fondi incassati ad altro soggetto.
+
+Sul sistema pagoPA i pagamenti eseguiti online attraverso il c.d. modello 1 gestiscono il carrello multi-beneficiario, cioè l’importo totale della transazione può essere accreditato su diversi IBAN anche intestati, se del caso, a distinti soggetti beneficiari.
+Viceversa, i pagamenti eseguiti presso il PSP attraverso un avviso di pagamento (c.d. modello 3) necessariamente sono destinati a un solo beneficiario.
+
+Fatta la precisazione fin qui esposta, un Ente Creditore potrà scegliere tra due opzioni:
+
+* 1. incassare integralmente attraverso la PIattaforma pagoPA e continuare ad eseguire l’attività di riversamento ad altro ente, al di fuori del sistema pagoPA; 
+
+oppure
+
+* 2. eseguire un accredito immediato e automatico della quota di competenza di altro ente per i soli pagamenti online attraverso il c.d. modello 1 e ridurre/circoscrivere l'attività di riversamento ad altro ente da eseguire al di fuori del sistema pagoPA solo per i pagamenti eseguiti presso il PSP attraverso il c.d. modello 3.
+
+Infine, per completezza, si segnala che affinchè l’Ente Creditore possa censire uno o più IBAN intestati ad altri enti beneficiari - in tutto o in parte - dell’incasso, non è necessario che tali stessi enti beneficiari siano a loro volta aderenti alla piattaforma pagoPA, ma è sufficiente che abbiano sottoscritto la specifica dichiarazione di cui alla FAQ C7. 
+
+
+*Parole chiave: riversamento*
+
+
 
 .. |pagoPA_logo| image:: media/logo-pagopa-small-trasp.png
