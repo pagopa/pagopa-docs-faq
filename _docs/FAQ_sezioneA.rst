@@ -89,6 +89,7 @@ Infine, all’articolo 2 del D.Lgs. n. 175/2016 è ulteriormente precisato che �
 Infine, si precisa che i soggetti obbligati all’utilizzo di pagoPA, siano essi PA o gestori di pubblici servizi o società a controllo pubblico, ove ricorrano tutti  i requisiti (nessuno escluso) indicati nella `lettera di esenzione <https://www.pagopa.gov.it/it/pubbliche-amministrazioni/lettera-esenzione.rtf>`_, possono fare istanza alla PagoPA S.p.A. (via mail all’indirizzo `helpdesk@pagopa.it <mailto:helpdesk@pagopa.it>`_), inviando in allegato la lettera di 
 esenzione debitamente compilata e sottoscritta.
 
+
 *Parole chiave: obbligatorietà*
 
 
