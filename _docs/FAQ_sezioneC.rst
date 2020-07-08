@@ -198,7 +198,7 @@ all’adesione al sistema “pagoPA” per il pagamento dei restanti sevizi, oss
 
 C12: Che differenza c’è tra Intermediario tecnologico e Partner tecnologico?
 ----------------------------------------------------------------------------
-Un Ente Creditore, sia esso una PA o un Gestore di pubblici servizi, nell’adesione al Nodo dei pagamenti-SPC ha tre possibilità:
+Un Ente Creditore, sia esso una Pubblica Amministrazione o un Gestore di pubblici servizi, nell’adesione al Nodo dei pagamenti-SPC ha tre possibilità:
 
   1. aderire direttamente, senza alcun Intermediario tecnologico e/o Partner tecnologico;
 
@@ -207,19 +207,15 @@ Un Ente Creditore, sia esso una PA o un Gestore di pubblici servizi, nell’ades
   3. aderire indirettamente, delegando le attività tecniche ad un Partner tecnologico.
 
 Le tre soluzioni possono anche coesistere tra di loro, potendo il singolo Ente Creditore in autonomia decidere, i) se; ii) a chi; e iii) a quanti
-affidare la gestione e/o l’interconnessione dei loro servizi con il Nodo dei Pagamenti-SPC ai fini delle relative funzionalità di pagamento.
+affidare la gestione e/o l’interconnessione dei propri servizi con il Nodo dei Pagamenti-SPC ai fini delle relative funzionalità di pagamento.
 
-Fatta la precisazione appena esposta, si rappresenta che presupposto per essere un Intermediario tecnologico è rivestire altresì la qualità di Ente
-Creditore, ossia essere aderenti in proprio come Ente Creditore attivo sul Sistema. Inoltre, risultando l’Intermediario responsabile, nel tempo, nei
-confronti di AgID delle attività tecniche per l’interfacciamento con il Nodo, l’Intermediario tecnologico, essendo soggetto aderente al Nodo dei
-Pagamenti-SPC, ha già accettato in proprio e si è obbligato in proprio al rispetto delle Linee Guida e dei relativi allegati.
+Fatta la precisazione appena esposta, si rappresenta che è denominato Intermediario tecnologico un soggetto pubblico che rende disponibile, in sussidiarietà, il servizio di intermediazione 
+ad altre pubbliche amministrazioni (ad esempio, una Regione che intermedia gli Enti del proprio territorio).
 
-Si rappresenta, invece che presupposto per essere un Partner tecnologico è la titolarità di una Porta di Dominio Equivalente, messa da esso a
-disposizione degli Enti Creditori che abbiano scelto tale soggetto come loro Partner tecnologico. In tale caso, l’Ente Creditore, nel tempo, nei
-confronti di PagoPA S.p.A., rimane responsabile delle attività tecniche per l’interfacciamento con la piattaforma pagoPA, non essendone responsabile invece il Partner.
+Si definisce invece Partner tecnologico qualsiasi altro soggetto che eroga a favore di un Ente Creditore aderente i servizi IT necessari a consentire l'interfaccia tecnica con pagoPA. 
 
-Per completezza si precisa che per PagoPA S.p.A. è indifferente che il Partner tecnologico sia o meno aderente al Sistema pagoPA, non risultando
-necessaria l’adesione anche del Partner tecnologico.
+PagoPA espone sul proprio sito istituzionale il modello dei Servizi IT connessi all’intermediazione tecnologica e le informazioni relative all'elenco degli Intermediari e Partner tecnologici, 
+unitamente a ulteriori informazioni accessorie relative alle proprie basi dati, e pubblica sul proprio sito istituzionale l’elenco di tali soggetti.
 
 
 
