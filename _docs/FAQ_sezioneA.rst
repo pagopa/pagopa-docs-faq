@@ -8,7 +8,7 @@
 
 A1: Cos'è pagoPA?
 -----------------
-pagoPA è un sistema per rendere più semplici, sicuri e trasparenti tutti i pagamenti verso la Pubblica Amministrazione. pagoPA è adottato obbligatoriamente da tutte le Pubbliche Amministrazioni e dagli altri soggetti obbligati per legge e da un numero crescente di Banche e di istituti   di pagamento (Prestatori di Servizi a Pagamento - PSP). pagoPA è previsto in attuazione dell’art. 5 del CAD (Codice dell’Amministrazione Digitale) e   dal D.L. 179/2012.
+pagoPA è un sistema per rendere più semplici, sicuri e trasparenti tutti i pagamenti verso la Pubblica Amministrazione. pagoPA è adottato obbligatoriamente da tutte le Pubbliche Amministrazioni e dagli altri soggetti obbligati per legge e da un numero crescente di Banche e di istituti   di pagamento (Prestatori di Servizi di Pagamento - PSP). pagoPA è previsto in attuazione dell’art. 5 del CAD (Codice dell’Amministrazione Digitale) e   dal D.L. 179/2012.
 pagoPA nasce per specifici motivi:
 
     - incrementare l’uso di modalità elettroniche di pagamento a livello di sistema Paese in considerazione del fatto che, i pagamenti verso gli Enti Creditori, sono rilevanti per numero di transazioni e volumi;
@@ -22,7 +22,7 @@ pagoPA nasce per specifici motivi:
 A2: Cosa posso pagare con pagoPA?
 ---------------------------------
 pagoPA permette di pagare tributi, tasse, utenze, rette, quote associative, bolli e qualsiasi altro tipo di pagamento verso le Pubbliche Amministrazioni centrali e locali, ma anche verso altri soggetti, come le aziende a partecipazione pubblica, le scuole, le università, le ASL.
-pagoPA non è un sito dove pagare, ma un sistema di pagamenti standard adottato da Banche e altri istituti di pagamento. Si possono effettuare i pagamenti direttamente sul sito o sull’app dell’Ente Creditore (il tuo comune, ad esempio) o attraverso i canali (online e fisici) di banche e altri Prestatori di Servizio a Pagamento (PSP), ovvero:
+pagoPA non è un sito dove pagare, ma un sistema di pagamenti standard adottato da Banche e altri istituti di pagamento. Si possono effettuare i pagamenti direttamente sul sito o sull’app dell’Ente Creditore (il tuo comune, ad esempio) o attraverso i canali (online e fisici) di banche e altri Prestatori di Servizio di Pagamento (PSP), ovvero:
 
     - presso le agenzie della tua banca;
     - utilizzando l'home banking della tua banca (dove trovi i loghi CBILL o pagoPA);
@@ -157,9 +157,9 @@ effettuati attraverso CBILL, utilizzando un codice identificativo del sistema pa
 
 *Parole chiave: PSP*
 
-A13: Ci sono differenze di costo tra i diversi Prestatori di Servizio a Pagamento?
+A13: Ci sono differenze di costo tra i diversi Prestatori di Servizio di Pagamento?
 ----------------------------------------------------------------------------------
-Si. Ogni istituto che gestisce in pagamenti con pagoPA (Prestatori di Servizi a Pagamento) può applicare autonomamente differenti costi, a  seconda delle proprie politiche commerciali e delle condizioni contrattuali dell’utente.
+Si. Ogni istituto che gestisce in pagamenti con pagoPA (Prestatori di Servizi di Pagamento) può applicare autonomamente differenti costi, a  seconda delle proprie politiche commerciali e delle condizioni contrattuali dell’utente.
 
 *Parole chiave: PSP*
 
@@ -287,7 +287,7 @@ il servizio di pagamento, anche al fine di scegliere le commissioni da pagare. E
 A19: Le operazioni eseguite con carta di credito con pagoPA possono essere disconosciute o comunque stornate in favore del pagatore?
 ------------------------------------------------------------------------------------------------------------------------------------
 Con pagoPA, la carta di credito rappresenta solo uno degli strumenti che il cittadino può utilizzare.
-Come per qualsiasi pagamento con carta di credito, il cittadino ha il diritto di disconoscere un’operazione che non ha autorizzato (ad esempio in caso di smarrimento della carta o clonazione della stessa), previa denuncia e blocco della carta, oppure contestando l’addebito entro 60 giorni   dalla ricezione dell'estratto conto. L’istituto di pagamento (Prestatori di Servizi a Pagamento) che ha eseguito l’operazione di addebito della   carta di credito è responsabile della verifica della legittimità della richiesta, come da normale procedura legata a qualsiasi pagamento effettuato   con carta di credito.
+Come per qualsiasi pagamento con carta di credito, il cittadino ha il diritto di disconoscere un’operazione che non ha autorizzato (ad esempio in caso di smarrimento della carta o clonazione della stessa), previa denuncia e blocco della carta, oppure contestando l’addebito entro 60 giorni   dalla ricezione dell'estratto conto. L’istituto di pagamento (Prestatori di Servizi di Pagamento) che ha eseguito l’operazione di addebito della   carta di credito è responsabile della verifica della legittimità della richiesta, come da normale procedura legata a qualsiasi pagamento effettuato   con carta di credito.
 Resta ferma la possibilità per il pagatore di rivolgersi direttamente alla Pubblica Amministrazione che ha ricevuto il pagamento, per la richiedere il rimborso dell’importo pagato, in quanto non dovuto in tutto o in parte, ad esempio per la mancata erogazione del servizio o per l’erogazione di   un servizio di importo diverso da quanto già pagato.
 
 *Parole chiave: PSP, carta*
@@ -338,7 +338,7 @@ pagoPA non consente pagamenti errati perché controlla l’esistenza della posiz
 A24: La mia banca non supporta pagoPA, cosa posso fare?
 -------------------------------------------------------
 Quasi tutti gli istituti di credito che operano sul territorio nazionale supportano il sistema pagoPA. Si rinvia all’elenco dei Prestatori
-di Servizi a Pagamento (PSP) aderenti a pagoPA rinvenibile sul sito di `pagoPA <https://www.pagopa.gov.it/>`_.
+di Servizi di Pagamento (PSP) aderenti a pagoPA rinvenibile sul sito di `pagoPA <https://www.pagopa.gov.it/>`_.
 Se la tua Banca non aderisce al sistema pagoPA potrai comunque pagare attraverso il sistema pagoPA attraverso gli altri canali, ovvero:
 
 - sul sito o sull’app dell’Ente Creditore (se disponibile) utilizzando una carta di credito;
@@ -397,7 +397,7 @@ produrre per l’utente pagatore una specifica quietanza per il pagamento ricevu
 
 A29: Qual è il livello di sicurezza dei pagamenti che avvengono su pagoPA?
 --------------------------------------------------------------------------
-Il livello di sicurezza è garantito dall’aderenza alle normative di sicurezza stabilite dalla Payment Card Industry (PCI) e all’aderenza ai requisiti sulla Strong Authentication previsti dalla PSD2. Tutti gli istituti di pagamento (Prestatori di Servizi a Pagamento) aderenti
+Il livello di sicurezza è garantito dall’aderenza alle normative di sicurezza stabilite dalla Payment Card Industry (PCI) e all’aderenza ai requisiti sulla Strong Authentication previsti dalla PSD2. Tutti gli istituti di pagamento (Prestatori di Servizi di Pagamento) aderenti
 al sistema pagoPA devono sottostare ai requisiti di sicurezza e di prevenzione delle frodi imposti dalla PSD e PSD2.
 
 
