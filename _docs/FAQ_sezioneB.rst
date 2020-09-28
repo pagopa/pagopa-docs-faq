@@ -95,8 +95,7 @@ La piattaforma tecnologica del Nodo dei Pagamenti-SPC è attiva e funzionante da
 all’applicazione del CAD di consentire agli utenti (cittadini, imprese e professionisti) di eseguire con mezzi elettronici il pagamento di quanto a
 qualsiasi titolo dovuto alla Pubblica Amministrazione è in vigore dal 1° giugno 2013. Inoltre, si segnala che l’articolo 65, comma 2, del Decreto
 legislativo 13 dicembre 2017, n. 217 stabilisce «\ *L’obbligo per i prestatori di servizi di pagamento abilitati di utilizzare esclusivamente la
-piattaforma di cui all’articolo 5, comma 2, del decreto legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 31
-dicembre 2019*\ ». Pertanto, a decorrere da tale data, i prestatori abilitati a offrire servizi di pagamento ai sensi della PSD2 non potranno in
+piattaforma di cui all’articolo 5, comma 2, del decreto legislativo n. 82 del 2005 per i pagamenti verso le pubbliche amministrazioni decorre dal 28 febbraio 2021*\ ». Pertanto, a decorrere da tale data, i prestatori abilitati a offrire servizi di pagamento ai sensi della PSD2 non potranno in
 alcun modo eseguire servizi di pagamento che non transitino per il Nodo dei Pagamenti-SPC e che abbiano come beneficiario un soggetto pubblico
 obbligato all’adesione allo stesso sistema, ad eccezione dei soli servizi indicati al paragrafo 5 delle Linee Guida, e segnatamente:
 
