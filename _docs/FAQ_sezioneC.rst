@@ -103,7 +103,7 @@ possono affiancare al sistema esclusivamente i seguenti metodi di pagamento:
 
 Inoltre si segnala che l’articolo 65, comma 2, del Decreto legislativo 13 dicembre 2017, n. 217 stabilisce «L’obbligo per i prestatori di servizi di
 pagamento abilitati di utilizzare esclusivamente la piattaforma di cui all’articolo 5, comma 2, del decreto legislativo n. 82 del 2005 per i pagamenti
-verso le pubbliche amministrazioni decorre dal 30 giugno 2020». Pertanto, a decorrere da tale data, i prestatori abilitati a offrire servizi di
+verso le pubbliche amministrazioni decorre dal 28 febbraio 2021». Pertanto, a decorrere da tale data, i prestatori abilitati a offrire servizi di
 pagamento ai sensi della PSD2 non potranno in alcun modo eseguire servizi di pagamento che non transitino per il Nodo dei Pagamenti-SPC e che abbiano
 come beneficiario un soggetto pubblico obbligato all’adesione allo stesso sistema, ad eccezione dei soli servizi di cui alle lettere a), b), c) e d)
 appena indicati.
