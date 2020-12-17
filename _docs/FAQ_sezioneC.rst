@@ -381,5 +381,16 @@ Infine, per completezza, si segnala che affinchè l’Ente Creditore possa censi
 *Parole chiave: riversamento*
 
 
+C24:  Le strutture sanitarie private che operano in regime di accreditamento al servizio nazionale sono obbligate ad aderire a pagoPA?
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Nel momento in cui la struttura sanitaria privata ottiene l’accreditamento, essa opera quale  gestore di pubblico servizio.
+
+Di conseguenza, la stessa è obbligata ad aderire a pagoPA in quanto tale obbligo ai sensi dell’art. 2, comma 2, del CAD coinvolge anche i gestori di pubblici servizi.
+
+
+*Parole chiave: obbligatorietà*
+
+
 
 .. |pagoPA_logo| image:: media/logo-pagopa-small-trasp.png
