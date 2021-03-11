@@ -27,7 +27,7 @@ pagoPA non è un sito dove pagare, ma un sistema di pagamenti standard adottato 
     - presso le agenzie della tua banca;
     - utilizzando l'home banking della tua banca (dove trovi i loghi CBILL o pagoPA);
     - presso gli sportelli ATM della tua banca (se abilitati);
-    - presso i punti vendita di SISAL, Lottomatica e ITB;
+    - presso i punti vendita di Mooney, Lottomatica e ITB;
     - presso le Poste, se il canale è attivato dall’Ente Creditore che ha inviato l'avviso.
 
 
@@ -204,7 +204,7 @@ Questa tabella mostra alcuni esempi di come cambiano i costi di commissione per 
 | (1) (2)             |                                        |                                                                                    |
 |                     |                                        |                                                                                    |
 +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
-| Sisal (1) (2)       | 2 Euro                                 | 2 Euro                                                                             |
+| Mooney (1) (2)       | 2 Euro                                 | 2 Euro                                                                             |
 +---------------------+----------------------------------------+------------------------------------------------------------------------------------+
 | Lottomatica         | 2 Euro                                 | 2 Euro                                                                             |
 | (1) (2)             |                                        |                                                                                    |
@@ -342,7 +342,7 @@ di Servizi di Pagamento (PSP) aderenti a pagoPA rinvenibile sul sito di `pagoPA 
 Se la tua Banca non aderisce al sistema pagoPA potrai comunque pagare attraverso il sistema pagoPA attraverso gli altri canali, ovvero:
 
 - sul sito o sull’app dell’Ente Creditore (se disponibile) utilizzando una carta di credito;
-- presso i punti vendita di SISAL, Lottomatica e ITB;
+- presso i punti vendita di Mooney, Lottomatica e ITB;
 - presso le Poste, se l’Ente Creditore che ha inviato l'avviso ha attivato tale possibilità di pagamento.
 
 *Parole chiave: PSP*
