@@ -75,13 +75,18 @@ e degli Acquisti sulla piattaforma gestita da CONSIP S.p.A.
 
 C5: L’adesione a pagoPA da parte di un soggetto a cui una PA ha affidato la riscossione delle entrate ha effetto sulla stessa PA appaltante?
 --------------------------------------------------------------------------------------------------------------------------------------------
-Il Sistema pagoPA è disponibile anche ai soggetti iscritti nell’albo di cui all’articolo 53, comma 1, del D.Lgs. n. 446/1997 che consente
-alle PA di affidare a terzi le attività di accertamento, liquidazione e riscossione delle entrate. In merito, si puntualizza che: i) i soggetti
-iscritti nell’albo già indicato, ove aderenti al sistema pagoPA, risulteranno beneficiari delle operazioni di pagamento elettroniche eseguite
-attraverso pagoPA; e ii) l’attività di riversamento da parte del concessionario in favore della PA appaltante sarà eseguita fuori dal sistema pagoPA
-ovvero nelle modalità stabilite nel contratto tra il concessionario e la stessa PA appaltante. Fatta la precisazione appena esposta, appare
-necessario puntualizzare che l’adesione al sistema pagoPA eseguita da parte di un soggetto a cui la PA ha affidato, ex D.Lgs. n.446/1997, l’attività
-di riscossione delle entrate, non comporta l’adesione a pagoPA da parte anche della PA appaltante.
+Un Riscossore - definito come quel soggetto iscritto nell’albo di cui all’articolo 53, comma 1, del D.Lgs. n. 446/1997, che consente alle PA di affidare 
+a terzi le attività di accertamento, liquidazione e riscossione delle entrate - se aderente al sistema pagoPA, potrà risultare Ente Creditore e beneficiario 
+delle operazioni di pagamento elettroniche eseguite attraverso la piattaforma pagoPA **solo ed esclusivamente nel caso in cui la PA gli abbia ceduto il credito**. 
+Non anche quindi nel caso in cui il Riscossore stia gestendo un credito nella titolarità dell’ente impositore 
+(come precisato con `Circolare n. 3/DF  <https://www.finanze.gov.it/it/inevidenza/Circolare-n.-3-DF-del-27-ottobre-2020-Adempimenti-degli-enti-locali-dei-tesorieri-e-dei-soggetti-affidatari-della-riscossione./>`_ del Ministero dell’Economia e delle Finanze).
+
+Si precisa quindi che:
+
+1) l’affidamento ad un Riscossore non rientra tra le cause di esenzione dall’adesione alla piattaforma pagoPA da parte della PA appaltante/ente impositore; 
+2) il Riscossore potrà liberamente decidere di aderire al sistema pagoPA in qualità di Partner/Intermediario tecnologico per agevolare gli enti impositori nell’adesione alla piattaforma pagoPA;
+3) il Riscossore, per l’incasso dei crediti acquisiti dalla PA a seguito di cessione del credito, potrà aderire in proprio a pagoPA in qualità di Ente Creditore.
+
 
 *Parole chiave: PA, obbligatorietà*
 
@@ -119,28 +124,22 @@ l’adesione al Sistema pagoPA garantisce, altresì, il pieno rispetto della dir
 
 C7: Un Ente Creditore può censire sul sistema pagoPA degli IBAN inerenti dei conti correnti a lui non intestati?
 ----------------------------------------------------------------------------------------------------------------
-In via generale, sul Sistema pagoPA, ogni Ente Creditore è chiamato per la gestione degli incassi inerenti i servizi da esso erogati a
-censire almeno un IBAN di un conto corrente a lui intestato.
-Per tale attività di censimento e aggiornamento dei conti correnti, il singolo Ente Creditore nomina il proprio Referente dei Pagamenti, che si
-assume ogni responsabilità per quanto comunicato, in nome e per conto dell’Ente Creditore di riferimento, sul Portale pagoPA.
+In via generale, sul sistema pagoPA ogni Ente Creditore è chiamato - per la gestione degli incassi inerenti i servizi erogati - a censire almeno un IBAN 
+di un conto corrente a lui intestato. Per tale attività di censimento e aggiornamento dei conti correnti, il singolo Ente Creditore nomina il proprio Referente dei Pagamenti, 
+che si assume ogni responsabilità per quanto comunicato, in nome e per conto dell’Ente Creditore di riferimento, sul Portale pagoPA.
 
-Fatta la precisazione appena esposta, si rappresenta che, tenute nella debita considerazione il ruolo e le funzioni del Referente dei Pagamenti, PagoPA S.p.A.
-consente, previo invio tramite Pec (presidio@pec.pagopa.it) della `specifica
-dichiarazione <https://github.com/italia/lg-pagopa-docs/blob/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`__ e previa verifica della fattibilità da parte della stessa PagoPA S.p.A., a un Ente Creditore di censire anche IBAN inerenti dei conti correnti a lui non intestati.
+Tale premessa è necessaria per precisare che, in considerazione del ruolo e delle funzioni del Referente dei Pagamenti, PagoPA S.p.A. consente - 
+previo invio tramite Pec (`helpdesk@pagopa.it <mailto:helpdesk@pagopa.it>`_) della `specifica dichiarazione <https://github.com/pagopa/lg-pagopa-docs/raw/master/documentazione_tecnica_collegata/faq/c7_dichiarazione_ente_per_censimento_iban_tramite_altro_ec_1_0.doc>`_ e previa verifica della fattibilità da parte della stessa PagoPA S.p.A. - a un 
+Ente Creditore di censire anche IBAN inerenti dei conti correnti a lui non intestati. Tali IBAN devono però appartenere a soggetti terzi che abbiano c
+omunque un rapporto in essere con l’Ente Creditore per l’erogazione di specifici servizi, e, al contempo, abbiano in essere un collegamento telematico che, 
+ancorché fuori dal Sistema pagoPA, consenta al soggetto terzo di ricevere i flussi informativi scambiati sul sistema pagoPA.
 
-Tali IBAN devono però essere di soggetti terzi che, comunque, hanno un rapporto in essere con l’Ente Creditore per l’erogazione di specifici servizi e,
-al contempo, abbiano in essere, altresì, un collegamento telematico che, ancorché fuori dal Sistema pagoPA, consenta al soggetto terzo di ricevere i
-flussi informativi scambiati sul Sistema pagoPA.
+Soltanto a titolo esemplificativo, si descrivono di seguito dei casi in cui un Ente Creditore può censire IBAN inerenti conti correnti a lui non intestati:
 
-A titolo esemplificativo, si segnala che rappresentano casi di fattibilità le seguenti fattispecie:
+- Ente Creditore che voglia censire sul Sistema pagoPA gli IBAN delle società da esso controllate;
+- Ente Creditore che, in qualità di Unione di Comuni, voglia censire sul sistema pagoPA gli IBAN degli Enti che lo compongono;
+- Ente Creditore che eroghi in proprio un servizio il cui incasso, per legge, è di spettanza di un’altra amministrazione.
 
-  - Ente Creditore che, in qualità di riscossore iscritto nell’albo di cui all’articolo 53, comma 1, del D.Lgs. n. 446/1997, voglia, in esecuzione dell’articolo 2 bis del D.L. 193/2016, censire sul Sistema pagoPA gli IBAN dei singoli enti per i quali svolge il servizio di riscossione;
-
-  - Ente Creditore che voglia censire sul Sistema pagoPA gli IBAN delle società da esso controllate;
-
-  - Ente Creditore che, in qualità di Unione di Comuni, voglia censire sul Sistema pagoPA gli IBAN degli Enti che lo compongono;
-
-  - Ente Creditore che eroghi in proprio un servizio il cui incasso, per legge, è di spettanza di un'altra amministrazione.
 
 *Parole chiave: PA*
 
