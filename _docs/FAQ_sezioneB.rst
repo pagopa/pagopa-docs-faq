@@ -58,10 +58,6 @@ Pertanto, le Pubbliche Amministrazioni, le società a controllo pubblico e i ges
 dell’attuale articolo 5 del CAD e dell’articolo 15, comma 5bis, del D.L. 179/2012, sono obbligati ad aderire al sistema pagoPA per consentire alla
 loro utenza di eseguire pagamenti elettronici in modalità uniforme nei loro confronti.
 
-Per i soggetti non obbligati, (es. società partecipate ma quotate oppure soggetti che non rivestano la qualifica di gestori di pubblici servizi),
-resta ferma la facoltà di aderire anch’essi al Sistema, per consentire ai loro utenti di beneficiare dei servizi messi a disposizione dai PSP
-aderenti al Sistema pagoPA, previa opportuna istanza e istruttoria da parte di PagoPA S.p.A. che ne valuterà la relativa opportunità.
-
 *Parole chiave: obbligatorietà, PA*
 
 
