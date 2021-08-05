@@ -108,7 +108,7 @@ Quali accorgimenti e indicazioni è necessario tenere in considerazione per la g
 ----------------------------------------------------------------------------------------------------------
 **Il codice IUV è un elemento strutturale dell’intero sistema pagoPA che permette di tracciare il pagamento durante l’intero ciclo di vita**. Si ricorda che:
 
-- per i pagamenti presso l’Ente creditore lo IUV può essere rappresentato da una stringa alfanumerica di massimo 35 caratteri.  È  consigliato l’uso dello standard ISO 11649; 
+- per i pagamenti presso l’Ente creditore lo IUV può essere rappresentato da una stringa alfanumerica di massimo 35 caratteri.  È  consigliato l’uso dello standard ISO 11649;
 
 - per i pagamenti presso il PSP, lo IUV è ricompreso all’interno del Codice Avviso, ed è rappresentato da un stringa di massimo di 18 caratteri esclusivamente numerici.Per maggiori dettagli, si rimanda al paragrafo 2.1 delle *“Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione”*.
 
