@@ -13,20 +13,6 @@ Cosa posso pagare con pagoPA?
 *Parole chiave: oggetti di pagamento*
 
 
-Dove trovo la ricevuta del mio pagamento?
-------------------------------------------------------------
-**Al termine di ogni operazione online, pagoPA ti invia subito l'esito tramite mail.**
-Se il pagamento è andato a buon fine, è la conferma che l'Ente Creditore incasserà l'importo.
-
-**È compito dell'Ente Creditore, invece, rendere disponibile la Ricevuta Telematica (RT), il documento di quietanza che certifica la chiusura della posizione debitoria.**
-
-La Ricevuta Telematica viene solitamente inviata via e-mail entro 1 o 2 giorni o, in alternativa, è disponibile sul sito dell'Ente Creditore.
-
-La ricevuta di pagoPA, comunque, ti aiuta a tenere traccia dei tuoi pagamenti ed è un elemento di prova in caso di eventuali controlli.
-
-*Parole chiave: ricevuta*
-
-
 Ci sono differenze di costo tra i diversi Prestatori di Servizio di Pagamento?
 ------------------------------------------------------------------------------
 Sì. **Ogni Prestatore di Servizi di Pagamento può applicare autonomamente differenti costi**, a seconda delle proprie politiche commerciali e delle condizioni contrattuali dell’utente.
