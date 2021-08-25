@@ -15,12 +15,12 @@ Cosa posso pagare con pagoPA?
 
 Dove trovo la ricevuta del mio pagamento?
 -----------------------------------------
-Se il pagamento è andato a buon fine, pagoPA ti invia un’e-mail che ti conferma l’esito positivo della transazione.
+**Se il pagamento è andato a buon fine, pagoPA ti invia un’e-mail che ti conferma l’esito positivo della transazione.**
 
 È compito dell’Ente Creditore, invece, rendere disponibile la Ricevuta Telematica (RT), il documento che certifica l’incasso.
 La Ricevuta Telematica viene solitamente inviata via e-mail entro 1 o 2 giorni o, in alternativa, è disponibile sul sito dell'Ente Creditore.
 
-La ricevuta di pagoPA, comunque, ti aiuta a tenere traccia dei tuoi pagamenti ed **è un elemento di prova in caso di eventuali controlli e — nella maggior parte dei casi — attesta anche la chiusura della posizione debitoria.**
+**La ricevuta di pagoPA**, comunque, ti aiuta a tenere traccia dei tuoi pagamenti ed **è un elemento di prova in caso di eventuali controlli e — nella maggior parte dei casi — attesta anche la chiusura della posizione debitoria.**
 
 *Parole chiave: ricevuta*
 
