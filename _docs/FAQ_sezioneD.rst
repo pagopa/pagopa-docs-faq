@@ -73,13 +73,11 @@ Nell’ambito del sistema pagoPA, quali documenti occorre conservare a norma?
 
 La conservazione è l’attività finalizzata a proteggere, nel tempo, i documenti informatici e i dati ivi contenuti, assicurandone, tra l’altro, la sicurezza, l’integrità e la non modificabilità, al fine di preservare il valore probatorio del documento informatico e, nel caso specifico di pagoPA, della transazione di pagamento. In quest’ottica, esaminando la natura e le caratteristiche di ciascuno degli elementi che intercorrono nei flussi del sistema pagoPA, si pone l’evidenza su:
 
-- **la Richiesta del Pagamento Telematico**, ossia più in generale la disposizione impartita dal Soggetto Versante al Prestatore di Servizi di Pagamento contenente tutti gli elementi richiesti dall’Ente Creditore beneficiario per innescare il processo di pagamento;
-
-- **la Ricevuta Telematica**, ossia più in generale l’attestazione informatica di avvenuto pagamento predisposta dal Prestatore di Servizi di Pagamento che garantisce l’irrevocabilità del pagamento, a prescindere dallo strumento utilizzato;
-
+- **la Richiesta del Pagamento Telematico**, ossia in generale il documento informatico scambiato sulla piattaforma per impartire la disposizione del Soggetto Versante al Prestatore di Servizi di Pagamento e contenente tutti gli elementi richiesti dall’Ente Creditore beneficiario per innescare il processo di pagamento;
+- **la Ricevuta Telematica**, ossia in generale l’attestazione informatica di avvenuto pagamento scambiata sulla piattaforma e predisposta dal Prestatore di Servizi di Pagamento che garantisce l’irrevocabilità del pagamento, a prescindere dallo strumento utilizzato;
 - **il Flusso di rendicontazione**, ossia il documento informatico, predisposto dal PSP e trasmesso all’Ente Creditore, con cui vengono riepilogati i pagamenti ricevuti. Tale documento, contenente unicamente l’identificativo univoco del versamento (IUV), non ha rilevanza giuridica esterna ma viene utilizzato per facilitare l’attività di riconciliazione dei pagamenti ricevuti in via cumulativa.
 
-**Considerato che la quietanza, fornita dall’Ente Creditore al cittadino, è formata sulla base della ricevuta acquisita dalla piattaforma pagoPA  a fronte della verifica dei dati di pagamenti richiesti da parte dell’EC stesso, si ritiene che, al fine di conservare traccia dell’intera transazione di pagamento, sia opportuno conservare a norma tutti i flussi informativi sia della Ricevuta Telematica, sia della Richiesta del Pagamento Telematico.**
+**Considerato che la quietanza, fornita dall’Ente Creditore al cittadino, è formata sulla base della ricevuta acquisita dalla piattaforma pagoPA a fronte della verifica dei dati di pagamenti richiesti da parte dell’EC stesso, si ritiene che, al fine di conservare traccia dell’intera transazione di pagamento, sia opportuno conservare a norma tutti i flussi informativi sia della Ricevuta Telematica, sia della Richiesta del Pagamento Telematico, pur rimanendo tale scelta a discrezione del singolo EC.**
 
 *Parole chiave: Ricevuta Telematica, rendicontazione, RPT*
 
