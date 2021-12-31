@@ -160,7 +160,7 @@ Soltanto a titolo esemplificativo, si descrivono di seguito dei casi in cui un E
 
 Chi può svolgere il ruolo di Intermediario tecnologico?
 ------------------------------------------------------------------
-Come previsto dal modello di funzionamento, **sia gli Enti Creditori, sia i Prestatori di Servizi di Pagamento, per aderire a pagoPA, possono beneficiare dell’attività di interfaccia già posta in essere da altri soggetti aderenti (c.d. Intermediari tecnologici**). L’Intermediario tecnologico è un soggetto appartenente alla Pubblica Amministrazione che offre - previa adesione alla piattaforma pagoPA - ad altri soggetti aderenti, PSP e/o Enti Creditori, un servizio tecnologico per il collegamento e per lo scambio dei flussi con la piattaforma pagoPA, nel pieno rispetto delle Linee Guida e dei relativi standard tecnici.
+Come previsto dal modello di funzionamento, **sia gli Enti Creditori, sia i Prestatori di Servizi di Pagamento, per aderire a pagoPA, possono beneficiare dell’attività di interfaccia già posta in essere da altri soggetti aderenti (c.d. Intermediari tecnologici**). L’Intermediario tecnologico è un soggetto appartenente alla Pubblica Amministrazione che offre ad altri soggetti aderenti - previa adesione alla piattaforma pagoPA - un servizio tecnologico per il collegamento e per lo scambio dei flussi con la piattaforma pagoPA, nel pieno rispetto delle Linee Guida e dei relativi standard tecnici.
 Pertanto, potranno svolgere il ruolo di Intermediario tecnologico solo soggetti già aderenti al Nodo dei Pagamenti-SPC.
 
 *Parole chiave: PA, Intermediari tecnologici*
