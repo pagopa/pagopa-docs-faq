@@ -295,4 +295,18 @@ Le società a controllo pubblico che non ricevono pagamenti da cittadini o impre
 *Parole chiave: Obbligatorietà*
 
 
+Come riconciliare le posizioni debitorie relative al pagamento Tari/Tefa, per cui la Provincia/Città Metropolitana è beneficiaria?
+----------------------------------------------------------------------------------------------------------------------------------
+Il `D. M. 21 ottobre 2020 <https://www.gazzettaufficiale.it/eli/id/2020/11/06/20A05962/sg>`_ del Ministero dell’economia e delle finanze ha definito le modalità di versamento unificato, per le annualità 2021 e seguenti, della tassa sui rifiuti (TARI), della tariffa corrispettiva e del tributo per l’esercizio delle funzioni di tutela, protezione e igiene dell’ambiente (TEFA) mediante la piattaforma pagoPA. In considerazione di quanto stabilito da tale provvedimento, PagoPA SpA ha introdotto una nuova modalità di generazione dell’avviso cd “multi-beneficiario” che, a fronte di un unico pagamento, comporta l’accredito pro quota delle somme ai rispettivi Enti impositori - Comuni (che avranno un ruolo attivo) per la TARI e Provincia/Città Metropolitana/Regione (che avranno un ruolo passivo) per la TEFA.
+Pertanto la Provincia/Città Metropolitana, in qualità di Ente impositore della TEFA, dovrà comunicare ai comuni del proprio territorio di competenza l’**IBAN di accredito del tributo TEFA**, avendo cura di verificare che tale IBAN corrisponda ad uno di quelli censiti sulla Piattaforma pagoPA (cfr. `Manuale Utente del Portale delle Adesioni <https://docs.pagopa.it/portale-delle-adesioni/>`_, in particolare, la sezione relativa al censimento degli IBAN è al punto 4.6.2.8 “Attivazione e gestione degli IBAN (RP)”).
+
+A fronte del pagamento effettuato dall’utente, la Provincia/Città metropolitana potrà rendicontare in maniera analitica gli incassi TEFA solo se risulta attiva sulla stazione di broadcast del nuovo modello 3 “multi-beneficiario” effettuando una riconciliazione cumulativa per CF dell’Ente beneficiario primario (Comune) senza necessità di riconciliare puntualmente ogni singola posizione debitoria. In altri termini, l’adeguamento dell’Ente beneficiario secondario (Provincia/Città Metropolitana) al nuovo modello 3 - “Multi Beneficiario” è pre-condizione necessaria per la riconciliazione cumulativa per CF dell’Ente beneficiario primario (Comune) senza necessità di riconciliazione puntuale per ogni singola posizione debitoria.
+
+Al contrario, nelle more dell’adeguamento al nuovo modello, la Provincia/Città Metropolitana riuscirà ad effettuare le operazioni di riconciliazione solo manualmente e previa richiesta dell’elenco delle ricevute al singolo Ente beneficiario che ha emesso le posizioni.
+Nel caso in cui, infatti, la Provincia/Città Metropolitana non abbia ancora attivato la stazione di broadcast sul nuovo modello 3 Multi-Beneficiario, è necessario che quest’ultimo richieda l’elenco delle ricevute ad ogni singolo Ente beneficiario che ha emesso le posizioni effettuando la riconciliazione manualmente. In altri termini sarà necessario verificare la corrispondenza fra il totale dell’importo TEFA dichiarato dall’Ente beneficiario principale e quanto ricevuto nei flussi di rendicontazione dall’Ente beneficiario secondario. 
+
+
+*Parole chiave: Riconciliazione contabile, Province/Città Metropolitane*
+
+
 .. |pagoPA_logo| image:: media/logo-pagopa-small-trasp.png
