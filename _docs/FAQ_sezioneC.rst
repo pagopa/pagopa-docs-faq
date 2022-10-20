@@ -145,15 +145,19 @@ Infine, si evidenzia che, ai sensi dell’articolo 2, punto 39, del Decreto legi
 
 Un Ente Creditore può censire sul sistema pagoPA degli IBAN inerenti dei conti correnti a lui non intestati?
 ------------------------------------------------------------------------------------------------------------
-**In via generale, sul sistema pagoPA ogni Ente Creditore è chiamato - per la gestione degli incassi inerenti i servizi erogati - a censire almeno un IBAN di un conto corrente a lui intestato**. **Per tale attività di censimento e aggiornamento dei conti correnti, il singolo Ente Creditore nomina il proprio Referente dei Pagamenti, che si assume ogni responsabilità per quanto comunicato, in nome e per conto dell’Ente Creditore di riferimento, sul Portale delle Adesioni**.
- 
-Tale premessa è necessaria per precisare che, in considerazione del ruolo e delle funzioni del Referente dei Pagamenti, PagoPA S.p.A. consente - previo invio tramite email (pagamenti@assistenza.pagopa.it) della specifica dichiarazione e previa verifica della fattibilità da parte della stessa PagoPA S.p.A. - a un Ente Creditore di censire anche IBAN inerenti dei conti correnti a lui non intestati. 
-Tali IBAN devono però appartenere a soggetti terzi che abbiano comunque un rapporto in essere con l’Ente Creditore per l’erogazione di specifici servizi, e, al contempo, abbiano in essere un collegamento telematico che, ancorché fuori dal Sistema pagoPA, consenta al soggetto terzo di ricevere i flussi informativi scambiati sul sistema pagoPA.
-Soltanto a titolo esemplificativo, si descrivono di seguito dei casi in cui un Ente Creditore può censire IBAN inerenti conti correnti a lui non intestati:
+Come dettagliato nella FAQ *“Come gestire il rapporto tra Ente Creditore e Riscossore Delegato?”* ogni Ente Creditore sul Sistema pagoPA è chiamato - per la gestione degli incassi inerenti i servizi erogati - a censire almeno un IBAN di un conto corrente a lui intestato.
 
-- Ente Creditore che voglia censire sul Sistema pagoPA gli IBAN delle società da esso controllate;
+E’ tuttavia possibile che si verifichino delle situazioni in cui l’Ente Creditore possa censire anche IBAN di conti correnti a lui non intestati, previo invio tramite email (pagamenti@assistenza.pagopa.it) della specifica dichiarazione e previa verifica della fattibilità da parte della stessa PagoPA S.p.A.
+Tali IBAN devono, però, appartenere a soggetti terzi che abbiano comunque un rapporto in essere con l’Ente Creditore per l’erogazione di specifici servizi, e, al contempo, abbiano in essere un collegamento telematico che, ancorché fuori dal Sistema pagoPA, consenta al soggetto terzo di ricevere i flussi informativi scambiati sul Sistema pagoPA. 
+
+Si descrivono di seguito i casi in cui un Ente Creditore può censire IBAN inerenti conti correnti a lui non intestati:
+
+- Ente Creditore che voglia censire sul Sistema pagoPA gli IBAN delle società da esso controllate (es. una *in-house* del Comune);
 - Ente Creditore che, in qualità di Unione di Comuni, voglia censire sul sistema pagoPA gli IBAN degli Enti che lo compongono;
-- Ente Creditore che eroghi in proprio un servizio il cui incasso, per legge, è di spettanza di un’altra amministrazione.
+- Ente Creditore che, in qualità di società partecipata in via maggioritaria da una Pubblica Amministrazione, voglia censire un IBAN intestato alla Pubblica Amministrazione stessa, poiché quest’ultima è la beneficiaria del credito.
+
+Queste tipologie sono da considerarsi le uniche casistiche per le quali è possibile il censimento di IBAN di soggetti terzi rispetto alla normativa vigente relativa alla riscossione delegata.
+
 
 *Parole chiave: PA, IBAN*
 
@@ -208,13 +212,6 @@ Precisato quanto appena esposto, **si rappresenta che gli ordini professionali s
 *Parole chiave: Obbligatorietà*
 
 
-Se un Ente decide di delegare l’incasso di tutti i pagamenti in suo favore ad un soggetto riscossore, deve comunque aderire al sistema pagoPA?
-----------------------------------------------------------------------------------------------------------------------------------------------------
-Si. Pur avendo delegato tutti i servizi, **l’Ente deve comunque eseguire le attività di regolamento degli incassi effettuati sui propri conti mediante il pagamento pagoPA**.
-
-*Parole chiave: PA, Riscossioni*
-
-
 Gli Enti di previdenza sono obbligati ad aderire a pagoPA?
 ---------------------------------------------------------------
 
@@ -236,22 +233,6 @@ Ogni altra forma di incasso deve essere gestita sulla piattaforma pagoPA.
 
 
 *Parole chiave: Girofondi, Pagamenti*
-
-
-Come deve eseguire un Ente Creditore l’attività di riversamento ad altro ente?
-------------------------------------------------------------------------------------
-
-La legge di Bilancio del 2020 (l. n. 160 del dicembre 2019), ai commi 784-815, dell’art. 1, ha recato una complessiva riforma della riscossione degli enti locali.
-
-Tra le numerose modifiche, vi è quella che attiene alla disciplina del versamento diretto delle entrate degli Enti Locali, con la previsione che “tutte le somme a qualsiasi titolo riscosse appartenenti agli enti locali affluiscano direttamente alla tesoreria dell’ente”. Altresì la Circolare n. 3/DF del Ministero dell’Economia e delle Finanze, precisa che, *"ai sensi dell’art. 2-bis del D.L. n. 193 del 2016 e dell’art. 1, comma 788 della legge n. 160 del 2019, sono escluse le attività di incasso diretto da parte dei soggetti affidatari privati, con la conseguenza che questi ultimi non possono essere mai considerati enti creditori"* salvo i casi che prevedono la possibilità di inviare la specifica dichiarazione.
-
-Ne consegue che in linea di principio i riscossori, salvo casi particolari, non possono configurarsi come “Ente Creditore” e censire le proprie coordinate bancarie, per cui l’attività di riversamento viene meno; qualora questi, invece, rientrino tra i casi specifici per cui è possibile configurarsi come Ente Creditore dovranno censire comunque gli IBAN dei soggetti titolari dei credito e mai i propri.
-
-Per tutti quei casi in cui continua a permanere la vecchia impostazione oppure per legge è possibile che il Riscossore risulti ancora “Ente Creditore” (vedi la non applicabilità obbligatoria della legge di cui sopra agli Enti non locali), i Riscossori dovranno effettuare l’attività di riversamento esclusivamente mediante la piattaforma pagoPA.
- 
-
-
-*Parole chiave: Riversamento, multi beneficiario*
 
 
 Le strutture sanitarie private che operano in regime di accreditamento al servizio nazionale sono obbligate ad aderire a pagoPA?
@@ -307,6 +288,46 @@ Nel caso in cui, infatti, la Provincia/Città Metropolitana non abbia ancora att
 
 
 *Parole chiave: Riconciliazione contabile, Province/Città Metropolitane*
+
+
+Come gestire il rapporto tra Ente Creditore e Riscossore Delegato?
+-------------------------------------------------------------------
+
+Come  noto, la normativa consente ai singoli Enti Creditori di affidare a soggetti terzi (c.d. Riscossori Delegati), la riscossione di alcuni tributi. Ciò  si concretizza nell'attività di accertamento, liquidazione e incasso di quanto di spettanza dell'Ente Creditore.
+Con specifico riferimento alla fase dell’incasso, sia il Riscossore Delegato, quale soggetto affidatario delle entrate dell’Ente Creditore, sia l'Ente Creditore, quale beneficiario ultimo di tali stesse entrate, sono obbligati a mettere a disposizione dei pagatori i servizi di pagamento della piattaforma pagoPA.
+
+In generale, la piattaforma pagoPA permette ad un beneficiario di configurarsi come **Ente Creditore, in quanto soggetto impositivo** a cui spetta una somma in pagamento, a prescindere dal fatto che per tale pagamento venga utilizzato, ai fini dell’accredito o meno, un conto corrente intestato allo stesso Ente Creditore.
+
+In altri termini, un soggetto può risultare Ente Creditore ma abilitare che i pagamenti in suo favore siano accreditati su un conto corrente intestato a terzi.  
+
+In via generale, infatti, sul Sistema pagoPA ogni Ente Creditore è chiamato - per la gestione degli incassi inerenti i servizi erogati - a censire almeno un IBAN di un conto corrente. Per l’attività di censimento e aggiornamento dei conti correnti, il singolo Ente Creditore nomina il proprio Referente dei Pagamenti, che si assume ogni responsabilità per quanto comunicato, in nome e per conto dell’Ente Creditore di riferimento, sul Portale delle Adesioni.
+
+Le funzionalità sin qui esposte della piattaforma pagoPA possono trovare delle limitazioni ove sussista un divieto normativo che il singolo Ente Creditore è chiamato a rispettare.
+In merito, proprio nella materia della riscossione delegata, è necessario richiamare la riforma apportata dal legislatore in materia di riscossione (sia spontanea che coattiva) degli Enti Locali (legge n. 160 del dicembre 2019 “legge di Bilancio del 2020”, articolo 1, commi 784-815).
+Tra le numerose modifiche, vi è, infatti, quella che attiene alla disciplina del versamento diretto delle entrate degli Enti Locali, con la previsione che *“tutte le somme a qualsiasi titolo riscosse appartenenti agli enti locali affluiscano direttamente alla tesoreria dell’ente”*. Altresì la Circolare n. 3/DF del Ministero dell’Economia e delle Finanze, precisa che *«ai sensi dell’art. 2-bis del D.L. n. 193 del 2016 e dell’art. 1, comma 788 della legge n. 160 del 2019, sono escluse le attività di incasso diretto da parte dei soggetti affidatari privati, con la conseguenza che questi ultimi non possono essere mai considerati enti creditori»*, salvo i casi che prevedono la possibilità di inviare la specifica dichiarazione.
+
+Fatte le dovute premesse anche normative, con l’obiettivo di risultare compliant alla normativa di riferimento e al contempo uniformare le modalità di operatività sulla piattaforma pagoPA degli Enti sul territorio, si riportano di seguito le casistiche configurabili:
+
+**1) Ente Creditore (Stazione Appaltante del servizio di riscossione delegata) è un Ente Locale oppure un Ente non Locale**
+
+Qualora l'Ente Creditore sia un Ente Locale o non Locale è  obbligato ad incassare esclusivamente su IBAN di conti correnti a lui intestati (c.d. conto corrente di tesoreria e/o conto corrente postale ancillare al servizio di tesoreria e cassa). Ne consegue l’impossibilità: 
+
+- i) per l’Ente Creditore di censire IBAN del Riscossore Delegato e dunque l'utilizzabilità della funzione per gli Enti Creditori di censire IBAN di soggetti terzi per tali specifiche entrate oggetto di riscossione delegata;
+- ii) per il Riscossore Delegato di configurarsi come Ente Creditore e di incassare su IBAN a lui intestati per tali specifiche entrate oggetto di riscossione delegata.
+Il Riscossore Delegato, in queste casistiche, come anche segnalato per gli Enti Locali dal Ministero nella Circolare n. 3/DF, può qualificarsi come Partner tecnologico dell'Ente Creditore, gestendo l’erogazione del servizio senza incasso diretto su IBAN intestati al Riscossore Delegato, ma gestendo gli incassi che tramite la piattaforma pagoPA vengono accreditati su IBAN intestati all’Ente Creditore.
+Ovviamente in tale casistica, stante l’obbligo di uso esclusivo di IBAN intestati all’Ente Creditore (a prescindere che l’Ente sia Locale o non Locale), non è configurabile in  alcun modo alcuna forma di ri-versamento da parte del Riscossore Delegato nei confronti dell'Ente, in quanto gli unici IBAN censibili sulla piattaforma pagoPA sono, appunto, quelli intestati all’Ente Creditore.
+
+**2) Preventiva cessione del credito in favore di un Riscossore Delegato**
+
+Qualora un Ente (Locale o non Locale), anziché affidare il servizio di riscossione a terzi, abbia invece ceduto il credito ad un Riscossore Delegato, quest’ultimo risulterà essere il solo e unico creditore di tali entrate e, pertanto, il Riscossore Delegato (a seconda che risulti obbligato o meno ad aderire a pagoPA; cfr. FAQ *“Quali sono i riferimenti normativi in materia di pagamenti elettronici a favore della PA?"*) dovrà e/o potrà configurarsi sulla piattaforma pagoPA come Ente Creditore e censire IBAN a lui intestati.
+
+**Conclusioni**
+
+Si precisa che l’affidamento dell’incasso ad un Riscossore Delegato non rientra tra le cause di esenzione dall’adesione alla piattaforma pagoPA da parte della Stazione Appaltante, in quanto quest’ultima, come detto, nella fattispecie 1) deve configurarsi come Ente Creditore per gli incassi oggetto dell’affidamento al Riscossore Delegato, così come anche per gli ulteriori incassi in suo favore non oggetto dell’affidamento al Riscossore Delegato. 
+Allo stesso modo, il Riscossore Delegato, per l’incasso dei crediti acquisiti a seguito di cessione del credito come da punto 2), dovrà e/o potrà aderire in proprio a pagoPA e dare la possibilità ai cittadini di effettuare i pagamenti mediante la piattaforma.
+
+Infine, per ragioni di mera completezza, si segnala che ogni riferimento nel presente testo all’attività di riscossione comprende sia la riscossione spontanea, sia quella coattiva.
+
 
 
 .. |pagoPA_logo| image:: media/logo-pagopa-small-trasp.png
