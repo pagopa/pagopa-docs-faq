@@ -283,6 +283,16 @@ Pertanto la Provincia/Città Metropolitana, in qualità di Ente impositore della
 
 A fronte del pagamento effettuato dall’utente, la Provincia/Città metropolitana potrà rendicontare in maniera analitica gli incassi TEFA solo se risulta attiva sulla stazione di broadcast del nuovo modello 3 “multi-beneficiario” effettuando una riconciliazione cumulativa per CF dell’Ente beneficiario primario (Comune) senza necessità di riconciliare puntualmente ogni singola posizione debitoria. In altri termini, l’adeguamento dell’Ente beneficiario secondario (Provincia/Città Metropolitana) al nuovo modello 3 - “Multi Beneficiario” è pre-condizione necessaria per la riconciliazione cumulativa per CF dell’Ente beneficiario primario (Comune) senza necessità di riconciliazione puntuale per ogni singola posizione debitoria.
 
+Pagopa S.p.a, per agevolare la riconciliazione da parte delle Province, ha provveduto ad inserire  degli appositi metadati nel flusso di riconciliazione. Il set minimo di informazioni previsto è composto da: 
+
+- CAPITOLO DI BILANCIO: elemento del bilancio dell'EC a cui viene imputata l'entrata;
+- ARTICOLO DI BILANCIO: elemento del bilancio dell'EC a cui viene imputata l'entrata;
+- CODICE ACCERTAMENTO: codice per identificare l'accertamento;
+- ANNO RIFERIMENTO: annualità di riferimento.
+
+L’Ente, pertanto, dovrà procedere secondo modalità diverse rispetto a quelle degli altri suoi incassi e, per poter usufruire di questa soluzione semplificata, dovrà  necessariamente integrarsi al nuovo modello unico.
+
+
 Al contrario, nelle more dell’adeguamento al nuovo modello, la Provincia/Città Metropolitana riuscirà ad effettuare le operazioni di riconciliazione solo manualmente e previa richiesta dell’elenco delle ricevute al singolo Ente beneficiario che ha emesso le posizioni.
 Nel caso in cui, infatti, la Provincia/Città Metropolitana non abbia ancora attivato la stazione di broadcast sul nuovo modello 3 Multi-Beneficiario, è necessario che quest’ultimo richieda l’elenco delle ricevute ad ogni singolo Ente beneficiario che ha emesso le posizioni effettuando la riconciliazione manualmente. In altri termini sarà necessario verificare la corrispondenza fra il totale dell’importo TEFA dichiarato dall’Ente beneficiario principale e quanto ricevuto nei flussi di rendicontazione dall’Ente beneficiario secondario. 
 
