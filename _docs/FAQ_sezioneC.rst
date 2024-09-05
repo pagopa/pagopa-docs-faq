@@ -147,7 +147,7 @@ Un Ente Creditore può censire sul sistema pagoPA degli IBAN inerenti dei conti 
 ------------------------------------------------------------------------------------------------------------
 Come dettagliato nella FAQ *“Come gestire il rapporto tra Ente Creditore e Riscossore Delegato?”* ogni Ente Creditore sul Sistema pagoPA è chiamato - per la gestione degli incassi inerenti i servizi erogati - a censire almeno un IBAN di un conto corrente a lui intestato.
 
-E’ tuttavia possibile che si verifichino delle situazioni in cui l’Ente Creditore possa censire anche IBAN di conti correnti a lui non intestati, previo invio tramite email (pagamenti@assistenza.pagopa.it) della specifica dichiarazione e previa verifica della fattibilità da parte della stessa PagoPA S.p.A.
+E’ tuttavia possibile che si verifichino delle situazioni in cui l’Ente Creditore possa censire anche IBAN di conti correnti a lui non intestati, previo invio della specifica dichiarazione (attraverso l'`Area Riservata <https://www.pagopa.it/it/area-riservata/>`_utilizzando lo specifico modulo dopo l'accesso) e previa verifica della fattibilità da parte della stessa PagoPA S.p.A.
 Tali IBAN devono, però, appartenere a soggetti terzi che abbiano comunque un rapporto in essere con l’Ente Creditore per l’erogazione di specifici servizi, e, al contempo, abbiano in essere un collegamento telematico che, ancorché fuori dal Sistema pagoPA, consenta al soggetto terzo di ricevere i flussi informativi scambiati sul Sistema pagoPA. 
 
 Si descrivono di seguito i casi in cui un Ente Creditore può censire IBAN inerenti conti correnti a lui non intestati:
