@@ -11,8 +11,6 @@ Domande frequenti sul sistema pagoPA
    :maxdepth: 1
 
    _docs/Glossario.rst
-   _docs/FAQ_sezioneA.rst
-   _docs/FAQ_sezioneB.rst
    _docs/FAQ_sezioneC.rst
    _docs/FAQ_sezioneD.rst
 
